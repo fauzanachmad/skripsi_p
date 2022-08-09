@@ -40,3 +40,23 @@ paths:
           description: Sucessfully post title
         400:
           description: Invalid request
+  /report/clasification:
+    get:
+      operationId: controller.text_mining.classification_get
+      tags:
+        - classification report
+      summary: Retrieves classification report
+      description: Displays classification report
+      responses:
+        200:
+          description: See a classification report
+  /report/confusion-matrix:
+    get:
+      operationId: controller.text_mining.confusion_get
+      tags:
+        - confussion matrix
+      summary: Retrieves confussion matrix
+      description: Displays confussion matrix
+      responses:
+        200:
+          description: See a confussion matrix

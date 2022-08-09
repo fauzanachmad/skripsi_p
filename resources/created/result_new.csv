@@ -1,0 +1,2000 @@
+id,title,view,label
+0,"['alhamdulillah', 'pekan', 'ramadhan', 'pandemi', 'konsisten', 'baik']",4248,populer
+1,"['pergi', 'pamit', 'mancing', 'pulang', 'tinggal', 'nama']",12852,populer
+2,"['jatim', 'park', 'group', 'kota', 'batu', 'hadir', 'semarak', 'libur', 'imlek']",7958,populer
+3,"['jalin', 'sinergi', 'tim', 'lemhanas', 'ri', 'kunjung', 'kampus', 'ma', 'chung']",746,populer
+4,"['laden', 'persija', 'arema', 'fc', 'matang', 'setpiece']",14179,populer
+5,"['pecah', 'rekor', 'bts', 'butter', 'puncak', 'billboard', 'minggu', 'berturutturut']",10457,populer
+6,"['digitex', 'property', 'knc', 'diskon', 'rp', 'juta']",12067,populer
+7,"['pemkot', 'malang', 'alokasi', 'rp', 'pju']",9239,populer
+8,"['tips', 'cod', 'cash', 'on', 'duel']",6193,populer
+9,"['baik', 'jalan', 'vs', 'jalur', 'sepeda', 'kota', 'malang', 'hasil']",10508,populer
+10,"['vaksinasi', 'remaja', 'kota', 'batu', 'tuntas', 'persen']",5804,populer
+11,"['hujan', 'tani', 'kota', 'batu', 'cegah', 'hasil', 'panen', 'susut']",790,populer
+12,"['anjing', 'bulldog', 'lady', 'gaga', 'hilang', 'ketemu']",3920,populer
+13,"['akun', 'tiktok', 'bts', 'kena', 'hack', 'gemar', 'langsung']",10948,populer
+14,"['viral', 'pria', 'pecah', 'kaca', 'mobil', 'larang', 'mudik']",2115,populer
+15,"['polresta', 'malang', 'bekuk', 'predator', 'anak', 'laku', 'latih', 'tari', 'modus']",5652,populer
+16,"['sebal', 'dengar', 'sirine', 'pria', 'bantul', 'rusak', 'mobil', 'ambulans']",722,populer
+17,"['malang', 'dahlan', 'iskan', 'ingat', 'usaha', 'waspada', 'politik']",2227,populer
+18,"['pulih', 'ekonomi', 'bas', 'ecommerce', 'kota', 'malang', 'ganjar', 'prestasi']",6682,populer
+19,"['lahan', 'nila', 'rp', 'miliar']",3653,populer
+20,"['gempa', 'sr', 'guncang', 'malang', 'raya', 'potensi', 'tsunami']",2385,populer
+21,"['komda', 'kipi', 'tangan', 'buta', 'warga', 'malang', 'vaksin']",5001,populer
+22,"['wisata', 'air', 'panas', 'cangar', 'kota', 'batu', 'lengkap', 'layan', 'vip']",8844,populer
+23,"['janda', 'lahir', 'malang', 'raya']",11499,populer
+24,"['selebrasi', 'lomba', 'warna', 'mom', 'and', 'kidz', 'malang', 'sukses']",11193,populer
+25,"['minimalisir', 'tular', 'covid', 'polres', 'malang', 'optimal', 'drive', 'thru']",4655,populer
+26,"['samsuga', 'mfc', 'ajar', 'isu', 'utama', 'terjun', 'fashion']",2554,populer
+27,"['inspirasi', 'busana', 'auto', 'pusat', 'perhati']",2627,populer
+28,"['pakar', 'pandemi', 'debat', 'publik', 'efektif', 'tarik', 'calon', 'pilih']",9068,populer
+29,"['pemda', 'malang', 'raya', 'genjot', 'serta', 'bpjs', 'ketenagakerjaan']",9252,populer
+30,"['lestari', 'tradisi', 'nyadran', 'airlangga', 'ziarah', 'makam', 'keluarga', 'astana', 'oetara']",1336,populer
+31,"['ulang', 'yeri', 'red', 'velvet', 'donasi', 'rp', 'juta', 'bayi', 'lantar']",3327,populer
+32,"['pandemi', 'sman', 'kota', 'malang', 'cipta', 'gudang', 'inovasi']",9784,populer
+33,"['marvel', 'rilis', 'trailer', 'superhero', 'asia', 'shangchi']",12598,populer
+34,"['prioritas', 'pemkot', 'malang', 'gapai', 'zona', 'kuning']",9422,populer
+35,"['edar', 'gwa', 'razia', 'siswa', 'masker', 'pemkot', 'malang']",13577,populer
+36,"['elektronifikasi', 'transaksi', 'pemda', 'dukung', 'baik', 'kelola', 'uang']",8919,populer
+37,"['bank', 'syariah', 'indonesia', 'bawa', 'misi', 'pusat', 'ekonomi', 'syariah', 'dunia']",14900,populer
+38,"['nekat', 'konvoi', 'hut', 'arema', 'puluh', 'aremania', 'cegat', 'polisi']",8473,populer
+39,"['muslim', 'malang', 'raya', 'demo', 'solidaritas', 'palestina']",3479,populer
+40,"['cek', 'fakta', 'jokowi', 'pulang', 'kampung', 'larang', 'mudik']",2029,populer
+41,"['daftar', 'atur', 'ppdb', 'kota', 'malang']",4307,populer
+42,"['gedung', 'runtuh', 'timpa', 'bus', 'sembilan', 'orang', 'tewas']",8228,populer
+43,"['digitalisasi', 'sertifikasi', 'halal', 'kunci', 'kembang', 'umkm']",6879,populer
+44,"['tim', 'pantau', 'pilkada', 'independen', 'temu', 'baliho', 'nakal']",10578,populer
+45,"['tren', 'covid', 'lonjak', 'polinema', 'tetap', 'sistem', 'kuliah', 'hybrid']",8260,populer
+46,"['catat', 'besok', 'polresta', 'malang', 'kota', 'gelar', 'operasi', 'zebra']",4453,populer
+47,"['liga', 'tunda', 'arema', 'harap', 'jelas', 'subsidi']",11490,populer
+48,"['young', 'and', 'movement', 'bangkit', 'ikm', 'milenial', 'kota', 'malang']",1607,populer
+49,"['sumber', 'air', 'torong', 'park', 'wisata']",7472,populer
+50,"['musda', 'ppni', 'bahas', 'sejahtera', 'awat']",8238,populer
+51,"['mtsn', 'malang', 'resmi', 'gedung', 'ma', 'had']",7044,populer
+52,"['hamil', 'puasa', 'jawab']",8695,populer
+53,"['raya', 'masyarakat', 'jepang']",10933,populer
+54,"['pemkot', 'malang', 'usul', 'tambah', 'kuota', 'guru', 'pppk']",3368,populer
+55,"['bri', 'peduli', 'bantu', 'kelola', 'sampah', 'padu', 'edukasi', 'lingkung', 'bersih']",2150,populer
+56,"['panas', 'jelang', 'hut', 'bri', 'gelar', 'sayembara', 'desain', 'logo']",13784,populer
+57,"['covid', 'update']",13916,populer
+58,"['duh', 'salur', 'drainase', 'sarang', 'bangun', 'liar']",10431,populer
+59,"['paslon', 'independen', 'lapor', 'komisioner', 'kpu', 'dkpp']",13235,populer
+60,"['dimensi', 'wajib', 'asai', 'influencer', 'muslimah', 'catat']",8606,populer
+61,"['menara', 'garling', 'benda', 'sejarah', 'kota', 'malang', 'cagar', 'budaya']",11200,populer
+62,"['sengketa', 'milik', 'sardo', 'luas']",6520,populer
+63,"['raya', 'skateboarding', 'day', 'seluncur', 'gelar', 'atraksi', 'matos']",11458,populer
+64,"['jalan', 'basuki', 'rahmat', 'tutup', 'total', 'jawab']",2958,populer
+65,"['konsisten', 'daya', 'zakat', 'airlangga', 'raih', 'harga', 'baznas', 'award']",11662,populer
+66,"['lathifah', 'suara', 'muslimat', 'fatayat', 'ladub', 'nomor']",6035,populer
+67,"['malang', 'plaza', 'tutup', 'dagang', 'handphone', 'jual', 'pinggir', 'jalan']",10326,populer
+68,"['agen', 'brilink', 'agen', 'bank', 'dorong', 'inklusi', 'uang', 'indonesia']",10360,populer
+69,"['selamat', 'trotoar', 'kota', 'malang']",12373,populer
+70,"['lindung', 'asuransi', 'milenial', 'wajib', 'fakta']",3717,populer
+71,"['insipirasi', 'giat', 'hilang', 'stress', 'ramah', 'kantong']",14107,populer
+72,"['bts', 'raih', 'nominasi', 'grammy', 'awards', 'sejarah']",11335,populer
+73,"['wujud', 'program', 'juta', 'rumah', 'kadin', 'kerjasama', 'perintah']",12991,populer
+74,"['satreskrim', 'polresta', 'malang', 'periksa', 'saksi', 'pungli', 'makam', 'covid']",4952,populer
+75,"['himpun', 'dana', 'janji', 'cuan', 'oknum', 'guru', 'tangkap', 'polisi']",15000,populer
+76,"['bahan', 'alami', 'hilang', 'komedo', 'bandel']",1491,populer
+77,"['gojek', 'target', 'zero', 'emissions', 'zero', 'waste', 'zero', 'barriers']",14985,populer
+78,"['unira', 'malang', 'kuat', 'pilar', 'cetak', 'mahasiswa', 'kompetitif']",4106,populer
+79,"['besok', 'calon', 'jabat', 'pemkot', 'batu', 'jalan', 'uji', 'gagas', 'wawancara']",6492,populer
+80,"['pasca', 'bunuh', 'rumah', 'kosong', 'gondanglegi', 'angker']",738,populer
+81,"['lini', 'singo', 'edan', 'rawan', 'kena', 'hukum', 'akumulasi', 'kartu']",839,populer
+82,"['lambat', 'laju', 'covid', 'mahasiswa', 'um', 'gelar', 'riset', 'lintas', 'studi']",9715,populer
+83,"['walhi', 'kritisi', 'ranperda', 'konservasi', 'lingkung', 'rth', 'kota', 'batu']",9891,populer
+84,"['kuasa', 'afghanistan', 'talib', 'balas', 'dendam']",11542,populer
+85,"['sembuh', 'pasien', 'covid', 'malang', 'lebih', 'persen', 'mayoritas', 'jalan', 'isoman']",2819,populer
+86,"['unisma', 'harap', 'pimpin', 'nu', 'lokomotif', 'ubah']",9294,populer
+87,"['sanusi', 'janji', 'jalan', 'desa', 'muluslus']",14932,populer
+88,"['pmm', 'umm', 'kelompok', 'gelombang', 'edukasi', 'iptek', 'pa', 'nurul', 'hidayah', 'junrejo']",824,populer
+89,"['perban', 'syariah', 'uin', 'malang', 'favorit', 'calon', 'maba', 'jalur', 'span', 'ptkin']",1730,populer
+90,"['menko', 'airlangga', 'bijak', 'mandatori', 'untung', 'tani', 'sawit']",13896,populer
+91,"['klaster', 'hajat', 'warga', 'sumbermanjing', 'wetan', 'malang', 'positif', 'covid']",7748,populer
+92,"['guru', 'kota', 'batu', 'tolak', 'vaksin', 'kena', 'sanksi']",6981,populer
+93,"['kipp', 'ingat', 'paslon', 'pilbup', 'malang', 'taat', 'atur', 'kampanye']",14110,populer
+94,"['sma', 'dempo', 'malang', 'buka', 'daftar', 'ppdb']",883,populer
+95,"['ppkm', 'mikro', 'kota', 'malang', 'warga', 'diri', 'posko']",3240,populer
+96,"['libur', 'nataru', 'wali', 'kota', 'batu', 'ancam', 'tutup', 'usaha', 'langgar', 'prokes']",6955,populer
+97,"['pemkot', 'malang', 'kerah', 'vaksinator', 'puskesmas']",2868,populer
+98,"['gopay', 'bank', 'jago', 'hadir', 'mudah', 'akses', 'perban', 'digital']",13269,populer
+99,"['uak', 'bisnis', 'hitam', 'jual', 'dokumen', 'covid', 'jelang', 'mudik', 'lebaran']",8107,populer
+100,"['covid', 'landai', 'wajib', 'pajak', 'dongkrak', 'drastis']",7339,populer
+101,"['nyawa', 'warga', 'kota', 'batu', 'rengut', 'covid']",13724,populer
+102,"['kabar', 'gembira', 'lur', 'landai', 'pasien', 'covid', 'isoter', 'skb', 'turun']",4132,populer
+103,"['virus', 'covid', 'serang', 'hakim', 'adil', 'bas', 'sidang', 'ikut', 'tunda']",4818,populer
+104,"['sembuh', 'pasien', 'covid', 'malang', 'lebih', 'persen', 'mayoritas', 'jalan', 'isoman']",12884,populer
+105,"['virus', 'covid', 'serang', 'hakim', 'adil', 'bas', 'sidang', 'ikut', 'tunda']",7940,populer
+106,"['korban', 'covid', 'lonjak', 'jalan', 'macet', 'okupansi', 'hotel']",609,populer
+107,"['covid', 'kabupaten', 'malang', 'landai', 'kunci']",7540,populer
+108,"['datang', 'sidik', 'lancong', 'covid', 'viral', 'ngaku', 'kapok', 'up', 'load', 'medsos', 'sembarang']",7753,populer
+109,"['kendali', 'aktif', 'covid', 'akselerasi', 'vaksinasi', 'disiplin', 'prokes']",10248,populer
+110,"['edukasi', 'mahasiswa', 'umm', 'sabet', 'medali', 'nasional', 'poster', 'cegah', 'covid']",11291,populer
+111,"['covid', 'malang', 'ganas', 'unisma', 'kuliah', 'daring']",7997,populer
+112,"['membludak', 'pasien', 'covid', 'isoter', 'ijen', 'geser', 'skb']",13867,populer
+113,"['gelar', 'vaksinasi', 'booster', 'unpar', 'kontribusi', 'ula', 'cegah', 'sebar', 'covid']",1448,populer
+114,"['tambah', 'nakes', 'guru', 'papar', 'covid']",3903,populer
+115,"['covid', 'pakis', 'tinggi', 'kabupaten']",14334,populer
+116,"['laboratorium', 'khusus', 'covid', 'malang', 'sulit', 'deteksi', 'omicron', 'alas']",7130,populer
+117,"['covid', 'kabupaten', 'malang', 'tinggi', 'empat', 'sejatim']",7263,populer
+118,"['siswa', 'papar', 'covid', 'jalan', 'isoman', 'smpn', 'lanjut', 'ptm']",1673,populer
+119,"['dosenmahasiswa', 'papar', 'covid', 'fakultas', 'um', 'henti', 'kuliah', 'tatap', 'muka']",5529,populer
+120,"['anggap', 'resah', 'warga', 'blimbing', 'kota', 'malang', 'tolak', 'isoter', 'pasien', 'covid']",7714,populer
+121,"['kisah', 'pandemi', 'mahasiswi', 'asing', 'um', 'kena', 'covidwisatanya', 'pantai']",2611,populer
+122,"['tambah', 'pasien', 'covid', 'lanjut', 'waspada', 'klaster']",3348,populer
+123,"['perintah', 'kota', 'malang', 'izin', 'ptm', 'covid', 'tinggi']",711,populer
+124,"['covid', 'kota', 'malang', 'lonjak', 'polisi', 'tutup', 'akses', 'jalan']",2881,populer
+125,"['ditracing', 'warga', 'kota', 'malang', 'positif', 'covid', 'dinkes', 'pasti', 'omicron']",4507,populer
+126,"['kabar', 'badai', 'covid', 'tim', 'arema', 'fc']",11238,populer
+127,"['usir', 'tim', 'tracing', 'covid', 'kapolresta', 'malang', 'pidana']",10945,populer
+128,"['wuss', 'aktif', 'positif', 'covid', 'kota', 'malang', 'tingkat']",12907,populer
+129,"['phobia', 'covid', 'media']",12882,populer
+130,"['main', 'positif', 'covid', 'arema', 'fc', 'pantang', 'mundur', 'jadwal', 'liga']",13960,populer
+131,"['waspada', 'lurr', 'kota', 'malang', 'tinggi', 'covid', 'jatim']",6937,populer
+132,"['covid', 'tambah', 'pemkot', 'malang', 'ajak', 'masyarakat', 'kuat', 'ppkm', 'mikro']",3809,populer
+133,"['man', 'kadinkes', 'omicron', 'murni', 'covid']",688,populer
+134,"['hasil', 'tes', 'covid', 'samar', 'langkah', 'manajemen', 'arema', 'fc', 'main']",12942,populer
+135,"['siswa', 'man', 'kota', 'malang', 'kena', 'covid', 'malang', 'selatan']",965,populer
+136,"['duh', 'covid', 'aktif', 'bumi', 'kanjuruhan']",11670,populer
+137,"['main', 'positif', 'covid', 'arema', 'fc', 'pantang', 'mundur', 'jadwal', 'liga']",8644,populer
+138,"['enam', 'pasien', 'covid', 'pantuan', 'dinkes', 'kota', 'malang']",3395,populer
+139,"['madam', 'pju', 'kabupaten', 'intruksi', 'satgas', 'covid']",8571,populer
+140,"['airlangga', 'tnipolri', 'peran', 'maksimal', 'tanggulang', 'covid']",9055,populer
+141,"['rawan', 'posko', 'bantu', 'tangan', 'covid', 'aksi', 'bareng', 'kadin', 'kab', 'malang']",10087,populer
+142,"['tes', 'terima', 'guru', 'pppk', 'bayang', 'tular', 'covid']",1700,populer
+143,"['kejar', 'herd', 'immunity', 'dinkes', 'buru', 'warga', 'vaksin', 'covid']",11312,populer
+144,"['vaksinasi', 'kabupaten', 'malang', 'tembus', 'persen', 'kebal', 'covid']",7504,populer
+145,"['kiprah', 'aisyiyah', 'negeri', 'pandemi', 'covid']",8708,populer
+146,"['pasien', 'tinggal', 'covid', 'turun']",11489,populer
+147,"['covid', 'endemi', 'dinas', 'sehat', 'kota', 'batu', 'kebut', 'vaksinasi']",12335,populer
+148,"['dorong', 'ekonomi', 'mendag', 'ingat', 'kendor', 'lawan', 'covid']",3451,populer
+149,"['efek', 'covid', 'klaim', 'bpjs', 'ketenagakerjaan', 'malang', 'tembus', 'rp']",8348,populer
+150,"['fisip', 'ub', 'beber', 'paradoks', 'tangan', 'covid']",8232,populer
+151,"['evaluasi', 'ptmt', 'ajar', 'smp', 'kota', 'malang', 'positif', 'covid']",3080,populer
+152,"['airlangga', 'jaga', 'momentum', 'kendali', 'covid', 'pen']",8616,populer
+153,"['stok', 'limpah', 'pemkab', 'sedia', 'jenis', 'vaksin', 'covid']",6830,populer
+154,"['nal', 'simas', 'covid', 'gamipro', 'asuransi', 'sinar', 'mas']",14143,populer
+155,"['ribu', 'anak', 'indonesia', 'yatim', 'piatu', 'akibat', 'covid']",10424,populer
+156,"['ramah', 'kapolri', 'sambang', 'anak', 'korban', 'covid', 'malang']",1434,populer
+157,"['posko', 'bantu', 'tangan', 'covid', 'malang', 'raya', 'jalan']",14793,populer
+158,"['apresiasi', 'golkar', 'sukses', 'jokowima', 'ruf', 'kendali', 'covid']",5609,populer
+159,"['nihil', 'covid', 'dinkes', 'dewan', 'kota', 'malang', 'galau', 'gegara', 'ptm']",9065,populer
+160,"['zona', 'merah', 'covid', 'amerika', 'larang', 'warga', 'masuk', 'singapura']",1717,populer
+161,"['menko', 'airlangga', 'upaya', 'perintah', 'tangan', 'covid']",14442,populer
+162,"['tracing', 'pasien', 'covid', 'kota', 'malang', 'penuh', 'populert', 'who']",11797,populer
+163,"['covid', 'landai', 'waspada', 'event', 'nasional', 'libur', 'nataru']",6623,populer
+164,"['sembuh', 'covid', 'antibodi', 'kebal']",14375,populer
+165,"['waspada', 'lonjak', 'covid', 'pemkot', 'malang', 'panjang', 'sewa', 'safe', 'house', 'kawi']",976,populer
+166,"['jelang', 'nataru', 'dewan', 'pemkot', 'batu', 'siaga', 'covid', 'gelombang', 'tiga']",13341,populer
+167,"['covid', 'landai', 'bor', 'rs', 'isoter', 'kota', 'malang', 'turun']",10024,populer
+168,"['bulan', 'jalan', 'ptm', 'kota', 'malang', 'aman', 'klaster', 'covid']",7463,populer
+169,"['ptm', 'kota', 'malang', 'nihil', 'covid', 'swab', 'random', 'sekolah', 'capai', 'jiwa']",10492,populer
+170,"['teliti', 'varian', 'covid', 'cepat', 'tular']",1856,populer
+171,"['cegah', 'klaster', 'smp', 'malang', 'kuat', 'satgas', 'covid', 'sekolah']",13820,populer
+172,"['pandemi', 'covid', 'landai', 'vila', 'songgoriti', 'datang', 'langgan']",7736,populer
+173,"['covid', 'kabupaten', 'malang', 'tinggi', 'sejatim']",7863,populer
+174,"['update', 'covid', 'bor', 'igd', 'kota', 'malang', 'tinggal', 'persen']",14511,populer
+175,"['satreskrim', 'polresta', 'malang', 'periksa', 'saksi', 'pungli', 'makam', 'covid']",3517,populer
+176,"['covid', 'landai', 'volume', 'tumpang', 'bus']",13537,populer
+177,"['catat', 'sintas', 'covid', 'vaksin', 'bulan', 'sembuh']",2720,populer
+178,"['covid', 'singapura', 'gila', 'tembus']",9297,populer
+179,"['kabupaten', 'malang', 'nol', 'mati', 'akibat', 'covid']",7609,populer
+180,"['persen', 'pasien', 'covid', 'komorbid', 'jantung', 'cegah']",8478,populer
+181,"['cegah', 'klaster', 'covid', 'sekolah', 'rencana', 'pemkot', 'batu']",8311,populer
+182,"['ayah', 'vonis', 'pdp', 'covid', 'anak', 'gugat', 'rs', 'surabaya', 'rp', 'miliar']",2554,populer
+183,"['heboh', 'klaster', 'sekolah', 'jatim', 'satgas', 'tangan', 'covid']",3406,populer
+184,"['tarif', 'rapid', 'test', 'covid', 'stasiun', 'turun', 'rp', 'ribu']",5262,populer
+185,"['ptm', 'sekolah', 'jatim', 'klaster', 'covid']",12148,populer
+186,"['polisi', 'gelar', 'perkara', 'punglipenggelapan', 'dana', 'makam', 'covid']",7554,populer
+187,"['infeksi', 'covid', 'picu', 'orang', 'pasien', 'alami', 'lumpuh']",2553,populer
+188,"['positivity', 'rate', 'persen', 'covid', 'aktif', 'kota', 'malang', 'digit']",11169,populer
+189,"['ribu', 'warga', 'lansia', 'kota', 'malang', 'vaksin', 'covid']",8673,populer
+190,"['pdgi', 'jatim', 'malang', 'sukses', 'gelar', 'vaksinasi', 'massal', 'covid']",1083,populer
+191,"['pemkot', 'malang', 'serius', 'rencana', 'beasiswa', 'anak', 'yatim', 'dampak', 'covid']",12072,populer
+192,"['bocah', 'yatim', 'piatu', 'korban', 'covid', 'anak', 'asuh', 'polres', 'malang']",14381,populer
+193,"['ratus', 'dagang', 'kena', 'covid', 'chinatown', 'singapura', 'kota', 'mati']",6523,populer
+194,"['santri', 'alitihad', 'sunti', 'kebal', 'covid']",14030,populer
+195,"['antibodi', 'covid', 'turun', 'drastis', 'vaksinasi', 'sehat']",14251,populer
+196,"['tes', 'covid', 'indonesia', 'nambah', 'jiwa']",8021,populer
+197,"['kabupaten', 'malang', 'steril', 'covid']",10714,populer
+198,"['lantik', 'pju', 'kapolres', 'kapolda', 'tekan', 'tangan', 'covid', 'jatim']",14576,populer
+199,"['presiden', 'jokowi', 'tren', 'turun', 'covid', 'jaga']",2016,populer
+200,"['menko', 'airlangga', 'double', 'disruption', 'pandemi', 'covid']",5568,populer
+201,"['setor', 'data', 'fiktif', 'bantu', 'covid', 'perempuan', 'singapura', 'bui']",7213,populer
+202,"['ribu', 'orang', 'positif', 'covid', 'gagal', 'ngemal', 'appbi', 'anak', 'masuk']",7829,populer
+203,"['covid', 'landai', 'juta', 'warga', 'jatim', 'jalan', 'vaksinasi']",5322,populer
+204,"['kabar', 'angka', 'bor', 'rs', 'rujuk', 'covid', 'kota', 'malang', 'turun']",6741,populer
+205,"['video', 'pilu', 'jelang', 'mati', 'rekam', 'pasien', 'covid', 'malaysia']",9117,populer
+206,"['vaksinasi', 'covid', 'singapura', 'roket']",9453,populer
+207,"['edar', 'dokumen', 'as', 'covid', 'ahli', 'virus', 'klarifikasi']",5752,populer
+208,"['ribu', 'ajar', 'kabupaten', 'malang', 'risiko', 'papar', 'covid']",10534,populer
+209,"['inspektorat', 'pemkot', 'malang', 'tracing', 'duga', 'pungli', 'makam', 'covid']",8701,populer
+210,"['instansi', 'dalam', 'duga', 'pungli', 'makam', 'covid', 'kota', 'malang']",2498,populer
+211,"['kabupaten', 'malang', 'cair', 'insentif', 'nakes', 'covid']",9442,populer
+212,"['jadi', 'singapura', 'covid', 'tular', 'sayur', 'buah', 'pasar']",12359,populer
+213,"['jurus', 'aman', 'covid', 'hang', 'out', 'ala', 'dokter', 'reisa']",6301,populer
+214,"['ptm', 'batas', 'efektif', 'edukasi', 'masyarakat', 'prokes', 'covid']",9934,populer
+215,"['politikus', 'malaysia', 'puji', 'tangan', 'covid', 'indonesia']",596,populer
+216,"['susul', 'anggota', 'grup', 'nik', 'enhypen', 'papar', 'covid']",8903,populer
+217,"['agustus', 'angka', 'mati', 'covid', 'kota', 'malang', 'turun']",11929,populer
+218,"['rs', 'changi', 'singapura', 'klaster', 'covid']",677,populer
+219,"['covid', 'kota', 'surabaya', 'resmi', 'turun', 'level']",6287,populer
+220,"['polemik', 'dana', 'makam', 'covid', 'dprd', 'kota', 'malang', 'temu']",6331,populer
+221,"['serap', 'insentif', 'makam', 'covid', 'kabupaten', 'malang', 'persen']",9702,populer
+222,"['anggota', 'boy', 'group', 'kpop', 'enhypen', 'papar', 'covid']",2636,populer
+223,"['keluyur', 'positif', 'covid', 'perempuan', 'hukum', 'penjara']",7013,populer
+224,"['mcw', 'endus', 'duga', 'pungli', 'insentif', 'tugas', 'makam', 'covid']",12309,populer
+225,"['refocusing', 'anggar', 'inovasi', 'pemda', 'minimalisir', 'dampak', 'covid']",8785,populer
+226,"['covid', 'varian', 'mu', 'muncul', 'kolombia', 'tular', 'kebal', 'vaksin']",7553,populer
+227,"['lambat', 'laju', 'covid', 'mahasiswa', 'um', 'gelar', 'riset', 'lintas', 'studi']",11814,populer
+228,"['honor', 'makam', 'covid', 'kota', 'malang', 'telat', 'cair', 'dlh', 'rapel']",4663,populer
+229,"['dana', 'makam', 'covid', 'kota', 'malang', 'lambat', 'cair']",6928,populer
+230,"['alhamdulillah', 'jatim', 'resmi', 'zona', 'merah', 'tular', 'covid']",8277,populer
+231,"['wagub', 'dki', 'zona', 'merah', 'covid', 'jakarta', 'sisa']",5117,populer
+232,"['jatim', 'wilayah', 'tular', 'covid', 'tinggi']",11227,populer
+233,"['pemkot', 'malang', 'naik', 'anggar', 'btt', 'covid', 'rp', 'miliar']",6640,populer
+234,"['minimalisir', 'tular', 'covid', 'polres', 'malang', 'optimal', 'drive', 'thru']",1224,populer
+235,"['kota', 'malang', 'ppkm', 'level', 'sutiaji', 'abai', 'protokol', 'covid']",11583,populer
+236,"['kronologi', 'bupati', 'jember', 'terima', 'honor', 'makam', 'covid']",11339,populer
+237,"['indonesiasehatindonesiahebat', 'sembako', 'warga', 'imbas', 'covid']",2016,populer
+238,"['bupati', 'jember', 'terima', 'honor', 'makam', 'covid', 'rp', 'juta']",13535,populer
+239,"['pek', 'daerah', 'alami', 'naik', 'covid']",10730,populer
+240,"['istri', 'papar', 'covid', 'jalan', 'isoman', 'suami', 'gaul', 'keponakan']",1100,populer
+241,"['pandemi', 'covid', 'kabupaten', 'malang', 'ribu', 'orang', 'miskin']",10132,populer
+242,"['pemkab', 'malang', 'siap', 'hotel', 'isoter', 'hamil', 'positif', 'covid']",10993,populer
+243,"['sembuh', 'total', 'covid', 'xiumin', 'exo', 'lanjut', 'proyek', 'musical']",11302,populer
+244,"['dampak', 'kabut', 'otak', 'pasca', 'covid', 'lupa', 'sakit', 'kepala']",13977,populer
+245,"['papar', 'covid', 'deddy', 'corbuzier', 'tinggal', 'gegara', 'badai', 'sitokin']",1269,populer
+246,"['bumil', 'malang', 'raya', 'papar', 'covid', 'tinggal']",6756,populer
+247,"['bantu', 'nakes', 'isoter', 'pemkab', 'malang', 'rekrut', 'rawan', 'covid']",14243,populer
+248,"['airlangga', 'apresiasi', 'kalsel', 'bantu', 'isoman', 'covid', 'hasil', 'panen']",3033,populer
+249,"['klaster', 'covid', 'singapura', 'sebar', 'giant', 'supermarket']",801,populer
+250,"['tinggal', 'gua', 'pria', 'vaksin', 'covid']",14046,populer
+251,"['pr', 'kejar', 'malang', 'kawal', 'ketat', 'belanja', 'covid']",5220,populer
+252,"['airlangga', 'hartarto', 'vaksinasi', 'lindung', 'bumil', 'bayi', 'covid']",11164,populer
+253,"['covid', 'jinak', 'bor', 'nasional', 'rs', 'tinggal', 'persen']",4654,populer
+254,"['bantu', 'atas', 'covid', 'jalur', 'senyap', 'anggar', 'bin', 'lipat']",4882,populer
+255,"['bantu', 'tracing', 'covid', 'ampi', 'makota', 'layan', 'drive', 'thru', 'swab', 'gotong', 'royong']",13903,populer
+256,"['satgas', 'covid', 'malang', 'cepat', 'pindah', 'pasien', 'covid', 'isoter']",10566,populer
+257,"['sembuh', 'covid', 'gejala', 'lalilulelo', 'patut', 'waspada']",13734,populer
+258,"['menko', 'airlangga', 'tumbuh', 'ekonomi', 'gantung', 'tangan', 'covid']",13692,populer
+259,"['optimal', 'layan', 'covid', 'rsud', 'kota', 'malang', 'siap', 'lab', 'pcr']",3302,populer
+260,"['anak', 'hilang', 'orang', 'tua', 'pandemi', 'covid']",6041,populer
+261,"['waspada', 'long', 'covid', 'anak', 'catat', 'tahu', 'gejala']",5403,populer
+262,"['tangan', 'covid', 'panglima', 'tni', 'pangdam', 'dandim', 'laku']",11854,populer
+263,"['menko', 'airlangga', 'semangat', 'pasien', 'covid', 'rawat', 'isoter']",3663,populer
+264,"['menteri', 'luhut', 'pemda', 'tutup', 'data', 'covid']",11345,populer
+265,"['menko', 'marves', 'pulang', 'pr', 'pemkot', 'malang', 'tangan', 'covid']",7568,populer
+266,"['pasutri', 'temu', 'vaksin', 'covid', 'siap', 'formula', 'tangkal', 'varian', 'delta']",2672,populer
+267,"['luhut', 'warga', 'malang', 'positif', 'covid', 'manut', 'rawat', 'isoter']",2197,populer
+268,"['teliti', 'singapura', 'kembang', 'obat', 'covid', 'bentuk', 'pil']",5705,populer
+269,"['covid', 'malang', 'isoter', 'sorot', 'deputi', 'menko', 'marves']",11248,populer
+270,"['simak', 'rencana', 'gubernur', 'jatim', 'kendali', 'covid', 'malang', 'raya']",13336,populer
+271,"['data', 'covid', 'kota', 'malang', 'update', 'respon', 'puskesmas']",2409,populer
+272,"['derita', 'covid', 'ogah', 'tempat', 'isoter']",7820,populer
+273,"['sorot', 'pemprov', 'angka', 'sembuh', 'covid', 'kota', 'malang', 'klaim', 'persen']",5539,populer
+274,"['sutiaji', 'beber', 'lemah', 'tangan', 'covid', 'kota', 'malang']",13693,populer
+275,"['cepat', 'tracing', 'covid', 'rs', 'malang', 'bantu', 'kontainer']",13940,populer
+276,"['israel', 'klaim', 'temu', 'obat', 'covid', 'sembuh', 'pasien']",7935,populer
+277,"['babe', 'cabita', 'diendorse', 'covid', 'auto', 'kaum', 'rebah']",3899,populer
+278,"['honor', 'tugas', 'makam', 'covid', 'bal', 'rp', 'ribu', 'nunggak']",5092,populer
+279,"['menko', 'airlangga', 'cepat', 'serap', 'anggar', 'tangan', 'covid']",14864,populer
+280,"['wajib', 'pasien', 'covid', 'isoman']",1050,populer
+281,"['oximeter', 'ukur', 'saturasi', 'oksigen', 'pasien', 'covid']",997,populer
+282,"['polres', 'malang', 'libat', 'rawan', 'milenial', 'tangan', 'covid']",13047,populer
+283,"['jausan', 'malang', 'bagi', 'makan', 'tugas', 'makam', 'covid']",8273,populer
+284,"['kuat', 'sinergi', 'imtgt', 'tanggulang', 'dampak', 'pandemi', 'covid']",12664,populer
+285,"['rampok', 'ambulans', 'psc', 'pasien', 'covid', 'laku', 'dor']",12394,populer
+286,"['papar', 'covid', 'jadwal', 'xiumin', 'exo', 'batal']",1467,populer
+287,"['pandemi', 'covid', 'fifgroup', 'salur', 'paket', 'sembako', 'nila', 'rp', 'miliar']",10473,populer
+288,"['gaduh', 'sumbang', 'covid', 'rp', 'mabes', 'polri', 'periksa', 'kapolda', 'sumsel']",10131,populer
+289,"['hewan', 'pelihara', 'tular', 'covid', 'jubir', 'satgas']",4740,populer
+290,"['oknum', 'nakes', 'jual', 'mahal', 'obat', 'pasien', 'covid', 'tinggal']",12141,populer
+291,"['sembuh', 'covid', 'orang', 'bagi', 'nasal', 'oksigen', 'gratis']",8164,populer
+292,"['menko', 'airlangga', 'formula', 'kunci', 'atas', 'lonjak', 'covid']",13779,populer
+293,"['malang', 'optimal', 'tangan', 'covid', 'wali', 'kota', 'data']",7019,populer
+294,"['tips', 'jaga', 'kondisi', 'tubuh', 'vaksin', 'covid', 'check']",14821,populer
+295,"['sinovac', 'siap', 'vaksin', 'tangkal', 'covid', 'varian', 'delta']",14406,populer
+296,"['panglima', 'tni', 'puji', 'mampu', 'tim', 'tracer', 'covid', 'kabupaten', 'malang']",11368,populer
+297,"['tangan', 'pasien', 'covid', 'camat', 'pemkab', 'malang', 'diri', 'isoter']",7450,populer
+298,"['sembuh', 'covid', 'minhyuk', 'btob', 'beber', 'kondisi', 'drop']",3836,populer
+299,"['cepat', 'input', 'data', 'tracing', 'covid', 'kodim', 'bantu', 'laptop']",2736,populer
+300,"['pantau', 'tracing', 'covid', 'panglima', 'tni', 'tinjau', 'puskesmas', 'ardirejo', 'malang']",6470,populer
+301,"['tracker', 'covid', 'jelajah', 'kampung']",6859,populer
+302,"['menko', 'airlangga', 'apresiasi', 'kontribusi', 'gebrak', 'covid', 'unair']",12271,populer
+303,"['marak', 'isu', 'pungli', 'makam', 'covid', 'kapolres', 'malang', 'laku']",9263,populer
+304,"['covid', 'dokter', 'ub', 'turun', 'gunung']",8238,populer
+305,"['vitamin', 'kurang', 'risiko', 'papar', 'covid', 'jelas', 'ahli']",3650,populer
+306,"['dampak', 'infeksi', 'hepatitis', 'kalah', 'bahaya', 'serang', 'covid']",5854,populer
+307,"['ahlak', 'donor', 'plasma', 'konvalesen', 'covid', 'ajang', 'tipu']",14495,populer
+308,"['covid', 'pmi', 'kota', 'malang', 'semprot', 'disinfektan']",11195,populer
+309,"['angka', 'covid', 'pemkot', 'titik', 'safe', 'house']",2669,populer
+310,"['infeksi', 'covid', 'kondisi', 'kornea', 'mata']",4513,populer
+311,"['jenazah', 'covid', 'makassar', 'antre', 'makam', 'busuk']",4373,populer
+312,"['kabaharkam', 'mabes', 'polri', 'puji', 'langkah', 'tangan', 'covid', 'kota', 'malang']",7745,populer
+313,"['tangan', 'covid', 'pemda', 'malang', 'raya', 'serap', 'rp']",5751,populer
+314,"['pemkot', 'malang', 'siap', 'isolasi', 'padu', 'covid', 'camat']",4823,populer
+315,"['malaysia', 'cetak', 'rekor', 'hari', 'covid']",4035,populer
+316,"['panjang', 'ppkm', 'covid']",5435,populer
+317,"['angka', 'mati', 'pasien', 'covid', 'luhut', 'faktor']",2740,populer
+318,"['vaksinasi', 'covid', 'anak', 'prioritas', 'pemkot', 'malang']",3185,populer
+319,"['fasilitas', 'sentra', 'covid', 'jalan', 'rssa', 'malang', 'rekayasa']",10389,populer
+320,"['tega', 'banget', 'rawan', 'makam', 'covid', 'aniaya', 'warga']",6028,populer
+321,"['sembuh', 'covid', 'san', 'ateez', 'pusat', 'awat']",1740,populer
+322,"['mati', 'covid', 'indonesia', 'tinggi', 'dunia']",3482,populer
+323,"['tracing', 'testing', 'covid', 'pemkab', 'malang', 'siap', 'anggar', 'rp']",12643,populer
+324,"['pemda', 'malang', 'raya', 'target', 'test', 'covid', 'warga']",12342,populer
+325,"['kapolsek', 'blimbing', 'malang', 'tinggal', 'juang', 'lawan', 'covid']",897,populer
+326,"['panik', 'pengantin', 'positif', 'covid', 'nekat', 'gelar', 'resepsi']",4082,populer
+327,"['anak', 'vaksin', 'lindung', 'covid']",10018,populer
+328,"['covid', 'gila', 'warga', 'malang', 'raya', 'kompak', 'diang']",4400,populer
+329,"['derita', 'covid', 'kabupaten', 'malang', 'pilih', 'isoman']",9194,populer
+330,"['terap', 'ppkm', 'kendali', 'laju', 'covid', 'jaga', 'masyarakat']",14579,populer
+331,"['sri', 'mulyani', 'ledak', 'covid', 'indonesia', 'india']",14729,populer
+332,"['taat', 'prokes', 'covid', 'bri', 'kenal', 'reservasi', 'online', 'cair', 'bpum']",3536,populer
+333,"['kota', 'malang', 'bentuk', 'satgas', 'trauma', 'healing', 'covid']",6357,populer
+334,"['wali', 'kota', 'malang', 'sunat', 'tunjang', 'asn', 'tangan', 'covid']",11196,populer
+335,"['tim', 'awas', 'giat', 'kurban', 'hadir', 'lindung', 'warga', 'covid']",4238,populer
+336,"['update', 'situasi', 'kini', 'pandemi', 'covid', 'negara']",2789,populer
+337,"['ruang', 'isolasi', 'covid', 'rs', 'malang', 'dominasi', 'pasien', 'daerah']",9780,populer
+338,"['wali', 'kota', 'malang', 'bantah', 'telantar', 'jenazah', 'covid']",11864,populer
+339,"['rata', 'pemkot', 'malang', 'siap', 'jalur', 'vaksinasi', 'covid']",14947,populer
+340,"['karantina', 'mandiri', 'minhyuk', 'btob', 'positif', 'covid']",11936,populer
+341,"['gugur', 'covid', 'ahli', 'waris', 'serta', 'bpjamsostek', 'terima', 'santun']",10256,populer
+342,"['bantu', 'pasien', 'covid', 'alumni', 'ub', 'malang', 'aplikasi', 'isoman']",12189,populer
+343,"['tingkat', 'sembuh', 'pasien', 'covid', 'kota', 'malang', 'rangkak']",5775,populer
+344,"['sakit', 'kepala', 'masuk', 'daftar', 'gejala', 'covid', 'varian', 'delta']",11402,populer
+345,"['hari', 'covid', 'ri', 'tembus', 'ribu', 'mati', 'jatim', 'tinggi']",1235,populer
+346,"['camat', 'wagir', 'malang', 'siap', 'bed', 'posko', 'isoman', 'covid']",6207,populer
+347,"['mati', 'covid', 'malang', 'produksi', 'peti', 'jenazah', 'lipat']",11116,populer
+348,"['cek', 'fakta', 'orang', 'vaksin', 'covid', 'pancar', 'sinar', 'elektromagnetik']",6181,populer
+349,"['warga', 'antusias', 'vaksin', 'covid', 'lanal', 'malang', 'kuota']",3982,populer
+350,"['tangan', 'pasien', 'covid', 'tinggal', 'isoman', 'malang', 'lambat']",13711,populer
+351,"['pemulasaraan', 'jenazah', 'covid', 'malang', 'overload']",10055,populer
+352,"['longgar', 'makan', 'covid', 'singapura', 'langsung', 'tingkat']",10384,populer
+353,"['info', 'vaksinasi', 'covid', 'kota', 'batu', 'check']",12647,populer
+354,"['usaha', 'karangploso', 'malang', 'gratis', 'oksigen', 'pasien', 'covid']",13619,populer
+355,"['vaksinasi', 'rawan', 'muncul', 'klaster', 'covid', 'saran', 'idi', 'malang']",10034,populer
+356,"['bantu', 'tangan', 'pandemi', 'covid', 'bri', 'salur', 'fasilitas', 'tunjang', 'rs']",676,populer
+357,"['covid', 'stok', 'tabung', 'oksigen', 'kabupaten', 'malang', 'aman']",1337,populer
+358,"['catat', 'beda', 'papar', 'covid', 'flu']",13313,populer
+359,"['palak', 'pikul', 'jenazah', 'rp', 'juta', 'keluarga', 'korban', 'covid', 'lapor', 'polisi']",11852,populer
+360,"['airlangga', 'vaksinasi', 'massal', 'klaster', 'covid']",4634,populer
+361,"['kemanamana', 'sherina', 'positif', 'papar', 'covid']",3682,populer
+362,"['sindikat', 'buru', 'cuan', 'lipat', 'obat', 'covid', 'bongkar', 'polisi']",12128,populer
+363,"['rs', 'rujuk', 'covid', 'kota', 'batu', 'penuh', 'pemdes', 'shelter', 'mandiri']",10756,populer
+364,"['alert', 'igd', 'incovid', 'kota', 'malang', 'overcapacity', 'persen']",831,populer
+365,"['desak', 'pemkab', 'malang', 'fasilitas', 'layan', 'pasien', 'covid']",13661,populer
+366,"['bri', 'salur', 'tidur', 'tangan', 'covid']",4682,populer
+367,"['covid', 'gila', 'rasio', 'vaksinasi', 'kabupaten', 'malang', 'minimal']",14005,populer
+368,"['nakes', 'kabupaten', 'malang', 'papar', 'covid']",8347,populer
+369,"['klaster', 'atrbpn', 'kota', 'malang', 'karyawan', 'positif', 'covid']",6585,populer
+370,"['pecah', 'rekor', 'hari', 'pasien', 'tinggal', 'covid']",10664,populer
+371,"['antri', 'pasien', 'pemkot', 'malang', 'rs', 'rujuk', 'covid']",7565,populer
+372,"['genting', 'obat', 'terapi', 'covid', 'langka', 'harga', 'oksigen', 'lambung']",11791,populer
+373,"['lonjak', 'covid', 'kabupaten', 'malang', 'buka', 'opsi', 'sekolah', 'safe', 'house']",14487,populer
+374,"['panic', 'buying', 'obat', 'terapi', 'covid', 'malang', 'langka']",3996,populer
+375,"['bor', 'penuh', 'pemkot', 'batu', 'buka', 'wacana', 'hotel', 'safe', 'house', 'covid']",3060,populer
+376,"['pecah', 'rekor', 'hari', 'orang', 'tinggal', 'covid', 'malang']",4700,populer
+377,"['obat', 'antivirus', 'terapi', 'covid', 'langka', 'kota', 'batu']",7665,populer
+378,"['covid', 'gila', 'warga', 'malang', 'enggan', 'belanja', 'pasar']",11642,populer
+379,"['pemkot', 'optimis', 'herd', 'immunity', 'covid', 'kota', 'malang', 'capai', 'juli']",2945,populer
+380,"['rawan', 'papar', 'covid', 'puluh', 'supeltas', 'malang', 'vaksinasi']",10794,populer
+381,"['angka', 'mati', 'covid', 'rowotrate', 'malang', 'orang']",13814,populer
+382,"['stasiun', 'kota', 'malang', 'layan', 'vaksinasi', 'covid', 'syarat']",9943,populer
+383,"['angka', 'mati', 'covid', 'stok', 'plasma', 'konvalesen', 'malang', 'kosong']",14363,populer
+384,"['edukasi', 'bahaya', 'covid', 'polresta', 'malang', 'kota', 'pocong']",14540,populer
+385,"['cegah', 'klaster', 'covid', 'kh', 'marzuqi', 'mustamar', 'ponpes', 'ketat', 'prokes']",5112,populer
+386,"['kenal', 'varian', 'covid', 'lambda', 'bahaya']",8276,populer
+387,"['jane', 'shalimar', 'tinggal', 'pagi', 'makam', 'populer', 'covid']",3976,populer
+388,"['kontak', 'pasien', 'covid', 'song', 'joong', 'ki', 'tunda', 'syuting', 'bogota']",1946,populer
+389,"['covid', 'lonjak', 'tabung', 'oksigen', 'malang', 'langka']",5285,populer
+390,"['angka', 'mati', 'pasien', 'covid', 'kabupaten', 'malang', 'drastis']",9445,populer
+391,"['rachmawati', 'soekarnoputri', 'konfirmasi', 'tinggal', 'covid']",14097,populer
+392,"['klaster', 'keluarga', 'muncul', 'wagir', 'malang', 'warga', 'positif', 'covid']",5330,populer
+393,"['warga', 'papar', 'covid', 'sama', 'malang', 'lockdown']",11470,populer
+394,"['deteksi', 'pemkot', 'malang', 'waswas', 'covid', 'varian', 'delta']",5684,populer
+395,"['tangan', 'covid', 'prioritas', 'polresta', 'malang', 'kota']",7598,populer
+396,"['ppkm', 'darurat', 'pemkab', 'malang', 'sosialisasi', 'darurat', 'covid']",12334,populer
+397,"['positif', 'covid', 'warga', 'rowotrate', 'malang', 'tinggal']",6570,populer
+398,"['nakes', 'malang', 'raya', 'papar', 'covid']",9236,populer
+399,"['klaster', 'covid', 'ponpes', 'ldii', 'kota', 'malang', 'luas']",1504,populer
+400,"['pemkot', 'malang', 'siap', 'alternatif', 'lahan', 'makam', 'jenazah', 'covid']",6541,populer
+401,"['tenda', 'darurat', 'covid', 'bantu', 'mensos', 'ri', 'malang']",1989,populer
+402,"['covid', 'malang', 'gila', 'rusunawa', 'ub', 'safe', 'house']",4064,populer
+403,"['klaster', 'hajat', 'warga', 'sumbermanjing', 'wetan', 'malang', 'positif', 'covid']",14698,populer
+404,"['bor', 'rs', 'covid', 'capai', 'persen', 'mensos', 'kirim', 'tenda', 'darurat', 'malang']",10708,populer
+405,"['breaking', 'news', 'covid', 'gila', 'liga', 'liga', 'tunda']",1278,populer
+406,"['tren', 'covid', 'lonjak', 'polinema', 'tetap', 'sistem', 'kuliah', 'hybrid']",9245,populer
+407,"['lembur', 'pagi', 'tim', 'rawan', 'malang', 'makam', 'korban', 'covid']",10308,populer
+408,"['dana', 'covid', 'kampanye', 'pilkada', 'bupati', 'papua', 'sangka']",967,populer
+409,"['papar', 'covid', 'kapolsek', 'klojen', 'tinggal', 'dunia']",7038,populer
+410,"['buka', 'safe', 'house', 'kawi', 'rawat', 'pasien', 'covid']",1676,populer
+411,"['lab', 'pada', 'covid', 'varian', 'malang', 'sulit', 'deteksi']",12045,populer
+412,"['nakes', 'papar', 'covid', 'kota', 'batu', 'orang']",2904,populer
+413,"['rssa', 'malang', 'overload', 'bed', 'pasien', 'covid']",6338,populer
+414,"['tujuh', 'anggota', 'psc', 'kota', 'malang', 'papar', 'covid']",6781,populer
+415,"['klaim', 'biaya', 'awat', 'pasien', 'covid', 'tembus', 'rp', 'triliun']",1514,populer
+416,"['video', 'bwps', 'overload', 'unggah', 'tretan', 'muslim', 'satgas', 'covid']",8449,populer
+417,"['airlangga', 'hartarto', 'kader', 'golkar', 'tanggulang', 'covid']",2539,populer
+418,"['hindar', 'tular', 'covid', 'rossa', 'jauh', 'kerumun', 'arisan']",1681,populer
+419,"['warga', 'sisir', 'batu', 'positif', 'covid', 'masuk', 'zona', 'kuning']",11533,populer
+420,"['waspada', 'igd', 'rs', 'rujuk', 'covid', 'kota', 'malang', 'penuh']",6522,populer
+421,"['nakes', 'positif', 'covid', 'puskesmas', 'pakisaji', 'malang', 'lockdown']",12090,populer
+422,"['miris', 'balita', 'kota', 'malang', 'papar', 'covid']",3864,populer
+423,"['anak', 'jakarta', 'papar', 'covid']",2808,populer
+424,"['pecah', 'rekor', 'pasien', 'covid', 'kota', 'malang', 'makam']",8242,populer
+425,"['warga', 'kota', 'malang', 'tinggal', 'covid']",9372,populer
+426,"['klaster', 'dinoyo', 'malang', 'orang', 'positif', 'covid']",5958,populer
+427,"['juni', 'anak', 'kota', 'malang', 'infeksi', 'covid']",2281,populer
+428,"['viral', 'jenazah', 'covid', 'lantar', 'jakut', 'jelas', 'polisi']",7634,populer
+429,"['covid', 'varian', 'delta', 'deteksi', 'malang']",4195,populer
+430,"['cegah', 'covid', 'varian', 'delta', 'india', 'saran', 'ahli']",2131,populer
+431,"['miris', 'balita', 'anak', 'jakarta', 'papar', 'covid']",13907,populer
+432,"['klaster', 'minimarket', 'wagir', 'owner', 'karyawan', 'positif', 'covid']",3367,populer
+433,"['papar', 'covid', 'vokalis', 'steven', 'coconut', 'treez', 'tinggal', 'dunia']",14964,populer
+434,"['menkeu', 'dana', 'desa', 'vaksinasi', 'covid']",5865,populer
+435,"['mahasiswa', 'surabaya', 'bobol', 'bantu', 'covid', 'warga', 'as']",11313,populer
+436,"['orang', 'positif', 'covid', 'jaksa', 'agung', 'suprapto', 'malang', 'lockdown']",8160,populer
+437,"['kpcpen', 'respon', 'cepat', 'kondisi', 'tingkat', 'covid']",14953,populer
+438,"['tekan', 'covid', 'tumpang', 'terminal', 'batu', 'diswab', 'acak']",11219,populer
+439,"['masuk', 'program', 'buher', 'janji', 'satset', 'tangan', 'covid', 'kota', 'malang']",8357,populer
+440,"['batal', 'beli', 'vaksin', 'dana', 'covid', 'kota', 'malang', 'sisa']",3503,populer
+441,"['anggota', 'dpr', 'ri', 'infeksi', 'covid']",4295,populer
+442,"['sumber', 'pangan', 'alami', 'saran', 'menu', 'khusus', 'pasien', 'covid']",10388,populer
+443,"['heran', 'kotor', 'anjing', 'bau', 'perempuan', 'nyadar', 'kena', 'covid']",6239,populer
+444,"['pria', 'poligami', 'istri', 'tinggal', 'covid']",13953,populer
+445,"['temu', 'tokoh', 'agama', 'madura', 'mahfud', 'md', 'warga', 'percaya', 'covid']",4310,populer
+446,"['waspada', 'mutasi', 'covid', 'varian', 'india', 'kenal', 'gejala', 'khas']",9579,populer
+447,"['rs', 'darurat', 'wisma', 'atlet', 'mayor', 'kewalahan', 'tangan', 'pasien', 'covid']",7885,populer
+448,"['hai', 'sintas', 'covid', 'kota', 'malang', 'butuh', 'donor', 'plasma', 'konvalesen']",13908,populer
+449,"['warga', 'jatim', 'positif', 'covid', 'varian', 'india', 'kota']",7134,populer
+450,"['covid', 'malang', 'pasien', 'antre', 'ventilator']",5760,populer
+451,"['puluh', 'karyawan', 'radar', 'malang', 'jalan', 'vaksinasi', 'covid']",13083,populer
+452,"['antisipasi', 'ledak', 'covid', 'bnpb', 'cek', 'rs', 'lapang', 'malang']",2309,populer
+453,"['sembilan', 'daerah', 'indonesia', 'status', 'darurat', 'covid']",3279,populer
+454,"['varian', 'covid', 'masuk', 'kabupaten', 'malang', 'dinkes']",4833,populer
+455,"['rekomendasi', 'makan', 'jaga', 'imun', 'tubuh', 'cocok', 'cegah', 'covid']",7550,populer
+456,"['huni', 'rs', 'rujuk', 'covid', 'kota', 'malang', 'persen']",1156,populer
+457,"['ketua', 'aptisi', 'beber', 'strategi', 'pts', 'hadap', 'pandemi', 'covid']",10201,populer
+458,"['kaca', 'dampak', 'pandemi', 'covid']",1377,populer
+459,"['covid', 'madura', 'lejit', 'jembatan', 'suramadu', 'ketat']",13125,populer
+460,"['covid', 'kota', 'malang', 'pasien', 'nginep', 'rs', 'lapang']",4220,populer
+461,"['klaster', 'covid', 'kian', 'marak', 'pemkot', 'malang', 'rapat', 'baris']",6845,populer
+462,"['kota', 'malang', 'panen', 'covid', 'pascalebaran']",6424,populer
+463,"['covid', 'kota', 'malang', 'kapasitas', 'bed', 'klaim', 'aman']",3286,populer
+464,"['tujuh', 'orang', 'rampal', 'celaket', 'malang', 'positif', 'covid']",8185,populer
+465,"['klaster', 'covid', 'lowokdoro', 'camat', 'sukun', 'malang', 'instruksi', 'swab', 'pcr']",4127,populer
+466,"['delapan', 'orang', 'positif', 'covid', 'lowokdoro', 'malang', 'disinfektan']",6980,populer
+467,"['anak', 'kim', 'kardashian', 'positif', 'covid']",8033,populer
+468,"['delapan', 'warga', 'lowokdoro', 'kota', 'malang', 'positif', 'covid', 'tinggal']",3619,populer
+469,"['vietnam', 'gelar', 'milu', 'wabah', 'covid']",7193,populer
+470,"['cegah', 'tular', 'gila', 'satgas', 'covid', 'pemda', 'laku']",10301,populer
+471,"['ngeri', 'lur', 'pocong', 'korban', 'covid', 'liar', 'kota', 'malang']",2536,populer
+472,"['bri', 'apresiasi', 'dedikasi', 'tni', 'ad', 'tangan', 'covid']",6864,populer
+473,"['landai', 'rs', 'rujuk', 'covid', 'kota', 'batu', 'siap', 'bed']",5786,populer
+474,"['nambah', 'positif', 'covid', 'klaster', 'masjid', 'tlogomas', 'malang']",6406,populer
+475,"['sekolah', 'tatap', 'muka', 'kota', 'batu', 'tunggu', 'rekomendasi', 'satgas', 'covid']",3298,populer
+476,"['varian', 'mutasi', 'covid', 'masuk', 'jatim', 'warga', 'batu', 'panik']",11905,populer
+477,"['covid', 'picu', 'disfungsi', 'ereksi']",5248,populer
+478,"['covid', 'cluster', 'masjid', 'tlogomas', 'tambah', 'orang']",7135,populer
+479,"['warga', 'papar', 'covid', 'masjid', 'tlogomas', 'malang', 'tutup']",4458,populer
+480,"['cek', 'fakta', 'ledak', 'covid', 'jatim']",6773,populer
+481,"['urai', 'macet', 'terowongan', 'bangun', 'area', 'sirkuit', 'mandalika']",4482,populer
+482,"['netizen', 'teriak', 'aspal', 'mandalika', 'rusak', 'pakai', 'drift', 'balap', 'motogp']",12407,populer
+483,"['balap', 'motogp', 'dukung', 'balap', 'lokal', 'sirkuit', 'mandalika', 'aspal', 'bagus']",9973,populer
+484,"['ikut', 'mandalika', 'track', 'day', 'weekend', 'kemarin', 'drifter', 'senang', 'main']",6176,populer
+485,"['motogp', 'finlandia', 'batal', 'netizen', 'indonesia', 'yuk', 'gelar', 'mandalika']",4879,populer
+486,"['banding', 'sirkuit', 'formula', 'jakarta', 'sirkuit', 'motogp', 'mandalika']",6652,populer
+487,"['rem', 'blong', 'truk', 'angkut', 'pasir', 'mandalika', 'tabrak', 'tiang', 'listrik']",1269,populer
+488,"['kawan', 'anjing', 'liar', 'monyet', 'kerap', 'datang', 'sirkuit', 'mandalika']",9253,populer
+489,"['dampak', 'eru', 'bukit', 'mandalika', 'satwa', 'liar', 'turun', 'hotel']",13141,populer
+490,"['satwa', 'turun', 'hotel', 'akibat', 'eru', 'bukit', 'sirkuit', 'mandalika']",1305,populer
+491,"['pacu', 'pariwisata', 'lokal', 'bangkit', 'goto', 'partisipasi', 'mandalika', 'gp', 'series']",876,populer
+492,"['nonton', 'ajang', 'gengsi', 'motogp', 'mandalika', 'hemat', 'mudah', 'brimo']",11170,populer
+493,"['pacu', 'pariwisata', 'nasional', 'bri', 'promo', 'world', 'superbike', 'mandalika']",6117,populer
+494,"['tahap', 'kek', 'mandalika', 'serap', 'ribu', 'kerja']",9820,populer
+495,"['november', 'sirkuit', 'mandalika', 'tuan', 'rumah', 'wsbk']",3868,populer
+496,"['main', 'lokal', 'potensi', 'tembus', 'lineup', 'arema', 'fc']",14871,populer
+497,"['arema', 'fc', 'sepakat', 'kickoff', 'liga', 'juli']",4163,populer
+498,"['legiun', 'asing', 'arema', 'fc', 'sabar', 'jumpa', 'aremania', 'stadion', 'kanjuruhan']",10550,populer
+499,"['musim', 'arema', 'fc', 'optimistis', 'jual', 'jersey', 'tembus', 'ribu']",9656,populer
+500,"['buru', 'arema', 'fc', 'ketemu', 'striker', 'asing', 'pas']",5875,populer
+501,"['main', 'anyar', 'arema', 'fc', 'peluang', 'ukir', 'sejarah']",10616,populer
+502,"['stadion', 'gajayana', 'venue', 'launching', 'arema', 'fc']",9958,populer
+503,"['cerita', 'putar', 'balik', 'nomor', 'punggung', 'main', 'arema', 'fc']",5677,populer
+504,"['kontrak', 'panjang', 'main', 'muda', 'arema', 'fc', 'pantang', 'patah', 'arang']",9656,populer
+505,"['arema', 'fc', 'buru', 'striker', 'asing']",2418,populer
+506,"['gabung', 'arema', 'fc', 'ilham', 'udin', 'andal', 'chemistry', 'evan', 'mas']",8882,populer
+507,"['tujuh', 'main', 'arema', 'fc', 'hengkang']",9619,populer
+508,"['gilang', 'siap', 'sayembara', 'aremania']",826,populer
+509,"['tujuh', 'main', 'jual', 'jersey', 'arema', 'fc', 'drastis']",4900,populer
+510,"['arema', 'fc', 'kenal', 'tujuh', 'penggawa', 'susul', 'main']",2920,populer
+511,"['gerbong', 'mantan', 'eks', 'timnas', 'kabar', 'rapat', 'arema', 'fc']",8209,populer
+512,"['presiden', 'arema', 'fc', 'tim', 'komplet']",11833,populer
+513,"['cerita', 'clbk', 'arema', 'fc', 'main', 'lanjut']",1149,populer
+514,"['manajemen', 'arema', 'fc', 'tancap', 'gas', 'pagar', 'main', 'inti']",14130,populer
+515,"['fixed', 'penggawa', 'gabung', 'arema', 'fc']",13943,populer
+516,"['fortes', 'out', 'penggawa', 'main', 'asing', 'arema', 'fc', 'wait', 'and', 'see']",1744,populer
+517,"['laga', 'kontra', 'psm', 'arema', 'fc', 'rombak', 'skuad']",8150,populer
+518,"['hadap', 'psm', 'arema', 'fc', 'hantu', 'rekor', 'minor', 'laga']",11222,populer
+519,"['hadap', 'arema', 'fc', 'psm', 'makassar', 'pincang']",7111,populer
+520,"['siang', 'arema', 'fc', 'women', 'hadap', 'wakil', 'papua', 'semifinal']",11581,populer
+521,"['arema', 'fc', 'modal', 'jeda', 'jelang', 'laga', 'pamungkas']",9073,populer
+522,"['sembilan', 'main', 'arema', 'fc', 'musim', 'cepat']",8977,populer
+523,"['arema', 'fc', 'siap', 'jurus', 'redam', 'ciro', 'alves']",5603,populer
+524,"['arema', 'fc', 'women', 'lesat', 'gol', 'laga', 'piala', 'pertiwi']",6261,populer
+525,"['hadap', 'persikabo', 'arema', 'fc', 'harap', 'tuah', 'stadion', 'kompyang', 'sujana']",7046,populer
+526,"['dedik', 'setiawan', 'arema', 'fc', 'finish']",6725,populer
+527,"['sambut', 'semifinal', 'piala', 'pertiwi', 'arema', 'kodew', 'maksimal', 'recovery']",3534,populer
+528,"['arema', 'fc', 'dukung', 'sistem', 'kandangtandang', 'musim']",3626,populer
+529,"['universitas', 'brawijaya', 'milik', 'arema', 'dunia']",10860,populer
+530,"['laga', 'lawan', 'borneo', 'fc', 'malam', 'ajang', 'arema', 'fc', 'obat', 'kecewa', 'suporter']",14346,populer
+531,"['hadap', 'borneo', 'fc', 'arema', 'fc', 'dibayangbayangi', 'tren', 'buruk', 'venue', 'laga']",869,populer
+532,"['duel', 'arema', 'fc', 'versus', 'borneo', 'fc', 'samasama', 'minus', 'gelandang']",12437,populer
+533,"['musim', 'juara', 'arema', 'fc', 'catat', 'prestasi', 'rekor']",6500,populer
+534,"['misi', 'arema', 'fc', 'tim', 'baik', 'jawa', 'timur']",12411,populer
+535,"['penggawa', 'arema', 'fc', 'absen', 'laga']",13439,populer
+536,"['manajemen', 'arema', 'fc', 'bantah', 'rumor', 'hengkang', 'pilar', 'tim']",7650,populer
+537,"['arema', 'fc', 'berat', 'finish']",11919,populer
+538,"['manajemen', 'arema', 'fc', 'spirit', 'main', 'jaga']",9590,populer
+539,"['bal', 'united', 'vs', 'arema', 'fc', 'laga', 'krusial', 'buru', 'juara', 'liga']",4841,populer
+540,"['lawan', 'bal', 'united', 'arema', 'fc', 'tambah', 'amunisi']",11913,populer
+541,"['arema', 'fc', 'finish', 'baya', 'serius']",5368,populer
+542,"['realistis', 'arema', 'fc', 'alih', 'bidik', 'kompetisi', 'asia']",2749,populer
+543,"['presiden', 'arema', 'fc', 'baik', 'performa', 'musim']",9621,populer
+544,"['laden', 'arema', 'fc', 'maung', 'bandung', 'usung', 'misi', 'revans']",9437,populer
+545,"['duel', 'arema', 'fc', 'kontra', 'persib', 'warna', 'absen', 'main', 'kunci']",9058,populer
+546,"['duel', 'arema', 'fc', 'kontra', 'persib', 'awas', 'wasit']",5598,populer
+547,"['bagas', 'ego', 'kuat', 'lini', 'arema', 'fc']",13978,populer
+548,"['menang', 'barito', 'putera', 'motivasi', 'arema', 'fc', 'tambah']",13110,populer
+549,"['nganem', 'barito', 'putra', 'modal', 'arema', 'fc', 'jelang', 'laga', 'big', 'match']",8913,populer
+550,"['arema', 'fc', 'menang', 'lawan', 'barito', 'putera', 'malam']",14505,populer
+551,"['lawan', 'barito', 'putera', 'sarana', 'arema', 'fc', 'jalur', 'juara']",12599,populer
+552,"['samping', 'gelar', 'individu', 'main', 'arema', 'fc', 'sepakat', 'sapu', 'bersih', 'laga']",4400,populer
+553,"['hormat', 'nyepi', 'arema', 'fc', 'pilih', 'libur', 'hari']",7619,populer
+554,"['latih', 'arema', 'fc', 'bicara', 'juara']",13312,populer
+555,"['manajemen', 'arema', 'fc', 'wait', 'and', 'see', 'sanksi', 'bagas', 'adi', 'nugroho']",12601,populer
+556,"['baik', 'performa', 'arema', 'fc', 'fokus', 'baik', 'aspek']",7313,populer
+557,"['main', 'arema', 'fc', 'legawa', 'kritik', 'harap', 'support']",10619,populer
+558,"['jaga', 'fokus', 'arema', 'fc', 'batal', 'rencana', 'libur', 'latih']",12351,populer
+559,"['arema', 'fc', 'potensi', 'turun', 'peringkat']",1463,populer
+560,"['jaga', 'aman', 'bumi', 'arema', 'polisi', 'gandeng', 'ulama']",1095,populer
+561,"['kapten', 'arema', 'fc', 'main', 'semangat']",10999,populer
+562,"['poin', 'arema', 'fc', 'lampau', 'catat', 'musim']",4576,populer
+563,"['paksa', 'absen', 'fortes', 'percaya', 'arema', 'fc', 'garang']",3294,populer
+564,"['arema', 'fc', 'vs', 'baya', 'panggung', 'unjuk', 'gigi', 'produk', 'akademi']",7257,populer
+565,"['hadap', 'baya', 'arema', 'fc', 'perhati', 'khusus', 'sektor', 'sayap']",7153,populer
+566,"['arema', 'fc', 'pilih', 'enjoy', 'geber', 'siap', 'hadap', 'baya']",8940,populer
+567,"['lawan', 'baya', 'tangguh', 'lini', 'arema', 'fc', 'uji']",4276,populer
+568,"['tim', 'medis', 'arema', 'fc', 'saran', 'ruang', 'ganti', 'main', 'difogging']",11830,populer
+569,"['kalah', 'madura', 'united', 'arema', 'fc', 'aman', 'puncak', 'klasemen']",11623,populer
+570,"['kalah', 'arema', 'fc', 'latih', 'madura', 'united', 'kalah', 'wajar']",8215,populer
+571,"['hadap', 'madura', 'united', 'enam', 'penggawa', 'arema', 'fc', 'rawan', 'kena', 'akumulasi']",7820,populer
+572,"['jelang', 'hadap', 'arema', 'fc', 'madura', 'united', 'tambah', 'amunisi']",7114,populer
+573,"['laga', 'arema', 'fc', 'versus', 'madura', 'united', 'maju']",11207,populer
+574,"['dedik', 'setiawan', 'daftar', 'main', 'cedera', 'arema', 'fc']",8015,populer
+575,"['musim', 'arema', 'fc', 'momentum', 'juara']",4629,populer
+576,"['unggul', 'sita', 'arema', 'fc', 'aman', 'puncak', 'klasemen', 'liga']",5422,populer
+577,"['pulih', 'cedera', 'maringa', 'tunggu', 'lampu', 'hijau', 'latih', 'arema', 'fc']",9734,populer
+578,"['lawan', 'sita', 'arema', 'fc', 'unbeaten']",9072,populer
+579,"['aman', 'tahta', 'liga', 'arema', 'fc', 'minimal', 'butuh', 'poin']",12193,populer
+580,"['genta', 'arema', 'fc', 'opsi', 'lini', 'serang']",11036,populer
+581,"['laden', 'arema', 'fc', 'sita', 'asah', 'finishing', 'touch']",5527,populer
+582,"['alfarizi', 'dominasi', 'catat', 'minutes', 'play', 'arema', 'fc']",11980,populer
+583,"['potensi', 'poin', 'arema', 'fc', 'layang', 'akibat', 'strategi', 'low', 'defense']",8761,populer
+584,"['kabar', 'buruk', 'eduardo', 'potensi', 'absen', 'arema', 'fc', 'laden', 'sita']",4289,populer
+585,"['ryan', 'kurnia', 'usung', 'target', 'pecah', 'telur', 'tim', 'arema', 'fc']",12437,populer
+586,"['jelang', 'tampil', 'turki', 'arema', 'fc', 'women', 'banyak', 'referensi', 'calon', 'lawan']",14858,populer
+587,"['persiraja', 'tekad', 'henti', 'rekor', 'unbeaten', 'arema', 'fc']",2359,populer
+588,"['bagas', 'adi', 'absen', 'arema', 'fc', 'utakatik', 'formula', 'lini']",13995,populer
+589,"['arema', 'fc', 'wajib', 'waspada', 'ledak', 'tim', 'juru', 'kunci']",1833,populer
+590,"['modal', 'rekor', 'mentereng', 'arema', 'fc', 'jelang', 'hadap', 'persiraja']",2215,populer
+591,"['arema', 'fc', 'potensi', 'pecah', 'rekor', 'poin', 'liga']",11508,populer
+592,"['habis', 'duel', 'terbit', 'romantisme', 'tim', 'persija', 'arema', 'fc']",6218,populer
+593,"['tahan', 'persija', 'arema', 'fc', 'panjang', 'rekor']",4016,populer
+594,"['arema', 'fc', 'waspada', 'energi', 'main', 'lap', 'persija']",4170,populer
+595,"['hadap', 'arema', 'fc', 'persija', 'datang', 'main']",4735,populer
+596,"['laden', 'persija', 'arema', 'fc', 'tampil', 'stadion', 'sahabat']",11804,populer
+597,"['hadap', 'arema', 'fc', 'pilar', 'persija', 'absen']",1159,populer
+598,"['main', 'arema', 'fc', 'opsi', 'hadap', 'persija']",1238,populer
+599,"['kib', 'kompak', 'tegas', 'komitmen', 'kawal', 'program', 'perintah', 'jokowi', 'kabinet']",1712,populer
+600,"['manuver', 'cerdas', 'koalisi', 'indonesia', 'satu', 'apresiasi', 'jokowi']",5154,populer
+601,"['luncur', 'gernas', 'bbi', 'jokowi', 'ajak', 'masyarakat', 'belanja', 'produk', 'negeri']",11663,populer
+602,"['airlangga', 'koalisi', 'indonesia', 'satu', 'lanjut', 'bangun', 'era', 'jokowi']",2813,populer
+603,"['adem', 'airlangga', 'surya', 'paloh', 'sepakat', 'jaga', 'perintah', 'jokowi']",3987,populer
+604,"['good', 'news', 'arah', 'jokowi', 'karantina', 'jemaah', 'umrah', 'ppln', 'hari']",5418,populer
+605,"['bupati', 'sanusi', 'beber', 'pesan', 'presiden', 'jokowi']",14845,populer
+606,"['airlangga', 'terima', 'aspirasi', 'panjang', 'jabat', 'jokowi', 'tani', 'sawit']",7824,populer
+607,"['sanitasi', 'arah', 'jokowi', 'bupati', 'sanusi']",1446,populer
+608,"['ekonomi', 'nasional', 'baik', 'puas', 'kerja', 'jokowi', 'tingkat']",10802,populer
+609,"['airlangga', 'jokowi', 'temu', 'joe', 'biden', 'bahas', 'geopolitik', 'indo', 'pacific']",9028,populer
+610,"['presiden', 'jokowi', 'apresiasi', 'kerja', 'tahan', 'indonesiaprancis']",8781,populer
+611,"['jokowi', 'nilai', 'partai', 'golkar', 'matang', 'alam']",11846,populer
+612,"['apresiasi', 'golkar', 'sukses', 'jokowima', 'ruf', 'kendali', 'covid']",14215,populer
+613,"['menko', 'airlangga', 'damping', 'presiden', 'jokowi', 'serah', 'bantu', 'tunai']",11481,populer
+614,"['opening', 'ceremony', 'pon', 'papua', 'buka', 'langsung', 'presiden', 'jokowi']",1260,populer
+615,"['langgar', 'uu', 'jokowi', 'vonis', 'salah', 'adil', 'jakarta', 'pusat']",14204,populer
+616,"['viral', 'demo', 'jokowi', 'ternak', 'blitar', 'undang', 'istana']",14534,populer
+617,"['presiden', 'jokowi', 'tren', 'turun', 'covid', 'jaga']",8481,populer
+618,"['sertifikat', 'vaksin', 'presiden', 'jokowi', 'edar', 'sosmed', 'menkes', 'tindak']",7458,populer
+619,"['malang', 'raya', 'masuk', 'level', 'jokowi', 'ppkm', 'september']",14539,populer
+620,"['presiden', 'jokowi', 'kumpul', 'elit', 'parpol', 'istana']",2139,populer
+621,"['presiden', 'jokowi', 'dukung', 'cepat', 'vaksinasi', 'mahasiswa', 'kota', 'malang']",14123,populer
+622,"['smrc', 'jokowi', 'percaya', 'airlangga']",10342,populer
+623,"['salat', 'idul', 'adha', 'pakai', 'muazin', 'akun', 'presiden', 'jokowi', 'semprit', 'netizen']",9655,populer
+624,"['presiden', 'jokowi', 'laku', 'ppkm', 'darurat', 'jawa', 'bal']",1370,populer
+625,"['bem', 'ui', 'gelar', 'jokowi', 'king', 'of', 'lips', 'service', 'respon', 'rektorat']",11774,populer
+626,"['sindir', 'presiden', 'jokowi', 'bem', 'ui', 'dadak', 'trending', 'twitter']",1456,populer
+627,"['ingat', 'lahir', 'pancasila', 'jokowi', 'waspada', 'ideologi', 'transnasional']",9464,populer
+628,"['ahmad', 'dhani', 'abdee', 'slank', 'siap', 'menteri', 'jokowi']",10751,populer
+629,"['jokowi', 'target', 'ekonomi', 'tumbuh', 'persen', 'respon', 'sutiaji']",10348,populer
+630,"['lebaran', 'anak', 'cucu', 'presiden', 'jokowi']",10319,populer
+631,"['cek', 'fakta', 'jokowi', 'pulang', 'kampung', 'larang', 'mudik']",6435,populer
+632,"['kunjung', 'dampit', 'jokowi', 'baik', 'rumah', 'korban', 'gempa']",9488,populer
+633,"['malang', 'presiden', 'jokowi', 'impor', 'beras']",8184,populer
+634,"['malang', 'rute', 'jalan', 'presiden', 'jokowi']",9848,populer
+635,"['ring', 'jokowi', 'besok', 'reshuffle', 'menteri']",1356,populer
+636,"['ring', 'jokowi', 'sidak', 'rencana', 'mega', 'proyek', 'cable', 'car', 'batu']",12915,populer
+637,"['presiden', 'jokowi', 'kunjung', 'ungsi', 'korban', 'gempa', 'malang']",9516,populer
+638,"['jelang', 'reshuffle', 'kabinet', 'demokrat', 'parpol', 'jokowi']",4027,populer
+639,"['gempa', 'malang', 'presiden', 'jokowi', 'tangan', 'korban', 'segera']",11053,populer
+640,"['simak', 'kesan', 'rekrut', 'arema', 'fc']",1064,populer
+641,"['unggul', 'pss', 'sleman', 'rekor', 'arema', 'fc', 'jaga']",4593,populer
+642,"['sua', 'pss', 'sleman', 'main', 'arema', 'fc', 'reuni']",1653,populer
+643,"['duh', 'jelang', 'piala', 'asia', 'women', 'delegasi', 'arema', 'fc', 'women', 'timnas', 'sakit']",11997,populer
+644,"['kushedya', 'yudo', 'adaptasi', 'ulang', 'gaya', 'main', 'arema', 'fc']",3951,populer
+645,"['arema', 'fc', 'merabaraba', 'kuat', 'pss', 'sleman']",13528,populer
+646,"['posisi', 'arema', 'fc', 'tahan', 'peringkat', 'tentu', 'regulasi']",5397,populer
+647,"['arema', 'fc', 'pasti', 'kiper', 'putar', 'bri', 'liga']",13080,populer
+648,"['arema', 'fc', 'laga', 'eduardo', 'jalan']",4392,populer
+649,"['arema', 'fc', 'hadap', 'jadwal', 'padat', 'kushedya', 'yudo', 'sikap', 'happy']",1977,populer
+650,"['arema', 'fc', 'cicip', 'puncak', 'klasemen']",8691,populer
+651,"['februari', 'arema', 'fc', 'tunggu', 'derby', 'jatim', 'maret', 'wajib', 'lakon', 'big', 'match']",12883,populer
+652,"['arema', 'fc', 'pasti', 'full', 'team', 'sua', 'bhayangkara', 'fc']",14226,populer
+653,"['jelang', 'sua', 'arema', 'fc', 'bhayangkara', 'fc', 'amunisi']",11938,populer
+654,"['alam', 'rekrut', 'anyar', 'arema', 'fc', 'jamin', 'adaptasi', 'cepat']",5776,populer
+655,"['trio', 'timnas', 'milik', 'arema', 'fc', 'cepat']",7035,populer
+656,"['arema', 'fc', 'ngewes', 'fortes']",872,populer
+657,"['pesan', 'manajemen', 'arema', 'fc', 'jelang', 'turun', 'putar', 'bri', 'liga']",7776,populer
+658,"['persikabo', 'duka', 'arema', 'fc', 'kena', 'pita', 'hitam']",6471,populer
+659,"['kans', 'fabiano', 'sandi', 'sute', 'back', 'to', 'back', 'juara', 'arema', 'fc']",1672,populer
+660,"['fisik', 'prima', 'adaptasi', 'arema', 'fc', 'bal', 'lancar']",11226,populer
+661,"['arema', 'fc', 'singkat', 'jarak', 'puncak', 'klasemen', 'liga']",4450,populer
+662,"['skuad', 'arema', 'fc', 'kental', 'nuansa', 'liga']",4308,populer
+663,"['misi', 'ryan', 'kurnia', 'rekrut', 'anyar', 'arema', 'fc', 'bri', 'liga']",6683,populer
+664,"['boyongan', 'bal', 'arema', 'fc', 'bawa', 'kiper']",7467,populer
+665,"['ahmad', 'figo', 'main', 'muda', 'arema', 'fc', 'biasa', 'multiposisi']",1359,populer
+666,"['nobar', 'arema', 'fc', 'jaga', 'kompak', 'tim']",749,populer
+667,"['resmi', 'sponsor', 'arema', 'indonesia', 'liga']",377,standar
+668,"['jelang', 'hadap', 'baya', 'recovery', 'arema', 'fc', 'mepet']",251,standar
+669,"['libas', 'madura', 'united', 'modal', 'arema', 'fc', 'hadap', 'derby', 'jatim']",284,standar
+670,"['balik', 'menang', 'arema', 'fc', 'lawan', 'madura', 'united', 'malam']",446,standar
+671,"['on', 'fire', 'madura', 'united', 'main', 'ngotot', 'lawan', 'arema', 'fc']",431,standar
+672,"['ego', 'michiels', 'andal', 'lini', 'arema', 'fc']",443,standar
+673,"['malang', 'lawan', 'madura', 'united', 'arema', 'wajib', 'waspada', 'babak']",344,standar
+674,"['sosok', 'eduardo', 'almeida', 'mata', 'penggawa', 'arema', 'fc']",426,standar
+675,"['hadap', 'derby', 'jatim', 'arema', 'percaya', 'aman', 'operator', 'liga']",477,standar
+676,"['move', 'on', 'sita', 'arema', 'lawan', 'madura', 'united']",315,standar
+677,"['sepak', 'terjang', 'singa', 'muda', 'arema', 'fc', 'aremania', 'main']",496,standar
+678,"['jaga', 'hubung', 'eks', 'main', 'arema']",386,standar
+679,"['lengah', 'tanding', 'paksa', 'arema', 'rekor', 'menang']",256,standar
+680,"['gagal', 'lanjut', 'tren', 'menang', 'arema', 'singo', 'tahan', 'imbang', 'sita']",270,standar
+681,"['laga', 'lawan', 'baya', 'arema', 'hadir', 'suporter', 'stadion']",344,standar
+682,"['sita', 'noda', 'rekor', 'arema', 'fc']",444,standar
+683,"['hadap', 'sita', 'arema', 'fc', 'turun', 'rizky', 'yudo']",467,standar
+684,"['malam', 'arema', 'hadap', 'lawan', 'on', 'fire']",380,standar
+685,"['jadwal', 'istirahat', 'mepet', 'arema', 'optimis', 'tampil', 'maksimal', 'lawan', 'sita']",357,standar
+686,"['arema', 'fc', 'ulang', 'menang', 'stadion', 'sultan', 'agung', 'bantul']",388,standar
+687,"['lawan', 'baya', 'aremania', 'hadir', 'stadion']",297,standar
+688,"['achmad', 'figo', 'arema', 'vs', 'persiraja', 'mimpi', 'wujud']",481,standar
+689,"['recovery', 'mepet', 'arema', 'fc', 'lawan', 'tim', 'pendekar', 'cisadane']",311,standar
+690,"['imbas', 'rusa', 'bus', 'arema', 'seri', 'jatim', 'ancam', 'batal']",475,standar
+691,"['tekuk', 'persiraja', 'rekor', 'toreh', 'arema', 'fc']",250,standar
+692,"['banjir', 'peluang', 'arema', 'fc', 'sukses', 'takluk', 'persiraja', 'banda', 'aceh']",267,standar
+693,"['manajemen', 'arema', 'fc', 'lengah', 'hadap', 'persiraja', 'banda', 'aceh']",340,standar
+694,"['akumulasi', 'langgar', 'bayang', 'main', 'arema', 'fc']",360,standar
+695,"['jelang', 'lawan', 'persijara', 'arema', 'fc', 'kans', 'menang']",326,standar
+696,"['biaya', 'baik', 'bus', 'arema', 'puluh', 'juta', 'tanggung']",438,standar
+697,"['suporter', 'rusak', 'bus', 'arema', 'fc', 'baya', 'maaf']",313,standar
+698,"['arema', 'raih', 'label', 'klub', 'profesional', 'afc', 'untung']",359,standar
+699,"['formasi', 'andal', 'arema', 'fc']",484,standar
+700,"['main', 'muda', 'kans', 'tampil', 'arema', 'fc', 'hadap', 'persiraja']",333,standar
+701,"['manager', 'ad', 'interim', 'arema', 'fc', 'target', 'ali', 'rifki']",256,standar
+702,"['istirahat', 'hari', 'arema', 'langsung', 'geber', 'latih']",495,standar
+703,"['duet', 'raflicortes', 'tune', 'in', 'main', 'arema', 'kuat', 'komunikasi']",307,standar
+704,"['absen', 'eks', 'main', 'muda', 'arema', 'turun', 'liga']",375,standar
+705,"['catat', 'tanding', 'dendi', 'santoso', 'pensiun', 'arema']",375,standar
+706,"['dendi', 'pecah', 'rekor', 'lawan', 'persija', 'laga', 'arema']",493,standar
+707,"['libas', 'persija', 'jakarta', 'arema', 'fc', 'usik', 'saing', 'papan']",320,standar
+708,"['arema', 'fc', 'rekor', 'minor', 'manah', 'persija', 'jakarta']",484,standar
+709,"['arema', 'fc', 'ali', 'rifki', 'manajer', 'ad', 'interim']",484,standar
+710,"['lawan', 'persija', 'jakarta', 'arema', 'siap', 'tahan', 'penjuru']",481,standar
+711,"['karantina', 'main', 'arema', 'absen', 'lawan', 'persija']",287,standar
+712,"['edan', 'tantang', 'arema', 'fc', 'seri', 'bri', 'liga']",415,standar
+713,"['gm', 'arema', 'kerja', 'keras', 'cepat', 'puas']",427,standar
+714,"['kompetisi', 'off', 'arema', 'fc', 'women', 'cemas', 'fisik', 'drop']",345,standar
+715,"['lini', 'bisnis', 'arema', 'sambut', 'rencana', 'suporter', 'masuk', 'stadion']",297,standar
+716,"['main', 'solo', 'sleman', 'rekor', 'minor', 'hantu', 'tim', 'arema', 'fc', 'seri']",292,standar
+717,"['renshi', 'yamaguchi', 'spesialis', 'takling', 'arema', 'fc']",280,standar
+718,"['pulang', 'tc', 'main', 'arema', 'kompak', 'sambut', 'pekan', 'liga']",252,standar
+719,"['main', 'arema', 'fc', 'jalan', 'kursus', 'jaga', 'fisik']",452,standar
+720,"['sambut', 'liga', 'seri', 'arema', 'fc', 'gelar', 'tc', 'batu']",270,standar
+721,"['pekan', 'empat', 'bri', 'liga', 'aremania', 'hadir', 'stadion']",289,standar
+722,"['seri', 'bri', 'liga', 'silah', 'nonton', 'arema', 'fc', 'rumah']",498,standar
+723,"['bongkar', 'dapur', 'latih', 'arema', 'fc', 'musim']",495,standar
+724,"['sambut', 'bri', 'liga', 'seri', 'main', 'arema', 'fc', 'gas', 'pol']",311,standar
+725,"['libur', 'besok', 'skuad', 'arema', 'genjot', 'latih']",491,standar
+726,"['jersey', 'fortes', 'buru', 'aremania']",491,standar
+727,"['cetak', 'gol', 'catat', 'presiden', 'arema', 'fc', 'carlos', 'fortes']",264,standar
+728,"['fixed', 'jadwal', 'arema', 'fc', 'seri', 'bri', 'liga']",317,standar
+729,"['seri', 'arema', 'fc', 'langsung', 'tantang', 'macan', 'mayor']",306,standar
+730,"['clean', 'sheet', 'main', 'arema', 'fc', 'libur']",426,standar
+731,"['almeida', 'kunci', 'menang', 'solid', 'arema', 'fc', 'lawan', 'sela']",322,standar
+732,"['menang', 'mutlak', 'lawan', 'sela', 'arema', 'bayang', 'klasemen']",344,standar
+733,"['sama', 'rekor', 'puncak', 'klasemen', 'arema', 'fc', 'raih', 'kali', 'clean', 'sheet']",476,standar
+734,"['babak', 'arema', 'unggul', 'sela', 'lamongan', 'gol']",336,standar
+735,"['laga', 'syarat', 'reuni', 'arema', 'fc', 'lawan', 'sela', 'lamongan']",338,standar
+736,"['seri', 'bri', 'liga', 'arema', 'fc', 'boyongan', 'jateng']",480,standar
+737,"['arema', 'fc', 'ulang', 'menang', 'stadion', 'madya', 'jakarta']",322,standar
+738,"['positif', 'thinking', 'hikmah', 'balik', 'main', 'aremania']",389,standar
+739,"['menang', 'main', 'arema', 'optimistis', 'lawan', 'sela', 'lamongan']",256,standar
+740,"['latih', 'arema', 'eduardo', 'almeida', 'beber', 'rahasia', 'kalah', 'persipura']",416,standar
+741,"['tekuk', 'persipura', 'arema', 'fc', 'raya', 'menang', 'perdana', 'liga']",354,standar
+742,"['sore', 'sempat', 'arema', 'fc', 'raih', 'menang', 'perdana']",298,standar
+743,"['arema', 'fc', 'menang', 'almeida', 'sulit']",374,standar
+744,"['laga', 'lawan', 'persipura', 'momen', 'arema', 'fc', 'paceklik', 'poin']",399,standar
+745,"['gagal', 'menang', 'arema', 'fc', 'tempat', 'posisi', 'klasemen', 'liga']",431,standar
+746,"['tahan', 'imbang', 'psis', 'latih', 'arema', 'hilang', 'finishing', 'touch']",267,standar
+747,"['arema', 'fc', 'vs', 'psis', 'semarang', 'adil', 'almeida']",496,standar
+748,"['arema', 'fc', 'hattrick', 'hasil', 'minor', 'kans', 'eduardo', 'pecat', 'kuat']",360,standar
+749,"['uak', 'ritual', 'main', 'arema', 'fc', 'jelang', 'tanding']",265,standar
+750,"['jelang', 'laga', 'lawan', 'ps', 'sleman', 'main', 'arema', 'fc', 'panggil', 'timnas']",290,standar
+751,"['arema', 'fc', 'datang', 'amunisi', 'jelang', 'laga', 'lawan', 'ps', 'sleman']",265,standar
+752,"['lawan', 'ps', 'sleman', 'arema', 'fc', 'jaga', 'asa', 'kampiun', 'liga']",352,standar
+753,"['tahan', 'imbang', 'bhayangkaran', 'fc', 'penggawa', 'arema', 'fc', 'sesal']",324,standar
+754,"['lawan', 'main', 'arema', 'fc', 'gagal', 'menang']",453,standar
+755,"['lawan', 'bhayangkara', 'arema', 'fc', 'andal', 'penggawa', 'asing']",291,standar
+756,"['babak', 'arema', 'vs', 'bhayangkara', 'main', 'maksimal']",388,standar
+757,"['arema', 'fc', 'kontra', 'bhayangkara', 'fc', 'kunci', 'angka', 'lanjut', 'dominasi']",298,standar
+758,"['arema', 'fc', 'lawan', 'bhayangkara', 'sore', 'dedik', 'cetak', 'gol']",343,standar
+759,"['hadap', 'bhayangkara', 'fc', 'liga', 'arema', 'fc', 'siap', 'gaya', 'malang']",483,standar
+760,"['tim', 'ngeyel', 'juragan', 'apresiasi', 'laga', 'perdana', 'arema', 'fc']",424,standar
+761,"['amunisi', 'arema', 'fc', 'gaet', 'eks', 'latih', 'kiper', 'timnas']",496,standar
+762,"['arema', 'fc', 'sukses', 'jaga', 'rekor', 'laga', 'buka']",290,standar
+763,"['main', 'orang', 'babak', 'arema', 'tahan', 'psm', 'makassar']",336,standar
+764,"['arema', 'versus', 'psm', 'jayus', 'kantong', 'kartu', 'merah', 'liga', 'bri']",328,standar
+765,"['laga', 'perdana', 'arema', 'fc', 'optimis', 'rebut', 'poin', 'stadion', 'pakansari']",462,standar
+766,"['preview', 'arema', 'fc', 'vs', 'psm', 'samasama', 'buta', 'kuat', 'lawan']",440,standar
+767,"['jadwal', 'bola', 'malam', 'psm', 'vs', 'arema', 'brazil', 'vs', 'argentina']",353,standar
+768,"['besok', 'tampil', 'perdana', 'daftar', 'modal', 'arema', 'fc', 'arung', 'liga']",255,standar
+769,"['arema', 'fc', 'klub', 'indonesia', 'bela', 'sergio', 'silva']",397,standar
+770,"['sergio', 'silva', 'resmi', 'gabung', 'arema', 'fc']",284,standar
+771,"['jadwal', 'lengkap', 'tanding', 'arema', 'fc', 'liga']",291,standar
+772,"['daftar', 'tes', 'medis', 'sergio', 'silva', 'teken', 'kontrak', 'arema', 'fc']",351,standar
+773,"['presiden', 'arema', 'fc', 'resmi', 'mess', 'mewah', 'bus', 'tim']",362,standar
+774,"['hut', 'arema', 'polres', 'kado', 'dosis', 'vaksin']",377,standar
+775,"['hut', 'arema', 'malang', 'nihil', 'konvoi', 'aremania']",459,standar
+776,"['konvoi', 'aremania', 'bubar', 'kendara', 'kena', 'tilang']",457,standar
+777,"['libur', 'asn', 'malang', 'raya', 'kompak', 'seragam', 'arema']",353,standar
+778,"['gilang', 'crazy', 'rich', 'gila', 'bola', 'bawa', 'ubah', 'arema', 'fc']",260,standar
+779,"['main', 'akademi', 'arema', 'lanjut', 'estafet', 'regenerasi']",299,standar
+780,"['nekat', 'konvoi', 'hut', 'arema', 'puluh', 'aremania', 'cegat', 'polisi']",267,standar
+781,"['arema', 'ulang', 'atur', 'pasang', 'bendera', 'arema']",385,standar
+782,"['personel', 'gabung', 'aman', 'ingat', 'hut', 'arema']",449,standar
+783,"['jelang', 'hut', 'arema', 'aremania', 'difabel', 'vaksinasi', 'polresta']",322,standar
+784,"['sambut', 'hut', 'arema', 'polres', 'malang', 'vaksinasi', 'aremania', 'aremanita']",346,standar
+785,"['jelang', 'hut', 'arema', 'forkopimda', 'malang', 'raya', 'gelar', 'deklarasi']",349,standar
+786,"['siapsiap', 'pakai', 'atribut', 'arema', 'tanggal', 'agustus']",399,standar
+787,"['liga', 'siap', 'tim', 'arema', 'fc', 'maksimal']",392,standar
+788,"['jelang', 'store', 'arema', 'fc', 'banjir', 'beli']",283,standar
+789,"['jelang', 'ultah', 'manajemen', 'singo', 'edan', 'siap', 'hadiah', 'aremania']",465,standar
+790,"['jadwal', 'liga', 'abuabu', 'latih', 'arema', 'fc', 'khawatir']",341,standar
+791,"['malang', 'coach', 'edu', 'arema', 'fc']",369,standar
+792,"['raya', 'presiden', 'arema', 'siap', 'motor', 'sembako']",499,standar
+793,"['kuncoro', 'bagi', 'kisah', 'arema', 'juara', 'galatama', 'rahasia']",334,standar
+794,"['main', 'asing', 'arema', 'fc', 'dongkrak', 'jual', 'merchandise']",278,standar
+795,"['eduardo', 'liga', 'jalan', 'besok', 'skuad', 'arema', 'fc']",381,standar
+796,"['carlos', 'fortes', 'bayang', 'kutu', 'nomor', 'punggung', 'arema', 'fc']",472,standar
+797,"['cipta', 'herd', 'immunity', 'arema', 'fc', 'gencar', 'vaksinasi']",469,standar
+798,"['cerita', 'coach', 'arema', 'fc', 'sentuh', 'fanatisme', 'aremania']",406,standar
+799,"['modal', 'hadap', 'liga', 'arema', 'fc', 'main', 'multiposisi']",417,standar
+800,"['main', 'akademi', 'arema', 'resmi', 'kasta']",317,standar
+801,"['arema', 'fc', 'malang', 'butuh', 'lahan', 'hektare', 'training', 'ground']",366,standar
+802,"['striker', 'import', 'vs', 'lokal', 'saing', 'ketat', 'isi', 'posisi', 'inti', 'arema', 'fc']",338,standar
+803,"['latih', 'arema', 'buka', 'lebar', 'kans', 'main', 'muda', 'masuk', 'tim', 'inti']",348,standar
+804,"['kans', 'arema', 'fc', 'gaet', 'stephane', 'sparagna', 'kuat']",269,standar
+805,"['arema', 'fc', 'incar', 'main', 'asing', 'tugal']",433,standar
+806,"['liga', 'tim', 'latih', 'arema']",365,standar
+807,"['latih', 'fisik', 'arema', 'fc', 'malang', 'siswantoro', 'lisensi', 'afc']",465,standar
+808,"['ppkm', 'darurat', 'arema', 'fc', 'malang', 'buka', 'opsi', 'latih', 'virtual']",429,standar
+809,"['main', 'muda', 'arema', 'fc', 'malang', 'manfaat', 'adilson', 'maringa', 'renshi']",401,standar
+810,"['rekrut', 'anyar', 'arema', 'fc', 'ganjal', 'kontrak']",260,standar
+811,"['latih', 'arema', 'fc', 'eduardo', 'almeida', 'ikut', 'vaksinasi']",323,standar
+812,"['kay', 'gabung', 'arema', 'fc', 'sebab']",424,standar
+813,"['kick', 'off', 'liga', 'tunda', 'latih', 'arema', 'fc', 'jalan']",342,standar
+814,"['aroma', 'portugal', 'rapat', 'arema', 'fc']",461,standar
+815,"['piala', 'wali', 'kota', 'solo', 'batal', 'tim', 'arema', 'fc', 'deja', 'vu', 'liga']",352,standar
+816,"['adilson', 'maringa', 'kiper', 'arema', 'peluang']",484,standar
+817,"['ego', 'ancam', 'absen', 'bela', 'arema', 'piala', 'wali', 'kota', 'solo']",480,standar
+818,"['arema', 'fc', 'optimal', 'main', 'lokal', 'piala', 'wali', 'kota', 'solo']",387,standar
+819,"['klausul', 'khusus', 'kontrak', 'ego', 'michiels', 'arema']",459,standar
+820,"['kendala', 'kontrak', 'main', 'asing', 'arema', 'jakarta']",325,standar
+821,"['penggawa', 'arema', 'fc', 'putri', 'panggil', 'timnas']",338,standar
+822,"['renshi', 'yamaguchi', 'adilson', 'maringa', 'bukti', 'layak', 'arema', 'fc']",312,standar
+823,"['karantina', 'renshi', 'maringa', 'langsung', 'gabung', 'arema', 'fc']",440,standar
+824,"['jadwal', 'liga', 'ideal', 'skuad', 'arema', 'fc', 'tinggal', 'jaga', 'performa']",495,standar
+825,"['sinyal', 'main', 'brasil', 'jepang', 'gabung', 'arema', 'fc', 'kuat']",276,standar
+826,"['latih', 'arema', 'fc', 'yudo', 'rafli', 'langsung', 'klik']",315,standar
+827,"['hadap', 'tim', 'juku', 'eja', 'laga', 'buka', 'arema', 'fc', 'banyak', 'uji', 'coba']",253,standar
+828,"['penggawa', 'arema', 'fc', 'malang', 'rebut', 'posisi', 'starting', 'eleven']",378,standar
+829,"['main', 'legenda', 'tuju', 'juragan', 'beli', 'pt', 'arema', 'indonesia']",440,standar
+830,"['kiper', 'brasil', 'incar', 'arema', 'fc']",324,standar
+831,"['bocor', 'negara', 'calon', 'main', 'asing', 'arema', 'fc']",472,standar
+832,"['presiden', 'arema', 'fc', 'gilang', 'juragan', 'rencana', 'beli', 'arema', 'indonesia']",471,standar
+833,"['arema', 'fc', 'andal', 'main', 'lokal', 'piala', 'wali', 'kota', 'solo']",271,standar
+834,"['hadiah', 'rp', 'juta', 'arema', 'piala', 'wali', 'kota', 'solo']",400,standar
+835,"['kratingdaeng', 'hengkang', 'arema', 'fc', 'indofood', 'masuk']",372,standar
+836,"['ikhwan', 'hengkang', 'komposisi', 'lini', 'arema', 'fc', 'ubah']",313,standar
+837,"['panas', 'jelang', 'liga', 'arema', 'fc', 'piala', 'wali', 'kota', 'solo']",480,standar
+838,"['bangun', 'training', 'center', 'main', 'target', 'presiden', 'arema', 'fc']",345,standar
+839,"['pake', 'janji', 'presiden', 'arema', 'fc']",426,standar
+840,"['bos', 'juragan', 'presiden', 'arema', 'fc']",378,standar
+841,"['arema', 'fc', 'bidik', 'penggawa', 'asing']",444,standar
+842,"['laga', 'liga', 'arema', 'fc']",344,standar
+843,"['sistem', 'liga', 'ketemu', 'arema', 'fc', 'pilih', 'fokus', 'tim']",300,standar
+844,"['pekan', 'rans', 'cilegon', 'fc', 'jajal', 'arema']",292,standar
+845,"['pusat', 'latih', 'bal', 'skuad', 'rans', 'cilegon', 'jajal', 'arema', 'fc']",259,standar
+846,"['asyik', 'sungkem', 'lebaran', 'ala', 'kampung', 'biru', 'arema']",371,standar
+847,"['modal', 'dave', 'mustaine', 'pede', 'masuk', 'line', 'up', 'arema']",496,standar
+848,"['arema', 'fc', 'lirik', 'main', 'asing']",406,standar
+849,"['coach', 'edo', 'bawa', 'semangat', 'penggawa', 'arema', 'fc']",298,standar
+850,"['siap', 'latih', 'arema', 'fc', 'jajal', 'rans', 'cilegon']",496,standar
+851,"['latih', 'arema', 'fc', 'samping', 'jadwal', 'utama', 'kesiap', 'skuad']",295,standar
+852,"['latih', 'penggawa', 'arema', 'fc', 'wajib', 'tes', 'swab']",410,standar
+853,"['selamat', 'bhumi', 'arema', 'almeida']",254,standar
+854,"['lusa', 'arema', 'fc', 'latih', 'perdana', 'aremania', 'larang', 'nonton']",346,standar
+855,"['pekan', 'arema', 'fc', 'launching', 'jersey', 'tandang']",473,standar
+856,"['sponsor', 'tahan', 'support', 'arema', 'fc']",446,standar
+857,"['arema', 'fc', 'optimistis', 'lolos', 'verifikasi', 'afc', 'club', 'licensing', 'cycle']",433,standar
+858,"['arthur', 'cunha', 'tunggu', 'negosiasi', 'kontrak', 'arema', 'fc']",412,standar
+859,"['gelar', 'laga', 'eksebisi', 'nzr', 'red', 'bold', 'arema', 'unggul', 'sema', 'malang']",352,standar
+860,"['misi', 'utama', 'latih', 'arema', 'fc']",465,standar
+861,"['eduardo', 'almeida', 'laku', 'analisis', 'kuat', 'arema', 'fc']",499,standar
+862,"['eduardo', 'almeida', 'siap', 'asisten', 'latih', 'arema', 'fc']",280,standar
+863,"['klir', 'eduardo', 'almeida', 'nakhoda', 'arema', 'fc']",401,standar
+864,"['main', 'arema', 'fc', 'peluang', 'tampil', 'tanding', 'internasional']",275,standar
+865,"['main', 'asing', 'arema', 'fc', 'wajib', 'lolos', 'medical', 'checkup']",407,standar
+866,"['depak', 'arema', 'fc', 'caio', 'ruan', 'labuh', 'persipura']",466,standar
+867,"['tawar', 'giur', 'angel', 'alfredo', 'fix', 'latih', 'arema', 'fc']",367,standar
+868,"['jaga', 'performa', 'arema', 'fc', 'latih', 'puasa']",277,standar
+869,"['kondisi', 'main', 'arema', 'fc', 'gempa', 'malang']",454,standar
+870,"['kontrak', 'arema', 'fc', 'brunocaio', 'gerilya', 'tim']",411,standar
+871,"['tagih', 'janji', 'wali', 'alas', 'aremania', 'mmga', 'lempar', 'surat', 'cinta']",462,standar
+872,"['gembleng', 'fisik', 'main', 'arema', 'fc', 'latih', 'khusus']",408,standar
+873,"['pesawat', 'kertas', 'aremania', 'darat', 'rumdin', 'reaksi', 'wali', 'kota']",293,standar
+874,"['hindar', 'main', 'flop', 'arema', 'fc', 'siap']",374,standar
+875,"['april', 'nahkoda', 'arema', 'fc', 'target']",345,standar
+876,"['kado', 'hut', 'kota', 'malang', 'arema', 'fc', 'women', 'juara', 'ii', 'piala', 'kartini']",387,standar
+877,"['arema', 'fc', 'kontrak', 'latih', 'portugal']",308,standar
+878,"['arema', 'fc', 'ubah', 'strategi', 'buru', 'main', 'asing']",255,standar
+879,"['kalah', 'piala', 'menpora', 'arema', 'fc', 'ngaku', 'untung']",482,standar
+880,"['arema', 'fc', 'women', 'buru', 'tropi', 'piala', 'kartini', 'kado', 'kota', 'malang']",393,standar
+881,"['arema', 'fc', 'sisih', 'piala', 'menpora', 'asisten', 'latih']",295,standar
+882,"['long', 'march', 'aremania', 'audiensi', 'dada', 'balai', 'kota']",337,standar
+883,"['kapolres', 'calon', 'kades', 'sportif']",381,standar
+884,"['pacu', 'umkm', 'pandemi', 'program', 'kur']",278,standar
+885,"['cepat', 'inklusi', 'uang', 'ponpes', 'dukung', 'growth', 'ekonomi', 'nasional']",433,standar
+886,"['kota', 'primadona', 'investor']",465,standar
+887,"['sektor', 'pariwisata', 'ber', 'chse', 'buka']",457,standar
+888,"['operasional', 'jam', 'unjung', 'mal', 'optimis', 'tingkat']",445,standar
+889,"['kota', 'batu', 'malioboro', 'mini']",396,standar
+890,"['jelang', 'nataru', 'pemkot', 'siap', 'ribu', 'alat', 'swab']",250,standar
+891,"['vaksinasi', 'polkesma', 'jangkau', 'ribu', 'warga']",454,standar
+892,"['produk', 'kabupaten', 'malang', 'pikat', 'perhati', 'wagub', 'jatim']",261,standar
+893,"['dukung', 'lestari', 'lingkung', 'green', 'sukuk', 'ritel', 'st', 'bri', 'overtarget']",260,standar
+894,"['disparta', 'dukung', 'laku', 'ekonomi', 'gelar', 'culinary', 'festival']",396,standar
+895,"['aju', 'pasar', 'kasin', 'kantong', 'sertifikat', 'sni']",295,standar
+896,"['airlangga', 'kerja', 'nyata', 'presidensi']",429,standar
+897,"['bantu', 'parpol', 'aju', 'lipat']",343,standar
+898,"['polisi', 'korban', 'zha', 'alami', 'laka', 'tunggal']",384,standar
+899,"['laka', 'adik', 'korban', 'curiga', 'motor', 'mondarmandir', 'rumah']",473,standar
+900,"['zha', 'whistleblower', 'coba', 'match', 'fixing', 'liga', 'zona', 'jatim']",408,standar
+901,"['laka', 'korban', 'tabrak', 'lari', 'muncul', 'aroma', 'teror', 'mafia', 'bola']",497,standar
+902,"['godok', 'ranperda', 'antirentenir']",308,standar
+903,"['hotel', 'bintang', 'perdana', 'kepanjen']",487,standar
+904,"['orang', 'tinggal', 'sebab']",387,standar
+905,"['asyik', 'vaksinasi', 'piknik', 'baloga']",495,standar
+906,"['filosofi', 'olahraga', 'manah']",415,standar
+907,"['kak', 'seto', 'seksi', 'lindung', 'anak', 'rtrw']",411,standar
+908,"['ojk', 'fintech', 'lending', 'days', 'bantu', 'edukasi', 'warga', 'malang', 'raya']",268,standar
+909,"['pacu', 'ekosistem', 'ultra', 'mikro', 'colocationsenyum', 'hadir']",276,standar
+910,"['fintech', 'lending', 'days', 'malang', 'edukasi', 'dana', 'fintech', 'pacu', 'umkm']",291,standar
+911,"['kreasi', 'difabel', 'musrenbang', 'tsp']",488,standar
+912,"['siksa', 'mata', 'anak', 'panti', 'kabur']",383,standar
+913,"['perban', 'ambil', 'akselerasi', 'transisi', 'via', 'ekonomi', 'rendah', 'karbon']",454,standar
+914,"['kejar', 'pasu', 'rp', 'bapenda', 'panggil', 'tahap', 'tunggak', 'pajak']",448,standar
+915,"['matahari', 'dept', 'store', 'salur', 'bantu', 'nila', 'rp', 'juta', 'via', 'bmh']",327,standar
+916,"['unisma', 'sambut', 'mahasiswa', 'program', 'inbond']",275,standar
+917,"['gopay', 'bank', 'jago', 'hadir', 'mudah', 'akses', 'perban', 'digital']",431,standar
+918,"['vaksinasi', 'remaja', 'kota', 'batu', 'tuntas', 'persen']",456,standar
+919,"['ingat', 'guru', 'pln', 'up', 'malang', 'gelar', 'pln', 'ajar']",461,standar
+920,"['damping', 'umk', 'malang', 'pnm', 'latih', 'budidaya', 'magot']",307,standar
+921,"['pesan', 'wabup', 'guru', 'adaptif']",371,standar
+922,"['curi', 'rp', 'jalan', 'rusak', 'tangan']",473,standar
+923,"['keren', 'stie', 'malangkucecwara', 'raih', 'kali', 'berturutturut']",333,standar
+924,"['peduli', 'banjir', 'pmi', 'terima', 'salur', 'bantu']",299,standar
+925,"['drama', 'musikal', 'ingat', 'guru']",320,standar
+926,"['contoh', 'patuh', 'hukum', 'perintah', 'laksana', 'putus', 'mk']",430,standar
+927,"['tahu', 'operasi', 'langgar', 'perda', 'ganjar', 'denda', 'tipiring']",462,standar
+928,"['revisi', 'perda', 'rtrw', 'masuk', 'usul', 'prioritas', 'prolegda']",482,standar
+929,"['jalin', 'silaturrahmmi', 'ikpmr', 'kunjung', 'korem', 'riau']",295,standar
+930,"['manfaat', 'media', 'podcast', 'jurus', 'pls', 'wadah', 'aspirasi']",494,standar
+931,"['easycash', 'ramai', 'program', 'umkm', 'visit', 'fintech', 'lending', 'days', 'malang']",499,standar
+932,"['mendag', 'dorong', 'laku', 'usaha', 'manfaat', 'tren', 'tumbuh', 'ekonomi', 'hijau']",339,standar
+933,"['wali', 'kota', 'sutiaji', 'prioritas', 'csr', 'sektor']",320,standar
+934,"['warga', 'miskin', 'kota', 'tingkat', 'pemkot', 'waspada', 'angka', 'stunting']",306,standar
+935,"['buntut', 'polemik', 'tata', 'pilih', 'senat', 'ub', 'ancam', 'diptunkan']",250,standar
+936,"['pergi', 'pamit', 'mancing', 'pulang', 'tinggal', 'nama']",474,populer
+937,"['bocah', 'panti', 'korban', 'aniaya', 'raya', 'ultah', 'shelter', 'dinsos']",377,standar
+938,"['pakar', 'hukum', 'ub', 'laku', 'kena', 'hukum']",280,standar
+939,"['dinsos', 'rehab', 'saksi', 'siksa', 'korban']",416,standar
+940,"['enam', 'main', 'arema', 'fc', 'rawan', 'absen', 'laden', 'persib', 'bandung']",379,standar
+941,"['kuasa', 'hukum', 'korban', 'sayang', 'polisi', 'tahan', 'remaja']",387,standar
+942,"['kendala', 'lokus', 'tkp', 'ampas', 'masuk', 'bap']",346,standar
+943,"['polisi', 'bebas', 'bocah', 'sudut', 'rokok', 'kaki', 'korban', 'anak', 'panti']",498,standar
+944,"['kompetisi', 'off', 'arema', 'fc', 'women', 'sponsor', 'anyar']",374,standar
+945,"['stadion', 'kanjuruhan', 'rusak']",408,standar
+946,"['mahasiswa', 'usaha', 'beasiswa', 'bri', 'pedulicreation']",376,standar
+947,"['jsa', 'fs', 'um', 'sukses', 'gelar', 'latih', 'terampil', 'tulis', 'bahasa', 'arab']",270,standar
+948,"['era', 'society', 'guru', 'madrasah', 'update', 'mampu']",491,standar
+949,"['saing', 'ketat', 'arema', 'fc', 'wajib', 'jaga', 'konsistensi']",309,standar
+950,"['jalan', 'debut', 'main', 'muda', 'arema', 'fc', 'aku', 'nervous']",304,standar
+951,"['malang', 'pocong', 'urus', 'ktp']",347,standar
+952,"['hasil', 'patok', 'rp', 'triliun']",477,standar
+953,"['electric', 'vehicle', 'leading', 'by', 'example', 'presidensi', 'indonesia']",253,standar
+954,"['raya', 'hut', 'nakes', 'rssa', 'unjuk', 'vokal', 'pakai', 'dresscode', 'badminton']",426,standar
+955,"['bri', 'borong', 'harga', 'bank', 'indonesia', 'award']",292,standar
+956,"['jsa', 'fs', 'um', 'sukses', 'gelar', 'latih', 'maharah', 'kalam', 'qiraah', 'via', 'daring']",411,standar
+957,"['bangun', 'desa', 'wisata', 'edukasi', 'um', 'laku', 'tingkat', 'potensi', 'lokal']",333,standar
+958,"['turun', 'tambah', 'koleksi', 'elibrary']",299,standar
+959,"['komitmen', 'ajak', 'umkm', 'kelas', 'kuat', 'kewirausahaan']",445,standar
+960,"['genjot', 'mutu', 'unmer', 'malang', 'bentuk', 'ami']",269,standar
+961,"['pt', 'jamkrindo', 'salur', 'bantu', 'korban', 'banjir', 'kota', 'batu']",438,standar
+962,"['guru', 'madrasah', 'swasta', 'sarjana']",470,standar
+963,"['rahasia', 'bugar', 'penggawa', 'arema', 'fc', 'musim']",273,standar
+964,"['menang', 'periksa', 'korban', 'henti']",300,standar
+965,"['polisi', 'motif', 'aniaya', 'picu', 'kesal', 'korban']",332,standar
+966,"['hadap', 'barito', 'putera', 'arema', 'fc', 'tunggu', 'agenda', 'big', 'match']",262,standar
+967,"['modal', 'wajib', 'ibuibu', 'pkk']",287,standar
+968,"['nostalgia', 'anggota', 'tim', 'arema', 'fc', 'laga', 'lawan', 'barito', 'putera']",264,standar
+969,"['kabupaten', 'malang', 'rujuk', 'provinsi']",444,standar
+970,"['rp', 'juta', 'picu', 'pecah', 'tubuh', 'gerindra']",452,standar
+971,"['kbri', 'beijing', 'ma', 'chung', 'gelar', 'latih', 'bahasa', 'mandarin']",263,standar
+972,"['menang', 'barito', 'putera', 'posisi', 'arema', 'fc', 'liga', 'tingkat']",392,standar
+973,"['ijen', 'suites', 'hadir', 'saji', 'unik', 'musim', 'mangga']",487,standar
+974,"['november', 'art', 'um', 'usung', 'tema', 'mudamudi']",416,standar
+975,"['edukasi', 'siswa', 'smpn', 'kota', 'malang', 'piawai', 'tulis']",484,standar
+976,"['daya', 'umkm', 'bri', 'bantu', 'usaha', 'kripik', 'suryaningsih', 'tuai', 'berkah']",481,standar
+977,"['jelang', 'lawan', 'barito', 'arema', 'fc', 'track', 'record', 'untung']",367,standar
+978,"['gandeng', 'uin', 'malang', 'kemenag', 'ri', 'ajak', 'guru', 'gencar', 'moderasi', 'agama']",276,standar
+979,"['antisipasi', 'hujan', 'arema', 'fc', 'siap', 'skema', 'main']",482,standar
+980,"['enam', 'penggawa', 'singo', 'edan', 'rawan', 'absen', 'sua', 'persib', 'bandung']",455,standar
+981,"['alami', 'cabul']",446,standar
+982,"['laku', 'cabul', 'bocah', 'panti', 'gerebek']",308,standar
+983,"['dinsos', 'damping', 'korban', 'pemerkosaanpenganiayaan', 'bocah', 'panti']",405,standar
+984,"['atensi', 'duga', 'laku', 'jalan', 'pemeriksan', 'marathon']",445,standar
+985,"['siksa', 'wajah', 'berdarahdarah', 'laku', 'ajak', 'foto', 'korban']",257,standar
+986,"['ancam', 'pisau', 'laku', 'korban', 'kutik']",464,standar
+987,"['bocah', 'panti', 'malang', 'perkosa', 'siksa', 'diviralkan']",464,standar
+988,"['peran', 'kampus', 'lahir', 'anak', 'muda', 'talenta', 'technopreneur', 'sukses']",325,standar
+989,"['hadap', 'barito', 'putera', 'arema', 'fc', 'usung', 'misi', 'clean', 'sheet']",470,standar
+990,"['wajah', 'gor', 'stadion', 'kanjuruhan']",488,standar
+991,"['peluang', 'yudo', 'dedik', 'tampil', 'piala', 'aff', 'buka', 'lebar']",368,standar
+992,"['menit', 'catat', 'transaksi', 'rp', 'juta', 'live', 'shopping', 'festival', 'mbois']",408,standar
+993,"['vaksinasi', 'kabupaten', 'malang', 'tembus', 'persen', 'kebal', 'covid']",413,standar
+994,"['solusi', 'atas', 'banjir', 'kota', 'kepanjen']",256,standar
+995,"['laga', 'amal', 'wali', 'bafa', 'korban', 'bencana']",416,standar
+996,"['program', 'jari', 'tangan', 'sehat', 'jiwa', 'masyarakat', 'sisir']",491,standar
+997,"['pr', 'utama', 'arema', 'fc', 'jelang', 'hadap', 'barito', 'putera']",265,standar
+998,"['pnm', 'salur', 'bantu', 'sembako', 'korban', 'banjir', 'kota', 'batu']",362,standar
+999,"['kangmas', 'nimas', 'kota', 'batu', 'wajib', 'kreatif', 'inovatif']",491,standar
+1000,"['gelar', 'perdana', 'indonesia', 'carlos', 'fortes', 'puas']",487,standar
+1001,"['alat', 'tangkal', 'bocor', 'pajak', 'pasang']",423,standar
+1002,"['vaksin', 'tutup', 'alunalun']",251,standar
+1003,"['dagang', 'tolak', 'tera', 'ulang', 'timbang']",444,standar
+1004,"['bri', 'andal', 'ultra', 'mikro', 'sumber', 'tumbuh']",472,standar
+1005,"['motor', 'modifikasi', 'unjuk', 'gigi', 'mal']",329,standar
+1006,"['rencana', 'miskari', 'hukum', 'umur', 'hidup']",369,standar
+1007,"['bunuh', 'istri', 'jerat', 'cabul', 'bawa', 'kabur', 'motor']",422,standar
+1008,"['diskopindag', 'kota', 'malang', 'gelar', 'bimtek', 'kelola', 'pasar']",361,standar
+1009,"['raih', 'predikat', 'uhc', 'bpjs', 'sehat', 'genjot', 'serta', 'mandiri']",339,standar
+1010,"['dinkes', 'kota', 'batu', 'gelar', 'periksa', 'kualitas', 'air', 'minum']",306,standar
+1011,"['puluh', 'rumah', 'sumberpucung', 'bahaya', 'longsor', 'susul']",308,standar
+1012,"['pt', 'digital', 'solusi', 'grup', 'ajak', 'perban', 'aware', 'cyber', 'security']",492,standar
+1013,"['ingat', 'bumi', 'bni', 'kuat', 'kerjasama', 'hutan', 'organik', 'megamendung']",409,standar
+1014,"['kritis', 'rs', 'setrum', 'ngecat', 'reklame', 'meter']",478,standar
+1015,"['tahap', 'milu', 'kpu', 'daerah', 'tunggu', 'pusat']",404,standar
+1016,"['cetak', 'insan', 'brilian', 'unggul', 'bri', 'buka', 'program', 'bflp']",404,standar
+1017,"['respon', 'tren', 'global', 'kemendag', 'ubah', 'kategorisasi', 'award', 'primaniyarta', 'primaduta']",472,standar
+1018,"['teladan', 'ra', 'kartini', 'women', 'leader', 'bni', 'didapuk', 'game', 'changer']",498,standar
+1019,"['raih', 'suara', 'prof', 'imam', 'santoso', 'unggul', 'tingkat', 'senat', 'pilih', 'rektor', 'ub']",254,standar
+1020,"['vonis', 'bakar', 'istri', 'kota', 'batu', 'pilih', 'aju', 'banding']",451,standar
+1021,"['bri', 'regional', 'office', 'malang', 'bagi', 'sembako', 'panti', 'asuh', 'werdha', 'warga']",370,standar
+1022,"['ingat', 'kartini', 'bri', 'group', 'apresiasi', 'perempuan', 'woman']",391,standar
+1023,"['sinyal', 'internet', 'lot', 'iring', 'vonis', 'putus', 'distributor', 'rokok', 'ilegal']",493,standar
+1024,"['single', 'mom', 'saran', 'psikolog']",404,standar
+1025,"['juang', 'kartinikartini', 'mandiri', 'tahan', 'hidup', 'habis']",399,standar
+1026,"['arema', 'fc', 'sepakat', 'kickoff', 'liga', 'juli']",324,standar
+1027,"['idul', 'fitri', 'umat', 'hindu', 'buddha', 'desa', 'ngadas', 'ketupat']",304,standar
+1028,"['waspada', 'intensitas', 'hujan', 'malang', 'prediksi', 'lebaran']",318,standar
+1029,"['legiun', 'asing', 'arema', 'fc', 'sabar', 'jumpa', 'aremania', 'stadion', 'kanjuruhan']",304,standar
+1030,"['aliansi', 'kerja', 'pabrik', 'dukung', 'gus', 'muhaimin', 'pilpres']",433,standar
+1031,"['uak', 'bisnis', 'hitam', 'jual', 'dokumen', 'covid', 'jelang', 'mudik', 'lebaran']",493,standar
+1032,"['uak', 'bisnis', 'hitam', 'jual', 'dokumen', 'covid', 'jelang', 'mudik', 'lebaran']",312,standar
+1033,"['lebaran', 'stok', 'elpiji', 'tambah', 'persen']",478,standar
+1034,"['desa', 'kabupaten', 'malang', 'bagi', 'dd']",408,standar
+1035,"['protes', 'kerja', 'lurah', 'madyopuro', 'janji', 'tuntas', 'lebaran']",397,standar
+1036,"['ramadan', 'bagi', 'ala', 'bpjs', 'ketenagakerjaan', 'kepanjen']",336,standar
+1037,"['musim', 'arema', 'fc', 'optimistis', 'jual', 'jersey', 'tembus', 'ribu']",252,standar
+1038,"['antisipasi', 'mudik', 'smartfren', 'tingkat', 'kualitas', 'jaring', 'hadir', 'promo', 'baru']",397,standar
+1039,"['rekomendasik', 'hampers', 'ecard', 'personal', 'gofood', 'ramadan', 'spesial']",422,standar
+1040,"['keluarga', 'bagus', 'tulungagung', 'duka']",351,standar
+1041,"['mudik', 'jauh', 'kendara', 'tempel', 'janur', 'kuning']",490,standar
+1042,"['mantap', 'ekspor', 'impor', 'indonesia', 'tembus', 'rekor', 'tinggi', 'sejarah']",418,standar
+1043,"['mtsn', 'kota', 'malang', 'komitmen', 'asah', 'skill', 'guru', 'tingkat', 'prestasi', 'siswa']",345,standar
+1044,"['yuk', 'inves', 'permata', 'tasik', 'madu', 'eksekutif', 'nyaman', 'huni', 'cocok', 'usaha', 'kos']",310,standar
+1045,"['gondanglegi', 'gelontor', 'kg', 'minyak', 'goreng', 'subsidi']",293,standar
+1046,"['murid', 'umm', 'adakan', 'baksos', 'ramadan']",334,standar
+1047,"['santun', 'anak', 'yatim', 'airlangga', 'hartarto', 'doa', 'presiden', 'indonesia']",444,standar
+1048,"['citra', 'kendedes', 'cake', 'and', 'bakery', 'hadir', 'sidoarjo']",333,standar
+1049,"['rektor', 'ub', 'pilih', 'mahasiswa']",329,standar
+1050,"['prof', 'candra', 'libat', 'bangun', 'ub']",288,standar
+1051,"['utakatik', 'kans', 'rektor', 'ub', 'candraimam', 'angin', 'unti', 'ludigdo', 'kuda', 'hitam']",289,standar
+1052,"['arinda', 'ikon', 'pesona', 'batik', 'nusantara', 'sukses', 'usung', 'batik', 'dadaprejo', 'go', 'national']",331,standar
+1053,"['hormat', 'ramadanumat', 'kristen', 'pujiharjo', 'tiada', 'bakti', 'bangun', 'rohani']",313,standar
+1054,"['ajar', 'bakar', 'tunjung', 'plaza']",374,standar
+1055,"['cerita', 'putar', 'balik', 'nomor', 'punggung', 'main', 'arema', 'fc']",375,standar
+1056,"['jemput', 'bola', 'smartfren', 'luncur', 'program', 'motogp']",323,standar
+1057,"['tahan', 'bos', 'sekolah', 'spi', 'timbang']",460,standar
+1058,"['dana', 'rp', 'desa', 'kabupaten', 'malang', 'ganjal', 'syarat']",286,standar
+1059,"['jaksa', 'kpk', 'tuding', 'gratifikasi', 'eddy', 'rumpoko', 'bantah', 'pinjam']",379,standar
+1060,"['tahan', 'eddy', 'rumpoko', 'tuntut']",414,standar
+1061,"['tinggal', 'korban', 'jadwal', 'uji', 'baik']",279,standar
+1062,"['bri', 'dorong', 'lanjut', 'umkm', 'kelas', 'digitalisasi']",360,standar
+1063,"['kabupaten', 'malang', 'guru', 'smp', 'swasta', 'lindung', 'program', 'bpjamsostek']",266,standar
+1064,"['kontrak', 'panjang', 'main', 'muda', 'arema', 'fc', 'pantang', 'patah', 'arang']",353,standar
+1065,"['kabar', 'revisi', 'uu', 'ppp', 'pakat', 'bentuk', 'undangundang', 'efisien']",364,standar
+1066,"['gabung', 'arema', 'fc', 'ilham', 'udin', 'andal', 'chemistry', 'evan', 'mas']",379,standar
+1067,"['catat', 'prosedur', 'jadwal', 'tukar', 'uang', 'idul', 'fitri', 'bi', 'malang']",357,standar
+1068,"['konco', 'erick', 'thohir', 'kota', 'batu', 'buka', 'puasa', 'sosialisasi', 'capres']",267,standar
+1069,"['jelang', 'lebaran', 'toeng', 'market', 'cyber', 'mall', 'promo']",418,standar
+1070,"['hadap', 'saing', 'ketat', 'hasyim', 'kipuw', 'pilih', 'risau']",465,standar
+1071,"['butuh', 'cold', 'storage', 'kelompok', 'tani', 'tulungrejo', 'terakomodir']",305,standar
+1072,"['masuk', 'nilai', 'lanjut', 'ppd', 'pemkot', 'malang', 'optimis', 'raih']",355,standar
+1073,"['tujuh', 'main', 'jual', 'jersey', 'arema', 'fc', 'drastis']",317,standar
+1074,"['lahan', 'ribu', 'hektare', 'green', 'economy']",459,standar
+1075,"['zona', 'jalan', 'rusak', 'pagak', 'tambal', 'rp', 'miliar']",483,standar
+1076,"['bungkus', 'tas', 'kresek', 'bayi', 'perempuan', 'buang', 'rumah', 'kosong']",298,standar
+1077,"['duga', 'laku', 'keroyok', 'putra', 'siregar', 'rico', 'valentino', 'lapor', 'polisi']",496,standar
+1078,"['hasil', 'lelang', 'bumi', 'raya', 'unduhunduh', 'desa', 'swaru', 'bantu', 'musala']",254,standar
+1079,"['layan', 'butuh', 'libur', 'lebaran', 'bri', 'siap', 'uang', 'tunai', 'rp', 'triliun']",255,standar
+1080,"['arus', 'mudik', 'prediksi', 'tingkat', 'persen']",428,standar
+1081,"['alas', 'bangun', 'underpass', 'butuh', 'lebar']",295,standar
+1082,"['kabupaten', 'andal', 'pantai', 'potensi', 'kembang', 'sport', 'tourism']",377,standar
+1083,"['suwaru', 'umat', 'kristenislam', 'baur', 'kompak', 'sih', 'ibadah']",484,standar
+1084,"['bantu', 'hukum', 'warga', 'miskin', 'mudah']",290,standar
+1085,"['jembatan', 'pelangi', 'tingkat', 'daya', 'dukung', 'wisata', 'ekonomi']",261,standar
+1086,"['potensi', 'tugas', 'pajak', 'pelotot', 'ghosting', 'kafe', 'resto']",428,standar
+1087,"['mohon', 'paspor', 'imigrasi', 'malang', 'mayoritas', 'umrah']",254,standar
+1088,"['riverstone', 'hotel', 'cottage', 'gelar', 'pasar', 'takjil', 'paklemu']",425,standar
+1089,"['proyek', 'underpass', 'jalan', 'yani', 'blimbing', 'ancam', 'gusur', 'bangun']",405,standar
+1090,"['ekspor', 'kopi', 'bumi', 'kanjuruhan', 'tembus', 'rp', 'miliar']",415,standar
+1091,"['suka', 'publik', 'ridwan', 'kamil', 'nilai', 'kerja', 'apresiasi']",389,standar
+1092,"['tutup', 'ramadan', 'resto', 'bagibagi', 'takjil']",257,standar
+1093,"['briwork', 'ipb', 'community', 'branch', 'bankinguntuk', 'dorong', 'inovasi', 'bidang', 'tani']",340,standar
+1094,"['cegah', 'longsor', 'pemkot', 'malang', 'siap', 'rusunawa', 'warga', 'huni', 'river', 'side']",252,standar
+1095,"['cerita', 'clbk', 'arema', 'fc', 'main', 'lanjut']",443,standar
+1096,"['alterra', 'academy', 'smkn', 'malang', 'siap', 'lulus', 'mumpuni']",373,standar
+1097,"['harum', 'nama', 'sekolah', 'prestasi', 'akademik', 'jawara', 'nyanyi', 'italia']",404,standar
+1098,"['cetak', 'hattrick', 'jatim', 'provinsi', 'siswa', 'terima', 'snmptn']",406,standar
+1099,"['daya', 'umkm', 'bri', 'antar', 'usaha', 'kopi', 'gayo', 'tembus', 'pasar', 'internasional']",483,standar
+1100,"['ribu', 'wisatawan', 'masuk', 'malang']",376,standar
+1101,"['dukuh', 'ampelsari', 'umat', 'hindu', 'bangun', 'musala', 'muslim', 'bantu', 'pura']",399,standar
+1102,"['menko', 'airlangga', 'presiden', 'program', 'lindung', 'masyarakat', 'intensif']",366,standar
+1103,"['macet', 'madyopuro', 'kunjung', 'kelar', 'warga', 'galang', 'patungan', 'beli', 'lahan']",259,standar
+1104,"['rumor', 'gabung', 'evan', 'mas', 'cuat', 'ganti', 'hanif']",282,standar
+1105,"['head', 'to', 'head', 'prabowo', 'ganjar', 'hasil', 'survei', 'airlangga', 'unggul']",256,standar
+1106,"['pit', 'malang', 'raya', 'awal', 'ramadan', 'ikhlas']",488,standar
+1107,"['jelang', 'lantai', 'bei', 'goto', 'alokasi', 'rp', 'miliar', 'mitra', 'kemudi']",382,standar
+1108,"['tingkat', 'huni', 'hotel', 'kota', 'malang', 'persen']",497,standar
+1109,"['agen', 'brilinkkeagenan', 'bas', 'sharing', 'economy', 'masyarakat']",496,standar
+1110,"['vaksinasi', 'door', 'to', 'door', 'ikhtiar', 'pandemi']",259,standar
+1111,"['proyek', 'titip', 'masuk', 'pemkab', 'malang']",379,standar
+1112,"['triwulan', 'jual', 'mobil', 'merek', 'favorit', 'catat', 'naik']",425,standar
+1113,"['lho', 'kades', 'cantik', 'kabupaten', 'malang']",275,standar
+1114,"['malang', 'menang']",414,standar
+1115,"['pemuda', 'katolik', 'kota', 'batu', 'teken', 'mou', 'bawaslu', 'kota', 'batu']",264,standar
+1116,"['catat', 'bus', 'macito', 'aspal', 'pekan']",266,standar
+1117,"['fortes', 'out', 'penggawa', 'main', 'asing', 'arema', 'fc', 'wait', 'and', 'see']",423,standar
+1118,"['derita', 'autis', 'wajib', 'oleh', 'hak', 'lindung', 'didik']",451,standar
+1119,"['mantap', 'banget', 'unitri', 'science', 'techno', 'park']",448,standar
+1120,"['bulan', 'mahasiswa', 'ub', 'belanja', 'uang', 'rp', 'miliar']",434,standar
+1121,"['satgas', 'pangan', 'sidak', 'kondisi', 'minyak', 'goreng']",499,standar
+1122,"['pnm', 'gelar', 'pamer', 'usaha', 'event', 'malang', 'city', 'expo']",498,standar
+1123,"['erick', 'thohir', 'ajak', 'umat', 'muslim', 'amerika', 'ramai', 'masjid', 'atthohir', 'los', 'angeles']",350,standar
+1124,"['kota', 'malang', 'mandiri', 'fiskal']",376,standar
+1125,"['malang', 'dahlan', 'iskan', 'ingat', 'usaha', 'waspada', 'politik']",268,standar
+1126,"['mtsn', 'malang', 'bagibagi', 'minyak', 'goreng', 'gratis']",422,standar
+1127,"['berkat', 'bni', 'nanti', 'swiss', 'open', 'jawab']",361,standar
+1128,"['desa', 'serempak', 'gelar', 'pilkades', 'rawan', 'konflik']",392,standar
+1129,"['migor', 'emakemak', 'bunulrejo', 'full', 'senyum']",315,standar
+1130,"['pemkab', 'malang', 'buka', 'peluang', 'ngo', 'kelola', 'proyek', 'sampah']",317,standar
+1131,"['rakernas', 'kspsi', 'airlangga', 'usaha', 'bayar', 'thr', 'kerja']",382,standar
+1132,"['lps', 'imbau', 'nasabah', 'perban', 'giur', 'bunga']",363,standar
+1133,"['hadap', 'psm', 'arema', 'fc', 'hantu', 'rekor', 'minor', 'laga']",464,standar
+1134,"['carlos', 'fortes', 'buru', 'tambah', 'gol', 'laga', 'pungkas']",416,standar
+1135,"['alhamdulillah', 'smk', 'muhisa', 'wujud', 'impi', 'siswa', 'ajar', 'jepang']",427,standar
+1136,"['incar', 'target', 'pajak', 'rp', 'pemkot', 'rajin', 'razia', 'rumah', 'kos', 'izin']",265,standar
+1137,"['mantap', 'pabrik', 'kertas', 'lanjut', 'besar', 'sumatera', 'grounbreaking']",386,standar
+1138,"['warga', 'malang', 'minat', 'kendara', 'listrik', 'jual', 'triwulan']",365,standar
+1139,"['waspada', 'pohon', 'rawan', 'tumbang']",294,standar
+1140,"['staf', 'konjen', 'amerika', 'serikat', 'kunjung', 'radar', 'malang']",313,standar
+1141,"['bruak', 'pohon', 'beringin', 'roboh', 'timpa', 'bangun']",441,standar
+1142,"['grand', 'mercure', 'malang', 'mirama', 'hadir', 'saji', 'menu', 'buka', 'puasa', 'penuh', 'kejut']",457,standar
+1143,"['sukses', 'gelar', 'aitif', 'itb', 'asia', 'usung', 'tema', 'industri', 'new', 'normal']",443,standar
+1144,"['instansi', 'perintah', 'contoh', 'guna', 'kendara', 'listrik']",460,standar
+1145,"['kemen', 'panrb', 'gandeng', 'bni', 'siap', 'digitalisasi', 'kelola', 'sdm', 'asn']",407,standar
+1146,"['hadap', 'arema', 'fc', 'psm', 'makassar', 'pincang']",317,standar
+1147,"['proyek', 'tol', 'malangkepanjen', 'siapsiap', 'lelang']",377,standar
+1148,"['airlangga', 'alumni', 'its', 'lahir', 'gagas', 'cipta', 'sdm', 'unggul']",350,standar
+1149,"['sabar', 'maksimal', 'juli', 'jalan', 'kota', 'malang', 'mulus']",423,standar
+1150,"['virtual', 'career', 'fair', 'ub', 'lamar', 'kerja', 'rebah']",364,standar
+1151,"['keren', 'kolaborasi', 'smasmk', 'jatim', 'cetak', 'prestasi', 'tingkat', 'asean']",258,standar
+1152,"['korsleting', 'listrik', 'gudang', 'alat', 'masak', 'smkn', 'turen', 'hangus']",352,standar
+1153,"['jurus', 'alrifa', 'ie', 'tangkal', 'bullying', 'santri']",293,standar
+1154,"['sulap', 'daun', 'pandan', 'rajin', 'daya', 'umkm', 'bina', 'bri', 'kembang']",272,standar
+1155,"['eduardo', 'beber', 'rahasia', 'wangi', 'eksekusi', 'set', 'piece']",490,standar
+1156,"['renshi', 'yamaguchi', 'predikat', 'raja', 'tackle']",397,standar
+1157,"['semangat', 'pajak', 'pulih', 'ekonomi', 'momen', 'spectaxcular']",258,standar
+1158,"['pemkot', 'malang', 'raih', 'harga', 'pr', 'indonesia', 'awards', 'pria']",376,standar
+1159,"['pandemi', 'jual', 'brand', 'fashion', 'lokal', 'merch', 'tingkat', 'persen']",306,standar
+1160,"['siang', 'arema', 'fc', 'women', 'hadap', 'wakil', 'papua', 'semifinal']",443,standar
+1161,"['keramik', 'pasang', 'mcc', 'target', 'kelar']",266,standar
+1162,"['bupati', 'anggar', 'dana', 'baik', 'dam', 'sengkaling']",376,standar
+1163,"['malang', 'content', 'creator', 'foto', 'seksi', 'dea', 'onlyfans', 'tangkap', 'polda', 'metro', 'jaya']",468,standar
+1164,"['airlangga', 'milu', 'bal', 'oleh', 'suara']",380,standar
+1165,"['ikut', 'program', 'pps', 'juragan', 'apresiasi', 'staf', 'khusus', 'menteri', 'uang']",337,standar
+1166,"['rekomendasi', 'destinasi', 'wisata', 'tarik', 'jawa', 'timur']",444,standar
+1167,"['bri', 'mudah', 'biaya', 'mitra', 'telkomsel']",415,standar
+1168,"['difabel', 'polresta', 'malang', 'tuai', 'puji']",314,standar
+1169,"['vaksin', 'polres', 'malang', 'gerilya', 'cari', 'lansia']",365,standar
+1170,"['sunarso', 'ceo', 'baik', 'bri', 'nobat', 'the', 'best', 'corporate']",277,standar
+1171,"['operasi', 'migor', 'curah', 'gelar', 'antre', 'warga', 'ular']",361,standar
+1172,"['inacraft', 'mendag', 'ingat', 'laku', 'usaha', 'tangguh', 'pandemi']",429,standar
+1173,"['wow', 'kurma', 'spesial', 'ien', 'suites', 'malang']",287,standar
+1174,"['arema', 'fc', 'siap', 'jurus', 'redam', 'ciro', 'alves']",358,standar
+1175,"['tingkat', 'literasi', 'digital', 'pemkot', 'malang', 'gelar', 'latih', 'medsos']",481,standar
+1176,"['bri', 'implementasi', 'strategi', 'komunikasi', 'kreatif', 'empat']",447,standar
+1177,"['pertamina', 'regional', 'jatimbalinus', 'raih', 'harga', 'iga', 'awards']",304,standar
+1178,"['ingat', 'tb', 'daysutiaji', 'ingat', 'milik', 'pola', 'hidup', 'bersih', 'sehat']",292,standar
+1179,"['ancam', 'krisis', 'energi', 'dunia', 'green', 'energy', 'peluang', 'indonesia']",359,standar
+1180,"['wacana', 'kota', 'kepanjen', 'nyata', 'progres']",380,standar
+1181,"['ingat', 'air', 'warga', 'kota', 'batu', 'laksana', 'ritual', 'nadah', 'banyu', 'resik', 'dandang']",351,standar
+1182,"['isak', 'tangis', 'warna', 'makam', 'jenazah', 'perwira', 'polisi', 'korban', 'tembak', 'tahan']",437,standar
+1183,"['tokoh', 'pemuda', 'jatim', 'erick', 'thohir', 'pimpin', 'pikir', 'rakyat']",295,standar
+1184,"['wali', 'kota', 'malang', 'lkpd', 'ta', 'unaudited']",285,standar
+1185,"['koleksi', 'gol', 'alfarizi', 'unggul', 'striker', 'lokal']",446,standar
+1186,"['pimpin', 'bank', 'indonesia', 'malang', 'janji', 'bantu', 'kendali', 'harga', 'migor']",291,standar
+1187,"['jalan', 'lubang', 'donowarih', 'tambal', 'rp', 'miliar']",481,standar
+1188,"['catat', 'titik', 'rawan', 'laka', 'macet', 'jaga', 'polantas']",463,standar
+1189,"['nekat', 'rusak', 'bambu', 'tutup', 'bangku', 'mesra', 'fasum']",380,standar
+1190,"['berkah', 'ikhlas', 'dosen', 'ciputra', 'surabaya', 'raih', 'honda', 'city', 'telkomsel']",354,standar
+1191,"['kunjung', 'warga', 'miskinpak', 'menteri', 'trenyuh', 'lihat', 'rumah', 'meter', 'huni', 'orang']",253,standar
+1192,"['universitas', 'brawijaya', 'milik', 'arema', 'dunia']",428,standar
+1193,"['laga', 'lawan', 'borneo', 'fc', 'malam', 'ajang', 'arema', 'fc', 'obat', 'kecewa', 'suporter']",307,standar
+1194,"['wisata', 'pasar', 'batu']",384,standar
+1195,"['maju', 'capres', 'airlangga', 'hartarto', 'dukung', 'santri', 'nganjuk']",335,standar
+1196,"['komplot', 'jaksa', 'gadungan', 'raup', 'rp', 'miliar', 'otak', 'wanita', 'wagir']",308,standar
+1197,"['duel', 'arema', 'fc', 'versus', 'borneo', 'fc', 'samasama', 'minus', 'gelandang']",260,standar
+1198,"['cegah', 'trail', 'tnbts', 'pagar', 'kawasan', 'savana']",392,standar
+1199,"['menko', 'airlangga', 'geram', 'aparat', 'tangkap', 'mafia', 'minyak', 'goreng']",269,standar
+1200,"['pacu', 'pariwisata', 'lokal', 'bangkit', 'goto', 'partisipasi', 'mandalika', 'gp', 'series']",363,standar
+1201,"['rektor', 'ub', 'pilih', 'mahasiswa']",266,standar
+1202,"['prof', 'candra', 'libat', 'bangun', 'ub']",320,standar
+1203,"['utakatik', 'kans', 'rektor', 'ub', 'candraimam', 'angin', 'unti', 'ludigdo', 'kuda', 'hitam']",302,standar
+1204,"['arinda', 'ikon', 'pesona', 'batik', 'nusantara', 'sukses', 'usung', 'batik', 'dadaprejo', 'go', 'national']",486,standar
+1205,"['hormat', 'ramadanumat', 'kristen', 'pujiharjo', 'tiada', 'bakti', 'bangun', 'rohani']",257,standar
+1206,"['ajar', 'bakar', 'tunjung', 'plaza']",486,standar
+1207,"['cerita', 'putar', 'balik', 'nomor', 'punggung', 'main', 'arema', 'fc']",325,standar
+1208,"['jemput', 'bola', 'smartfren', 'luncur', 'program', 'motogp']",316,standar
+1209,"['tahan', 'bos', 'sekolah', 'spi', 'timbang']",314,standar
+1210,"['dana', 'rp', 'desa', 'kabupaten', 'malang', 'ganjal', 'syarat']",383,standar
+1211,"['jaksa', 'kpk', 'tuding', 'gratifikasi', 'eddy', 'rumpoko', 'bantah', 'pinjam']",473,standar
+1212,"['tahan', 'eddy', 'rumpoko', 'tuntut']",475,standar
+1213,"['tinggal', 'korban', 'jadwal', 'uji', 'baik']",349,standar
+1214,"['bri', 'dorong', 'lanjut', 'umkm', 'kelas', 'digitalisasi']",420,standar
+1215,"['kabupaten', 'malang', 'guru', 'smp', 'swasta', 'lindung', 'program', 'bpjamsostek']",351,standar
+1216,"['kontrak', 'panjang', 'main', 'muda', 'arema', 'fc', 'pantang', 'patah', 'arang']",384,standar
+1217,"['kabar', 'revisi', 'uu', 'ppp', 'pakat', 'bentuk', 'undangundang', 'efisien']",489,standar
+1218,"['gabung', 'arema', 'fc', 'ilham', 'udin', 'andal', 'chemistry', 'evan', 'mas']",421,standar
+1219,"['catat', 'prosedur', 'jadwal', 'tukar', 'uang', 'idul', 'fitri', 'bi', 'malang']",397,standar
+1220,"['konco', 'erick', 'thohir', 'kota', 'batu', 'buka', 'puasa', 'sosialisasi', 'capres']",311,standar
+1221,"['jelang', 'lebaran', 'toeng', 'market', 'cyber', 'mall', 'promo']",443,standar
+1222,"['hadap', 'saing', 'ketat', 'hasyim', 'kipuw', 'pilih', 'risau']",297,standar
+1223,"['butuh', 'cold', 'storage', 'kelompok', 'tani', 'tulungrejo', 'terakomodir']",467,standar
+1224,"['masuk', 'nilai', 'lanjut', 'ppd', 'pemkot', 'malang', 'optimis', 'raih']",336,standar
+1225,"['tujuh', 'main', 'jual', 'jersey', 'arema', 'fc', 'drastis']",292,standar
+1226,"['lahan', 'ribu', 'hektare', 'green', 'economy']",255,standar
+1227,"['zona', 'jalan', 'rusak', 'pagak', 'tambal', 'rp', 'miliar']",499,standar
+1228,"['bungkus', 'tas', 'kresek', 'bayi', 'perempuan', 'buang', 'rumah', 'kosong']",435,standar
+1229,"['duga', 'laku', 'keroyok', 'putra', 'siregar', 'rico', 'valentino', 'lapor', 'polisi']",428,standar
+1230,"['hasil', 'lelang', 'bumi', 'raya', 'unduhunduh', 'desa', 'swaru', 'bantu', 'musala']",361,standar
+1231,"['layan', 'butuh', 'libur', 'lebaran', 'bri', 'siap', 'uang', 'tunai', 'rp', 'triliun']",259,standar
+1232,"['arus', 'mudik', 'prediksi', 'tingkat', 'persen']",490,standar
+1233,"['alas', 'bangun', 'underpass', 'butuh', 'lebar']",350,standar
+1234,"['kabupaten', 'andal', 'pantai', 'potensi', 'kembang', 'sport', 'tourism']",300,standar
+1235,"['suwaru', 'umat', 'kristenislam', 'baur', 'kompak', 'sih', 'ibadah']",440,standar
+1236,"['bantu', 'hukum', 'warga', 'miskin', 'mudah']",460,standar
+1237,"['jembatan', 'pelangi', 'tingkat', 'daya', 'dukung', 'wisata', 'ekonomi']",330,standar
+1238,"['potensi', 'tugas', 'pajak', 'pelotot', 'ghosting', 'kafe', 'resto']",374,standar
+1239,"['mohon', 'paspor', 'imigrasi', 'malang', 'mayoritas', 'umrah']",373,standar
+1240,"['rektor', 'ub', 'pilih', 'mahasiswa']",303,standar
+1241,"['prof', 'candra', 'libat', 'bangun', 'ub']",442,standar
+1242,"['utakatik', 'kans', 'rektor', 'ub', 'candraimam', 'angin', 'unti', 'ludigdo', 'kuda', 'hitam']",452,standar
+1243,"['arinda', 'ikon', 'pesona', 'batik', 'nusantara', 'sukses', 'usung', 'batik', 'dadaprejo', 'go', 'national']",370,standar
+1244,"['hormat', 'ramadanumat', 'kristen', 'pujiharjo', 'tiada', 'bakti', 'bangun', 'rohani']",281,standar
+1245,"['ajar', 'bakar', 'tunjung', 'plaza']",379,standar
+1246,"['cerita', 'putar', 'balik', 'nomor', 'punggung', 'main', 'arema', 'fc']",475,standar
+1247,"['jemput', 'bola', 'smartfren', 'luncur', 'program', 'motogp']",477,standar
+1248,"['tahan', 'bos', 'sekolah', 'spi', 'timbang']",463,standar
+1249,"['dana', 'rp', 'desa', 'kabupaten', 'malang', 'ganjal', 'syarat']",465,standar
+1250,"['jaksa', 'kpk', 'tuding', 'gratifikasi', 'eddy', 'rumpoko', 'bantah', 'pinjam']",414,standar
+1251,"['tahan', 'eddy', 'rumpoko', 'tuntut']",362,standar
+1252,"['tinggal', 'korban', 'jadwal', 'uji', 'baik']",342,standar
+1253,"['bri', 'dorong', 'lanjut', 'umkm', 'kelas', 'digitalisasi']",362,standar
+1254,"['kabupaten', 'malang', 'guru', 'smp', 'swasta', 'lindung', 'program', 'bpjamsostek']",292,standar
+1255,"['kontrak', 'panjang', 'main', 'muda', 'arema', 'fc', 'pantang', 'patah', 'arang']",438,standar
+1256,"['kabar', 'revisi', 'uu', 'ppp', 'pakat', 'bentuk', 'undangundang', 'efisien']",257,standar
+1257,"['gabung', 'arema', 'fc', 'ilham', 'udin', 'andal', 'chemistry', 'evan', 'mas']",256,standar
+1258,"['catat', 'prosedur', 'jadwal', 'tukar', 'uang', 'idul', 'fitri', 'bi', 'malang']",313,standar
+1259,"['konco', 'erick', 'thohir', 'kota', 'batu', 'buka', 'puasa', 'sosialisasi', 'capres']",360,standar
+1260,"['jelang', 'lebaran', 'toeng', 'market', 'cyber', 'mall', 'promo']",359,standar
+1261,"['hadap', 'saing', 'ketat', 'hasyim', 'kipuw', 'pilih', 'risau']",339,standar
+1262,"['butuh', 'cold', 'storage', 'kelompok', 'tani', 'tulungrejo', 'terakomodir']",365,standar
+1263,"['masuk', 'nilai', 'lanjut', 'ppd', 'pemkot', 'malang', 'optimis', 'raih']",316,standar
+1264,"['tujuh', 'main', 'jual', 'jersey', 'arema', 'fc', 'drastis']",404,standar
+1265,"['lahan', 'ribu', 'hektare', 'green', 'economy']",373,standar
+1266,"['zona', 'jalan', 'rusak', 'pagak', 'tambal', 'rp', 'miliar']",444,standar
+1267,"['bungkus', 'tas', 'kresek', 'bayi', 'perempuan', 'buang', 'rumah', 'kosong']",290,standar
+1268,"['duga', 'laku', 'keroyok', 'putra', 'siregar', 'rico', 'valentino', 'lapor', 'polisi']",423,standar
+1269,"['hasil', 'lelang', 'bumi', 'raya', 'unduhunduh', 'desa', 'swaru', 'bantu', 'musala']",282,standar
+1270,"['layan', 'butuh', 'libur', 'lebaran', 'bri', 'siap', 'uang', 'tunai', 'rp', 'triliun']",356,standar
+1271,"['arus', 'mudik', 'prediksi', 'tingkat', 'persen']",382,standar
+1272,"['alas', 'bangun', 'underpass', 'butuh', 'lebar']",251,standar
+1273,"['kabupaten', 'andal', 'pantai', 'potensi', 'kembang', 'sport', 'tourism']",294,standar
+1274,"['suwaru', 'umat', 'kristenislam', 'baur', 'kompak', 'sih', 'ibadah']",468,standar
+1275,"['bantu', 'hukum', 'warga', 'miskin', 'mudah']",428,standar
+1276,"['jembatan', 'pelangi', 'tingkat', 'daya', 'dukung', 'wisata', 'ekonomi']",364,standar
+1277,"['potensi', 'tugas', 'pajak', 'pelotot', 'ghosting', 'kafe', 'resto']",396,standar
+1278,"['mohon', 'paspor', 'imigrasi', 'malang', 'mayoritas', 'umrah']",295,standar
+1279,"['rektor', 'ub', 'pilih', 'mahasiswa']",271,standar
+1280,"['prof', 'candra', 'libat', 'bangun', 'ub']",313,standar
+1281,"['utakatik', 'kans', 'rektor', 'ub', 'candraimam', 'angin', 'unti', 'ludigdo', 'kuda', 'hitam']",399,standar
+1282,"['arinda', 'ikon', 'pesona', 'batik', 'nusantara', 'sukses', 'usung', 'batik', 'dadaprejo', 'go', 'national']",370,standar
+1283,"['hormat', 'ramadanumat', 'kristen', 'pujiharjo', 'tiada', 'bakti', 'bangun', 'rohani']",350,standar
+1284,"['ajar', 'bakar', 'tunjung', 'plaza']",283,standar
+1285,"['cerita', 'putar', 'balik', 'nomor', 'punggung', 'main', 'arema', 'fc']",323,standar
+1286,"['jemput', 'bola', 'smartfren', 'luncur', 'program', 'motogp']",487,standar
+1287,"['tahan', 'bos', 'sekolah', 'spi', 'timbang']",433,standar
+1288,"['dana', 'rp', 'desa', 'kabupaten', 'malang', 'ganjal', 'syarat']",481,standar
+1289,"['jaksa', 'kpk', 'tuding', 'gratifikasi', 'eddy', 'rumpoko', 'bantah', 'pinjam']",287,standar
+1290,"['tahan', 'eddy', 'rumpoko', 'tuntut']",373,standar
+1291,"['tinggal', 'korban', 'jadwal', 'uji', 'baik']",403,standar
+1292,"['bri', 'dorong', 'lanjut', 'umkm', 'kelas', 'digitalisasi']",416,standar
+1293,"['kabupaten', 'malang', 'guru', 'smp', 'swasta', 'lindung', 'program', 'bpjamsostek']",421,standar
+1294,"['kontrak', 'panjang', 'main', 'muda', 'arema', 'fc', 'pantang', 'patah', 'arang']",260,standar
+1295,"['kabar', 'revisi', 'uu', 'ppp', 'pakat', 'bentuk', 'undangundang', 'efisien']",467,standar
+1296,"['gabung', 'arema', 'fc', 'ilham', 'udin', 'andal', 'chemistry', 'evan', 'mas']",338,standar
+1297,"['catat', 'prosedur', 'jadwal', 'tukar', 'uang', 'idul', 'fitri', 'bi', 'malang']",463,standar
+1298,"['konco', 'erick', 'thohir', 'kota', 'batu', 'buka', 'puasa', 'sosialisasi', 'capres']",290,standar
+1299,"['jelang', 'lebaran', 'toeng', 'market', 'cyber', 'mall', 'promo']",472,standar
+1300,"['hadap', 'saing', 'ketat', 'hasyim', 'kipuw', 'pilih', 'risau']",304,standar
+1301,"['butuh', 'cold', 'storage', 'kelompok', 'tani', 'tulungrejo', 'terakomodir']",262,standar
+1302,"['masuk', 'nilai', 'lanjut', 'ppd', 'pemkot', 'malang', 'optimis', 'raih']",467,standar
+1303,"['tujuh', 'main', 'jual', 'jersey', 'arema', 'fc', 'drastis']",448,standar
+1304,"['lahan', 'ribu', 'hektare', 'green', 'economy']",436,standar
+1305,"['zona', 'jalan', 'rusak', 'pagak', 'tambal', 'rp', 'miliar']",312,standar
+1306,"['bungkus', 'tas', 'kresek', 'bayi', 'perempuan', 'buang', 'rumah', 'kosong']",265,standar
+1307,"['duga', 'laku', 'keroyok', 'putra', 'siregar', 'rico', 'valentino', 'lapor', 'polisi']",435,standar
+1308,"['hasil', 'lelang', 'bumi', 'raya', 'unduhunduh', 'desa', 'swaru', 'bantu', 'musala']",465,standar
+1309,"['layan', 'butuh', 'libur', 'lebaran', 'bri', 'siap', 'uang', 'tunai', 'rp', 'triliun']",309,standar
+1310,"['arus', 'mudik', 'prediksi', 'tingkat', 'persen']",298,standar
+1311,"['alas', 'bangun', 'underpass', 'butuh', 'lebar']",369,standar
+1312,"['kabupaten', 'andal', 'pantai', 'potensi', 'kembang', 'sport', 'tourism']",481,standar
+1313,"['suwaru', 'umat', 'kristenislam', 'baur', 'kompak', 'sih', 'ibadah']",495,standar
+1314,"['bantu', 'hukum', 'warga', 'miskin', 'mudah']",356,standar
+1315,"['jembatan', 'pelangi', 'tingkat', 'daya', 'dukung', 'wisata', 'ekonomi']",346,standar
+1316,"['potensi', 'tugas', 'pajak', 'pelotot', 'ghosting', 'kafe', 'resto']",257,standar
+1317,"['mohon', 'paspor', 'imigrasi', 'malang', 'mayoritas', 'umrah']",446,standar
+1318,"['rektor', 'ub', 'pilih', 'mahasiswa']",409,standar
+1319,"['prof', 'candra', 'libat', 'bangun', 'ub']",329,standar
+1320,"['utakatik', 'kans', 'rektor', 'ub', 'candraimam', 'angin', 'unti', 'ludigdo', 'kuda', 'hitam']",361,standar
+1321,"['arinda', 'ikon', 'pesona', 'batik', 'nusantara', 'sukses', 'usung', 'batik', 'dadaprejo', 'go', 'national']",358,standar
+1322,"['hormat', 'ramadanumat', 'kristen', 'pujiharjo', 'tiada', 'bakti', 'bangun', 'rohani']",414,standar
+1323,"['ajar', 'bakar', 'tunjung', 'plaza']",316,standar
+1324,"['cerita', 'putar', 'balik', 'nomor', 'punggung', 'main', 'arema', 'fc']",348,standar
+1325,"['jemput', 'bola', 'smartfren', 'luncur', 'program', 'motogp']",485,standar
+1326,"['tahan', 'bos', 'sekolah', 'spi', 'timbang']",308,standar
+1327,"['dana', 'rp', 'desa', 'kabupaten', 'malang', 'ganjal', 'syarat']",376,standar
+1328,"['jaksa', 'kpk', 'tuding', 'gratifikasi', 'eddy', 'rumpoko', 'bantah', 'pinjam']",430,standar
+1329,"['tahan', 'eddy', 'rumpoko', 'tuntut']",377,standar
+1330,"['tinggal', 'korban', 'jadwal', 'uji', 'baik']",448,standar
+1331,"['bri', 'dorong', 'lanjut', 'umkm', 'kelas', 'digitalisasi']",290,standar
+1332,"['kabupaten', 'malang', 'guru', 'smp', 'swasta', 'lindung', 'program', 'bpjamsostek']",418,standar
+1333,"['catat', 'tanggal', 'universitas', 'widyagama', 'gelar', 'vaksinasi', 'booster', 'massal']",170,kurang_populer
+1334,"['cerita', 'rizky', 'dwi', 'febrianto', 'cepat', 'sembuh', 'cedera']",220,kurang_populer
+1335,"['mirama', 'fashion', 'runway', 'tanda', 'luncur', 'coffee', 'cafe', 'grand', 'mercure', 'malang']",163,kurang_populer
+1336,"['mendag', 'tegas', 'subsidi', 'minyak', 'goreng', 'curah', 'sasar', 'pasar']",150,kurang_populer
+1337,"['wujud', 'smart', 'citytp', 'pkk', 'pemkot', 'malang', 'launching', 'sam', 'gepun', 'basa']",204,kurang_populer
+1338,"['britama', 'fstvl', 'hadir', 'agam', 'hadiah', 'kendara', 'listrik', 'asli', 'indonesia']",276,kurang_populer
+1339,"['mentas', 'sosok', 'panji', 'suroso', 'tanda', 'bangkit', 'seni', 'taman', 'krida', 'budaya']",243,kurang_populer
+1340,"['edar', 'sabusabupedagang', 'buah', 'pasar', 'balen', 'ancam', 'penjara']",206,kurang_populer
+1341,"['indonesia', 'singapura', 'erat', 'kerja', 'pariwisata', 'transisi', 'energi']",194,kurang_populer
+1342,"['wali', 'kota', 'malang', 'resmi', 'rumah', 'restorative', 'justice', 'orooro', 'dowo']",321,kurang_populer
+1343,"['tema', 'logo', 'resmi', 'hut', 'kota', 'malang', 'resmi', 'dilaunching']",347,kurang_populer
+1344,"['pt', 'goto', 'gojek', 'tokopedia', 'tbk', 'umum', 'ipo', 'harga', 'saham', 'rp']",198,kurang_populer
+1345,"['tuai', 'hasil', 'transformasi', 'digital', 'nilai', 'transaksi', 'bri', 'tumbuh']",282,kurang_populer
+1346,"['bal', 'united', 'vs', 'arema', 'fc', 'laga', 'krusial', 'buru', 'juara', 'liga']",294,kurang_populer
+1347,"['gercep', 'bpjamsostek', 'santun', 'tanggung', 'awat', 'korban', 'pltp', 'dieng']",289,kurang_populer
+1348,"['digrojok', 'rp', 'jalan', 'area', 'gor', 'muluslus']",315,kurang_populer
+1349,"['mendag', 'pantau', 'langsung', 'produksi', 'migor', 'distribusi', 'masyarakat']",311,kurang_populer
+1350,"['perintah', 'ambil', 'selesai', 'air', 'asia', 'aiww']",247,kurang_populer
+1351,"['kirim', 'uang', 'antarnegara', 'tukar', 'valas', 'beli', 'tiket', 'praktis', 'pakai', 'brimo']",290,kurang_populer
+1352,"['ngebut', 'kota', 'mobil', 'ajar', 'tabrak', 'kendara', 'loncat', 'median']",314,kurang_populer
+1353,"['warga', 'sungai', 'kutuk', 'bebas', 'limbah', 'rumah', 'tangga']",233,kurang_populer
+1354,"['kota', 'batu', 'stok', 'vaksin', 'booster', 'habis', 'februari']",328,kurang_populer
+1355,"['dandim', 'forpimda', 'damping', 'menko', 'pmk', 'tinjau', 'lokasi', 'ungsi', 'relokasi']",216,kurang_populer
+1356,"['bootcamp', 'planet', 'umkm', 'ajang', 'efektif', 'hilir', 'produk', 'kampus', 'masyarakat']",322,kurang_populer
+1357,"['sopir', 'truk', 'demo', 'tahan', 'revisi', 'odol']",205,kurang_populer
+1358,"['doa', 'umkm', 'indonesia', 'bangkit', 'pandemi', 'airlangga', 'doa', 'ulama', 'sulsel']",172,kurang_populer
+1359,"['perkara', 'sidang', 'notariskorban', 'tipu', 'kondotel', 'bluebells', 'pilih', 'damai']",340,kurang_populer
+1360,"['wasapada', 'angka', 'celaka', 'jalan', 'raya']",199,kurang_populer
+1361,"['airlangga', 'kunci', 'golkar', 'menang', 'mutlak', 'indonesia', 'timur', 'sulsel']",302,kurang_populer
+1362,"['kota', 'malang', 'darurat', 'regulasi', 'center', 'of', 'halal', 'tourism']",221,kurang_populer
+1363,"['perempuan', 'internasional', 'gojek', 'komitmen', 'cipta', 'ruang', 'publik', 'aman']",176,kurang_populer
+1364,"['holding', 'ultra', 'mikro', 'bentuk', 'brigade', 'madani', 'sebar', 'daya', 'tumbuh']",326,kurang_populer
+1365,"['realistis', 'arema', 'fc', 'alih', 'bidik', 'kompetisi', 'asia']",284,kurang_populer
+1366,"['presiden', 'arema', 'fc', 'baik', 'performa', 'musim']",218,kurang_populer
+1367,"['atas', 'macet', 'pemkot', 'serius', 'lebar', 'jalan', 'tunggulwulung']",315,kurang_populer
+1368,"['anggar', 'awat', 'jalan', 'habis']",254,kurang_populer
+1369,"['musik', 'nasional', 'wawali', 'kaji', 'gagas', 'wajib', 'ajar', 'kunjung', 'museum']",262,kurang_populer
+1370,"['sidang', 'leceh', 'seksual', 'sekolah', 'spi', 'hakim', 'tolak', 'acara', 'saksi', 'korban']",201,kurang_populer
+1371,"['hasil', 'survey', 'golkar', 'kuasa', 'sumatera', 'jawa', 'airlangga', 'capres', 'atas']",294,kurang_populer
+1372,"['waspada', 'edar', 'ganja', 'sasar', 'usia', 'edar', 'kakap', 'bekuk']",263,kurang_populer
+1373,"['kota', 'batu', 'nihil', 'jalan', 'kota', 'tinggal']",299,kurang_populer
+1374,"['jalan', 'biang', 'macet', 'kota', 'status', 'tinggal']",252,kurang_populer
+1375,"['duel', 'arema', 'fc', 'kontra', 'persib', 'warna', 'absen', 'main', 'kunci']",244,kurang_populer
+1376,"['waspada', 'ribu', 'warga', 'lansia', 'komorbid']",199,kurang_populer
+1377,"['tebing', 'tol', 'pandaanmalang', 'ambrol', 'jalur', 'tutup', 'pagi', 'normal']",254,kurang_populer
+1378,"['obat', 'kecewa', 'batal', 'ptmsekolah', 'gelar', 'sosialisasi', 'wali', 'murid']",249,kurang_populer
+1379,"['kecewa', 'layan', 'kantor', 'pdam', 'pakis']",288,kurang_populer
+1380,"['airlangga', 'hai', 'pemuda', 'muhammaddiyah', 'kur', 'umkm', 'ayo', 'berwirausaha']",168,kurang_populer
+1381,"['muncul', 'metaverse', 'bri', 'layan', 'perban', 'unik']",229,kurang_populer
+1382,"['good', 'news', 'arah', 'jokowi', 'karantina', 'jemaah', 'umrah', 'ppln', 'hari']",258,kurang_populer
+1383,"['catat', 'naik', 'harga', 'bahan', 'pangan', 'prediksi', 'april']",344,kurang_populer
+1384,"['pekan', 'dibukarambu', 'jembatan', 'tunggulmas', 'hilang', 'pkl', 'liar', 'muncul']",222,kurang_populer
+1385,"['korban', 'tabrak', 'lari', 'guru', 'madin', 'tewas']",186,kurang_populer
+1386,"['konsumsi', 'listrik', 'warga', 'malang', 'tingkat', 'tanda', 'ekonomi', 'geliat']",153,kurang_populer
+1387,"['antusiasme', 'cinta', 'sepak', 'bola', 'dorong', 'bangkit', 'umkm', 'bal']",178,kurang_populer
+1388,"['aplikasi', 'familiar', 'layan', 'darurat', 'psc', 'nganggurnya']",235,kurang_populer
+1389,"['tampung', 'total', 'kendara', 'konsep', 'kelola', 'parkir', 'mcc', 'tunggu', 'kaji']",198,kurang_populer
+1390,"['wisata', 'boon', 'pring', 'kenal', 'konsep', 'hajat', 'tematik', 'nuansa', 'ekowisata']",204,kurang_populer
+1391,"['buru', 'wisata', 'kota', 'batu', 'homestay', 'obral', 'diskon', 'baru', 'menu', 'kuliner']",342,kurang_populer
+1392,"['langgan', 'arena', 'balap', 'liar', 'jalan', 'soehat', 'pasang', 'speed', 'trap']",293,kurang_populer
+1393,"['pekan', 'sergio', 'silva', 'tambah', 'motivasi']",323,kurang_populer
+1394,"['kuat', 'branding', 'wisata', 'budaya', 'disparta', 'gelar', 'tunjuk', 'wayang']",344,kurang_populer
+1395,"['tip', 'lahan', 'tani', 'kota', 'malang', 'petan', 'sisa', 'persen']",342,kurang_populer
+1396,"['kuat', 'sanitasi', 'tujuh', 'lurah', 'kota', 'malang', 'suntik', 'dana', 'pusat']",209,kurang_populer
+1397,"['bisnis', 'wealth', 'management', 'bri', 'tumbuh', 'positif', 'januari']",219,kurang_populer
+1398,"['kota', 'batu', 'sebar', 'omicron', 'varian', 'delta']",194,kurang_populer
+1399,"['sebar', 'kabupaten', 'capai', 'angka', 'mati', 'rendah']",331,kurang_populer
+1400,"['tryout', 'sbmptn', 'jawa', 'pos', 'radar', 'malang', 'primagama', 'ikut', 'ribu', 'ajar']",301,kurang_populer
+1401,"['hormat', 'nyepi', 'arema', 'fc', 'pilih', 'libur', 'hari']",297,kurang_populer
+1402,"['jalan', 'lubang', 'makan', 'korban']",159,kurang_populer
+1403,"['rp', 'miliar', 'renovasi', 'wisata', 'mandi', 'songgoriti']",191,kurang_populer
+1404,"['sekolah', 'ptm', 'ketua', 'mkks', 'smp', 'tegas']",210,kurang_populer
+1405,"['airlangga', 'moga', 'kelola', 'sumber', 'daya', 'air', 'nasional', 'rasa', 'warga']",221,kurang_populer
+1406,"['latih', 'arema', 'fc', 'bicara', 'juara']",176,kurang_populer
+1407,"['manajemen', 'arema', 'fc', 'wait', 'and', 'see', 'sanksi', 'bagas', 'adi', 'nugroho']",221,kurang_populer
+1408,"['orientasi', 'ramah', 'lingkung', 'kredit', 'bri', 'sektor', 'renewable', 'energy', 'tumbuh']",191,kurang_populer
+1409,"['wisata', 'bromo', 'tutup']",174,kurang_populer
+1410,"['geger', 'kabar', 'santri', 'lolos', 'culi']",275,kurang_populer
+1411,"['jaga', 'momentum', 'tingkat', 'ekspor', 'kemendag', 'pacu', 'produk', 'daya', 'saing']",340,kurang_populer
+1412,"['kota', 'batu', 'daftar', 'haji', 'turun', 'drastis']",167,kurang_populer
+1413,"['jadwal', 'berangkat', 'buram', 'animo', 'daftar', 'haji']",166,kurang_populer
+1414,"['gaji', 'guru', 'honorer', 'nekat', 'cari', 'tambah', 'tebang', 'tebu', 'ilegal']",344,kurang_populer
+1415,"['jurus', 'hanif', 'sjahbandi', 'tahan', 'bugar', 'bri', 'liga']",268,kurang_populer
+1416,"['airlangga', 'konflik', 'komitmen', 'eropa', 'kuat', 'sinergi', 'apresiasi']",273,kurang_populer
+1417,"['habis', 'migordaging', 'harga', 'cabai']",322,kurang_populer
+1418,"['gelar', 'rupst', 'bri', 'bagi', 'dividen', 'rp', 'triliun']",290,kurang_populer
+1419,"['libur', 'stasiun', 'kota', 'malang', 'terminal', 'arjosari', 'sepi']",232,kurang_populer
+1420,"['gandeng', 'prokids', 'club', 'indonesiakodim', 'gelar', 'vaksinasi', 'ribu', 'dosis', 'booster']",153,kurang_populer
+1421,"['jaga', 'fokus', 'arema', 'fc', 'batal', 'rencana', 'libur', 'latih']",209,kurang_populer
+1422,"['pemkab', 'malang', 'canang', 'bangun', 'puskesmas', 'modern']",232,kurang_populer
+1423,"['bupati', 'sanusi', 'beber', 'pesan', 'presiden', 'jokowi']",270,kurang_populer
+1424,"['duh', 'tuntas', 'migor', 'harga', 'daging', 'cabai', 'ikut', 'rangkak']",216,kurang_populer
+1425,"['arema', 'fc', 'potensi', 'turun', 'peringkat']",295,kurang_populer
+1426,"['jual', 'ori', 'capai', 'rp', 'triliun', 'bri', 'sukses', 'rangkul', 'ribu', 'investor']",318,kurang_populer
+1427,"['jaga', 'aman', 'bumi', 'arema', 'polisi', 'gandeng', 'ulama']",216,kurang_populer
+1428,"['ppkm', 'level', 'terap', 'tahu', 'langgar', 'prokes', 'langsung', 'bap']",235,kurang_populer
+1429,"['arkeolog', 'telusur', 'jejak', 'situs', 'srigading']",164,kurang_populer
+1430,"['hadap', 'ledak', 'anggur', 'pemkab', 'malang', 'bantu', 'cari', 'prakerja']",313,kurang_populer
+1431,"['pandemi', 'malang', 'raya', 'anggur', 'pemda', 'laku']",287,kurang_populer
+1432,"['kunjung', 'banda', 'aceh', 'mendag', 'pantau', 'kembang', 'harga', 'minyak', 'goreng']",202,kurang_populer
+1433,"['rakor', 'migor', 'sumut', 'mendag', 'lutfi', 'laku', 'timbun', 'tindak']",329,kurang_populer
+1434,"['cangkrukan', 'teras', 'rumah', 'tewas', 'disruduk', 'pikap']",177,kurang_populer
+1435,"['tanggap', 'bencana', 'gempa', 'pasaman', 'barat', 'posko', 'bri', 'peduli', 'bantu', 'warga', 'dampak']",336,kurang_populer
+1436,"['ratus', 'produsen', 'tempe', 'kabupaten', 'malang', 'mogok', 'produksi']",292,kurang_populer
+1437,"['segar', 'dprd', 'kota', 'malang', 'rombak', 'susun', 'alat', 'lengkap', 'dewan']",239,kurang_populer
+1438,"['persen', 'kerja', 'usia', 'produktif', 'getol', 'cair', 'jht', 'alas']",242,kurang_populer
+1439,"['cedera', 'yudo', 'paksa', 'musim', 'cepat']",243,kurang_populer
+1440,"['jaga', 'pola', 'makan', 'istirahat', 'jurus', 'jayus', 'hariono', 'fit']",165,kurang_populer
+1441,"['pantau', 'migor', 'sumbar', 'mendag', 'distribusi', 'lancar', 'pasok', 'cukup']",265,kurang_populer
+1442,"['perintah', 'pasti', 'penuh', 'bahan', 'pangan', 'operasi', 'pasar', 'pasar', 'murah']",294,kurang_populer
+1443,"['airlangga', 'terima', 'aspirasi', 'panjang', 'jabat', 'jokowi', 'tani', 'sawit']",341,kurang_populer
+1444,"['persib', 'panas', 'papan', 'eduardo']",243,kurang_populer
+1445,"['polres', 'malang', 'pimpin', 'ajudan', 'kapolri']",324,kurang_populer
+1446,"['paksa', 'absen', 'fortes', 'percaya', 'arema', 'fc', 'garang']",230,kurang_populer
+1447,"['hadap', 'baya', 'arema', 'fc', 'perhati', 'khusus', 'sektor', 'sayap']",277,kurang_populer
+1448,"['erick', 'thohir', 'daya', 'umkm', 'bri', 'lokomotif', 'ekonomi', 'prorakyat']",298,kurang_populer
+1449,"['covid', 'kabupaten', 'malang', 'landai', 'kunci']",348,kurang_populer
+1450,"['arema', 'fc', 'pilih', 'enjoy', 'geber', 'siap', 'hadap', 'baya']",216,kurang_populer
+1451,"['lawan', 'baya', 'tangguh', 'lini', 'arema', 'fc', 'uji']",265,kurang_populer
+1452,"['kendali', 'aktif', 'covid', 'akselerasi', 'vaksinasi', 'disiplin', 'prokes']",252,kurang_populer
+1453,"['singo', 'edan', 'menang', 'lawan', 'bajul', 'ijo', 'mustahil']",337,kurang_populer
+1454,"['uang', 'masjid', 'raib', 'gondol', 'maling']",202,kurang_populer
+1455,"['duta', 'hijab', 'latih', 'jalan', 'catwalk', 'cantik']",286,kurang_populer
+1456,"['proyeksi', 'tumbuh', 'jangka', 'buyback', 'bbri', 'sentimen', 'positif']",311,kurang_populer
+1457,"['edukasi', 'mahasiswa', 'umm', 'sabet', 'medali', 'nasional', 'poster', 'cegah', 'covid']",176,kurang_populer
+1458,"['hotel', 'hantam', 'gelombang', 'pandemi', 'jilid', 'okupansi', 'langsung', 'terjun', 'bebas']",289,kurang_populer
+1459,"['investasi', 'jaring', 'xl', 'axiata', 'tingkat', 'customer', 'experience', 'digitalisasi']",155,kurang_populer
+1460,"['telan', 'rp', 'film', 'tema', 'pandemi', 'karya', 'malvocs', 'sukses', 'angkat', 'citra', 'smk']",160,kurang_populer
+1461,"['wuss', 'malam', 'rumah', 'timpa', 'pohon', 'akibat', 'angin', 'puyuh']",216,kurang_populer
+1462,"['cidera', 'video', 'warna', 'afida', 'putri', 'pariwisata', 'nusantara']",229,kurang_populer
+1463,"['customer', 'moladin', 'resmi', 'kantor', 'area', 'jatim', 'malang']",269,kurang_populer
+1464,"['potensi', 'airlangga', 'bupati', 'gresik', 'bupati', 'tembaga']",266,kurang_populer
+1465,"['kamis', 'smpn', 'resmi', 'siswa', 'daring']",281,kurang_populer
+1466,"['pria', 'spesialis', 'copet', 'hibur']",186,kurang_populer
+1467,"['membludak', 'pasien', 'covid', 'isoter', 'ijen', 'geser', 'skb']",160,kurang_populer
+1468,"['kalah', 'madura', 'united', 'arema', 'fc', 'aman', 'puncak', 'klasemen']",193,kurang_populer
+1469,"['stop', 'bullying', 'fokus', 'usul', 'musrenbang', 'tematik', 'anak']",276,kurang_populer
+1470,"['fokus', 'digital', 'investor', 'millenial', 'wealth', 'management', 'bri', 'tingkat']",196,kurang_populer
+1471,"['lombok', 'rekomendasi', 'hotel', 'cantik', 'lombok']",165,kurang_populer
+1472,"['sertifikat', 'tanah', 'gratis', 'orang']",202,kurang_populer
+1473,"['antisipasi', 'rs', 'lapang', 'ijen', 'penuh', 'rumah', 'isoter', 'skb', 'operasi']",224,kurang_populer
+1474,"['laga', 'arema', 'fc', 'versus', 'madura', 'united', 'maju']",162,kurang_populer
+1475,"['pulih', 'ekonomi', 'global', 'lanjut', 'presidensi', 'indonesia']",192,kurang_populer
+1476,"['perdana', 'ratus', 'mitra', 'driver', 'malang', 'kursus', 'gratis', 'gopay']",276,kurang_populer
+1477,"['eduardo', 'almeida', 'harga', 'latih', 'baik']",173,kurang_populer
+1478,"['demo', 'protes', 'warna', 'sidang', 'perdana', 'leceh', 'seksual', 'sekolah', 'spi']",205,kurang_populer
+1479,"['drainase', 'kota', 'kepanjen', 'masalah']",346,kurang_populer
+1480,"['rampok', 'daihatsu', 'sigra', 'alumni', 'lapas', 'lowokwaru']",319,kurang_populer
+1481,"['harga', 'kedelai', 'siapsiap', 'tempe', 'malang', 'langka', 'pasar']",325,kurang_populer
+1482,"['tumbuh', 'ri', 'masuk', 'negara', 'dapat', 'tengah']",150,kurang_populer
+1483,"['waspada', 'lur', 'januari', 'jenazah', 'covid', 'makam']",259,kurang_populer
+1484,"['andal', 'konsumen', 'musim', 'hujan', 'gojek', 'bekal', 'mitra', 'jas', 'hujan']",216,kurang_populer
+1485,"['pfi', 'malang', 'gelar', 'talk', 'show', 'bedah', 'buku', 'foto', 'trisnadi', 'marjan']",306,kurang_populer
+1486,"['musim', 'arema', 'fc', 'momentum', 'juara']",234,kurang_populer
+1487,"['rekor', 'balekambang', 'kunjung', 'ribu', 'wisatawan', 'hari']",245,kurang_populer
+1488,"['unggul', 'sita', 'arema', 'fc', 'aman', 'puncak', 'klasemen', 'liga']",317,kurang_populer
+1489,"['pertamina', 'grand', 'prix', 'of', 'indonesia', 'energi', 'berani', 'lesat']",332,kurang_populer
+1490,"['final', 'duta', 'hijab', 'radar', 'malang', 'pilih', 'mayoritas', 'kenyang', 'alam']",306,kurang_populer
+1491,"['komposisi', 'casa', 'tembus', 'biaya', 'dana', 'bri', 'efisien']",335,kurang_populer
+1492,"['nikmat', 'internetan', 'bebas', 'worry', 'smartfren', 'unlimited', 'nonstop']",327,kurang_populer
+1493,"['buybackjadi', 'cermin', 'optimisme', 'saham', 'bbri', 'proyeksi', 'sentuh', 'level', 'ribu']",213,kurang_populer
+1494,"['lawan', 'sita', 'arema', 'fc', 'unbeaten']",289,kurang_populer
+1495,"['ragam', 'jurus', 'kendali', 'omicorn', 'panjang', 'ppkm', 'vaksinasi', 'prokes']",188,kurang_populer
+1496,"['rehab', 'pasar', 'bululawang', 'rp', 'juta', 'meter', 'persegi']",204,kurang_populer
+1497,"['talenta', 'wirausaha', 'bsi', 'darat', 'malang', 'ajak', 'wirausaha', 'muda', 'kelas']",225,kurang_populer
+1498,"['komitmen', 'perintah', 'lindung', 'kerja', 'jkp', 'jht']",327,kurang_populer
+1499,"['layan', 'jiwa', 'pulang']",167,kurang_populer
+1500,"['aman', 'tahta', 'liga', 'arema', 'fc', 'minimal', 'butuh', 'poin']",201,kurang_populer
+1501,"['xenia', 'sruduk', 'motor', 'warung', 'kios', 'bruak', 'tewas', 'pasutri', 'pakisaji']",306,kurang_populer
+1502,"['persen', 'covid', 'identifikasi', 'omicron']",162,kurang_populer
+1503,"['viral', 'banjir', 'eks', 'tpa', 'lowokdoro', 'dewan', 'bukti', 'pemkot', 'perhati']",244,kurang_populer
+1504,"['atlet', 'sepatu', 'roda', 'kabupaten', 'malang', 'target', 'medali', 'emas', 'porprov']",176,kurang_populer
+1505,"['tinjau', 'produksi', 'kri', 'teluk', 'palu', 'airlangga', 'komitmen', 'dukung', 'industri', 'kapal']",242,kurang_populer
+1506,"['daya', 'sahabat', 'bisnis', 'buahbuahan', 'tilep', 'rp', 'miliar']",184,kurang_populer
+1507,"['bri', 'pacu', 'transformasi', 'digital', 'luas', 'jangkau', 'nasabah']",288,kurang_populer
+1508,"['semangat', 'ajar', 'siswa', 'luring', 'daring', 'rendah']",221,kurang_populer
+1509,"['alfarizi', 'dominasi', 'catat', 'minutes', 'play', 'arema', 'fc']",197,kurang_populer
+1510,"['mazhab', 'jurnalisme']",166,kurang_populer
+1511,"['pasok', 'via', 'ekspedisi', 'arak', 'bal', 'pesan', 'warga', 'dampit', 'digrebek', 'bea', 'cukai']",205,kurang_populer
+1512,"['antisipasi', 'klaster', 'kampus', 'senin', 'ub', 'kuliah', 'daring']",307,kurang_populer
+1513,"['jelang', 'tampil', 'turki', 'arema', 'fc', 'women', 'banyak', 'referensi', 'calon', 'lawan']",274,kurang_populer
+1514,"['duet', 'erickkhofifah', 'rawan', 'berkah', 'prestasi', 'inovatif']",164,kurang_populer
+1515,"['sidak', 'mal', 'kabaharkam', 'anggap', 'prokes', 'jalan']",171,kurang_populer
+1516,"['pulih', 'global', 'kuat', 'tingkat', 'kolaborasi', 'world', 'bank']",232,kurang_populer
+1517,"['siswa', 'sma', 'dempo', 'positif', 'covid']",310,kurang_populer
+1518,"['reuni', 'kecilkecilan', 'fabiano', 'penggawa', 'persiraja']",314,kurang_populer
+1519,"['produksi', 'minum', 'tangkal', 'covid']",291,kurang_populer
+1520,"['tujuh', 'sma', 'kota', 'malang', 'sumbang', 'aktif', 'covid']",318,kurang_populer
+1521,"['nakes', 'kontrak', 'kota', 'malang', 'jalan', 'tempat']",203,kurang_populer
+1522,"['akselerasi', 'pulih', 'pariwisata', 'ekonomi', 'kreatif', 'sinergi', 'lintas', 'sektor']",159,kurang_populer
+1523,"['benefit', 'dapat', 'simhae', 'korean', 'bbq', 'all', 'you', 'can', 'eat']",320,kurang_populer
+1524,"['temu', 'fragmen', 'bentuk', 'kepala', 'lawang']",320,kurang_populer
+1525,"['ijti', 'pengda', 'jatim', 'kejar', 'aktual', 'lupa', 'filter']",202,kurang_populer
+1526,"['aji', 'malang', 'wajib', 'disiplin', 'verifikasi', 'patuh', 'kode', 'etik']",262,kurang_populer
+1527,"['hpn', 'airlangga', 'pers', 'bantu', 'selamat', 'negeri', 'hoaks', 'pandemi']",238,kurang_populer
+1528,"['pfi', 'malang', 'media', 'mainstream', 'pegang', 'fungsi', 'checker']",216,kurang_populer
+1529,"['pwi', 'malang', 'raya', 'informasi', 'percaya', 'media', 'mainstream']",294,kurang_populer
+1530,"['gubes', 'uin', 'maliki', 'bahas', 'etika', 'teknologi', 'cipta', 'sdm', 'unggul']",232,kurang_populer
+1531,"['usaha', 'uu', 'ciptaker', 'jamin', 'pasti', 'iklim', 'usaha', 'reformasi', 'struktural']",181,kurang_populer
+1532,"['bri', 'himbau', 'masyarakat', 'waspada', 'investasi', 'ilegal']",288,kurang_populer
+1533,"['kemendag', 'dukung', 'presidensi', 'katalis', 'pulih', 'ekonomi', 'global']",239,kurang_populer
+1534,"['perintah', 'dorong', 'bijak', 'turun', 'miskin', 'ekstrem', 'wilayah']",198,kurang_populer
+1535,"['malang', 'landa', 'kali', 'bencana', 'alam']",334,kurang_populer
+1536,"['persada', 'launching', 'klinik', 'fertilitas', 'solusi', 'pasutri', 'buah', 'hati']",161,kurang_populer
+1537,"['uin', 'maliki', 'malang', 'rujuk', 'kampus', 'islam']",252,kurang_populer
+1538,"['pekan', 'jembatan', 'tlogomas', 'saxopohone', 'buka']",333,kurang_populer
+1539,"['kunjung', 'wisatawan', 'mentok', 'persen']",211,kurang_populer
+1540,"['duet', 'kh', 'chamzawi', 'kh', 'isroqunnajah', 'pimpin', 'nu', 'kota', 'malang']",349,kurang_populer
+1541,"['nasib', 'pegawai', 'honorer']",290,kurang_populer
+1542,"['habis', 'duel', 'terbit', 'romantisme', 'tim', 'persija', 'arema', 'fc']",328,kurang_populer
+1543,"['sertifikasi', 'aset', 'kota', 'batu', 'sisa', 'bidang']",152,kurang_populer
+1544,"['pemkab', 'malang', 'target', 'sertifikasi', 'aset', 'tuntas']",239,kurang_populer
+1545,"['aset', 'daerah', 'sertifikasi', 'pemkot', 'pemkab', 'malang']",324,kurang_populer
+1546,"['covid', 'kabupaten', 'malang', 'tinggi', 'empat', 'sejatim']",217,kurang_populer
+1547,"['catat', 'tanggal', 'universitas', 'widyagama', 'gelar', 'vaksinasi', 'booster', 'massal']",195,kurang_populer
+1548,"['cerita', 'rizky', 'dwi', 'febrianto', 'cepat', 'sembuh', 'cedera']",208,kurang_populer
+1549,"['mirama', 'fashion', 'runway', 'tanda', 'luncur', 'coffee', 'cafe', 'grand', 'mercure', 'malang']",267,kurang_populer
+1550,"['mendag', 'tegas', 'subsidi', 'minyak', 'goreng', 'curah', 'sasar', 'pasar']",268,kurang_populer
+1551,"['wujud', 'smart', 'citytp', 'pkk', 'pemkot', 'malang', 'launching', 'sam', 'gepun', 'basa']",190,kurang_populer
+1552,"['britama', 'fstvl', 'hadir', 'agam', 'hadiah', 'kendara', 'listrik', 'asli', 'indonesia']",165,kurang_populer
+1553,"['mentas', 'sosok', 'panji', 'suroso', 'tanda', 'bangkit', 'seni', 'taman', 'krida', 'budaya']",185,kurang_populer
+1554,"['edar', 'sabusabupedagang', 'buah', 'pasar', 'balen', 'ancam', 'penjara']",349,kurang_populer
+1555,"['indonesia', 'singapura', 'erat', 'kerja', 'pariwisata', 'transisi', 'energi']",244,kurang_populer
+1556,"['wali', 'kota', 'malang', 'resmi', 'rumah', 'restorative', 'justice', 'orooro', 'dowo']",247,kurang_populer
+1557,"['tema', 'logo', 'resmi', 'hut', 'kota', 'malang', 'resmi', 'dilaunching']",177,kurang_populer
+1558,"['pt', 'goto', 'gojek', 'tokopedia', 'tbk', 'umum', 'ipo', 'harga', 'saham', 'rp']",217,kurang_populer
+1559,"['tuai', 'hasil', 'transformasi', 'digital', 'nilai', 'transaksi', 'bri', 'tumbuh']",188,kurang_populer
+1560,"['bal', 'united', 'vs', 'arema', 'fc', 'laga', 'krusial', 'buru', 'juara', 'liga']",224,kurang_populer
+1561,"['gercep', 'bpjamsostek', 'santun', 'tanggung', 'awat', 'korban', 'pltp', 'dieng']",222,kurang_populer
+1562,"['digrojok', 'rp', 'jalan', 'area', 'gor', 'muluslus']",303,kurang_populer
+1563,"['mendag', 'pantau', 'langsung', 'produksi', 'migor', 'distribusi', 'masyarakat']",226,kurang_populer
+1564,"['perintah', 'ambil', 'selesai', 'air', 'asia', 'aiww']",198,kurang_populer
+1565,"['kirim', 'uang', 'antarnegara', 'tukar', 'valas', 'beli', 'tiket', 'praktis', 'pakai', 'brimo']",182,kurang_populer
+1566,"['ngebut', 'kota', 'mobil', 'ajar', 'tabrak', 'kendara', 'loncat', 'median']",347,kurang_populer
+1567,"['warga', 'sungai', 'kutuk', 'bebas', 'limbah', 'rumah', 'tangga']",200,kurang_populer
+1568,"['kota', 'batu', 'stok', 'vaksin', 'booster', 'habis', 'februari']",324,kurang_populer
+1569,"['dandim', 'forpimda', 'damping', 'menko', 'pmk', 'tinjau', 'lokasi', 'ungsi', 'relokasi']",295,kurang_populer
+1570,"['bootcamp', 'planet', 'umkm', 'ajang', 'efektif', 'hilir', 'produk', 'kampus', 'masyarakat']",205,kurang_populer
+1571,"['sopir', 'truk', 'demo', 'tahan', 'revisi', 'odol']",284,kurang_populer
+1572,"['doa', 'umkm', 'indonesia', 'bangkit', 'pandemi', 'airlangga', 'doa', 'ulama', 'sulsel']",318,kurang_populer
+1573,"['perkara', 'sidang', 'notariskorban', 'tipu', 'kondotel', 'bluebells', 'pilih', 'damai']",263,kurang_populer
+1574,"['wasapada', 'angka', 'celaka', 'jalan', 'raya']",274,kurang_populer
+1575,"['airlangga', 'kunci', 'golkar', 'menang', 'mutlak', 'indonesia', 'timur', 'sulsel']",210,kurang_populer
+1576,"['kota', 'malang', 'darurat', 'regulasi', 'center', 'of', 'halal', 'tourism']",200,kurang_populer
+1577,"['perempuan', 'internasional', 'gojek', 'komitmen', 'cipta', 'ruang', 'publik', 'aman']",339,kurang_populer
+1578,"['holding', 'ultra', 'mikro', 'bentuk', 'brigade', 'madani', 'sebar', 'daya', 'tumbuh']",228,kurang_populer
+1579,"['realistis', 'arema', 'fc', 'alih', 'bidik', 'kompetisi', 'asia']",169,kurang_populer
+1580,"['presiden', 'arema', 'fc', 'baik', 'performa', 'musim']",249,kurang_populer
+1581,"['atas', 'macet', 'pemkot', 'serius', 'lebar', 'jalan', 'tunggulwulung']",325,kurang_populer
+1582,"['anggar', 'awat', 'jalan', 'habis']",293,kurang_populer
+1583,"['musik', 'nasional', 'wawali', 'kaji', 'gagas', 'wajib', 'ajar', 'kunjung', 'museum']",275,kurang_populer
+1584,"['sidang', 'leceh', 'seksual', 'sekolah', 'spi', 'hakim', 'tolak', 'acara', 'saksi', 'korban']",235,kurang_populer
+1585,"['hasil', 'survey', 'golkar', 'kuasa', 'sumatera', 'jawa', 'airlangga', 'capres', 'atas']",157,kurang_populer
+1586,"['waspada', 'edar', 'ganja', 'sasar', 'usia', 'edar', 'kakap', 'bekuk']",327,kurang_populer
+1587,"['kota', 'batu', 'nihil', 'jalan', 'kota', 'tinggal']",166,kurang_populer
+1588,"['jalan', 'biang', 'macet', 'kota', 'status', 'tinggal']",224,kurang_populer
+1589,"['duel', 'arema', 'fc', 'kontra', 'persib', 'warna', 'absen', 'main', 'kunci']",184,kurang_populer
+1590,"['waspada', 'ribu', 'warga', 'lansia', 'komorbid']",162,kurang_populer
+1591,"['tebing', 'tol', 'pandaanmalang', 'ambrol', 'jalur', 'tutup', 'pagi', 'normal']",213,kurang_populer
+1592,"['obat', 'kecewa', 'batal', 'ptmsekolah', 'gelar', 'sosialisasi', 'wali', 'murid']",151,kurang_populer
+1593,"['kecewa', 'layan', 'kantor', 'pdam', 'pakis']",265,kurang_populer
+1594,"['airlangga', 'hai', 'pemuda', 'muhammaddiyah', 'kur', 'umkm', 'ayo', 'berwirausaha']",166,kurang_populer
+1595,"['muncul', 'metaverse', 'bri', 'layan', 'perban', 'unik']",273,kurang_populer
+1596,"['good', 'news', 'arah', 'jokowi', 'karantina', 'jemaah', 'umrah', 'ppln', 'hari']",291,kurang_populer
+1597,"['catat', 'naik', 'harga', 'bahan', 'pangan', 'prediksi', 'april']",328,kurang_populer
+1598,"['pekan', 'dibukarambu', 'jembatan', 'tunggulmas', 'hilang', 'pkl', 'liar', 'muncul']",241,kurang_populer
+1599,"['korban', 'tabrak', 'lari', 'guru', 'madin', 'tewas']",164,kurang_populer
+1600,"['konsumsi', 'listrik', 'warga', 'malang', 'tingkat', 'tanda', 'ekonomi', 'geliat']",162,kurang_populer
+1601,"['antusiasme', 'cinta', 'sepak', 'bola', 'dorong', 'bangkit', 'umkm', 'bal']",311,kurang_populer
+1602,"['aplikasi', 'familiar', 'layan', 'darurat', 'psc', 'nganggurnya']",260,kurang_populer
+1603,"['tampung', 'total', 'kendara', 'konsep', 'kelola', 'parkir', 'mcc', 'tunggu', 'kaji']",198,kurang_populer
+1604,"['wisata', 'boon', 'pring', 'kenal', 'konsep', 'hajat', 'tematik', 'nuansa', 'ekowisata']",168,kurang_populer
+1605,"['buru', 'wisata', 'kota', 'batu', 'homestay', 'obral', 'diskon', 'baru', 'menu', 'kuliner']",277,kurang_populer
+1606,"['langgan', 'arena', 'balap', 'liar', 'jalan', 'soehat', 'pasang', 'speed', 'trap']",273,kurang_populer
+1607,"['pekan', 'sergio', 'silva', 'tambah', 'motivasi']",268,kurang_populer
+1608,"['kuat', 'branding', 'wisata', 'budaya', 'disparta', 'gelar', 'tunjuk', 'wayang']",333,kurang_populer
+1609,"['tip', 'lahan', 'tani', 'kota', 'malang', 'petan', 'sisa', 'persen']",330,kurang_populer
+1610,"['kuat', 'sanitasi', 'tujuh', 'lurah', 'kota', 'malang', 'suntik', 'dana', 'pusat']",322,kurang_populer
+1611,"['bisnis', 'wealth', 'management', 'bri', 'tumbuh', 'positif', 'januari']",307,kurang_populer
+1612,"['kota', 'batu', 'sebar', 'omicron', 'varian', 'delta']",223,kurang_populer
+1613,"['sebar', 'kabupaten', 'capai', 'angka', 'mati', 'rendah']",235,kurang_populer
+1614,"['tryout', 'sbmptn', 'jawa', 'pos', 'radar', 'malang', 'primagama', 'ikut', 'ribu', 'ajar']",306,kurang_populer
+1615,"['hormat', 'nyepi', 'arema', 'fc', 'pilih', 'libur', 'hari']",281,kurang_populer
+1616,"['jalan', 'lubang', 'makan', 'korban']",303,kurang_populer
+1617,"['rp', 'miliar', 'renovasi', 'wisata', 'mandi', 'songgoriti']",158,kurang_populer
+1618,"['sekolah', 'ptm', 'ketua', 'mkks', 'smp', 'tegas']",339,kurang_populer
+1619,"['airlangga', 'moga', 'kelola', 'sumber', 'daya', 'air', 'nasional', 'rasa', 'warga']",205,kurang_populer
+1620,"['latih', 'arema', 'fc', 'bicara', 'juara']",213,kurang_populer
+1621,"['manajemen', 'arema', 'fc', 'wait', 'and', 'see', 'sanksi', 'bagas', 'adi', 'nugroho']",349,kurang_populer
+1622,"['orientasi', 'ramah', 'lingkung', 'kredit', 'bri', 'sektor', 'renewable', 'energy', 'tumbuh']",177,kurang_populer
+1623,"['wisata', 'bromo', 'tutup']",167,kurang_populer
+1624,"['geger', 'kabar', 'santri', 'lolos', 'culi']",342,kurang_populer
+1625,"['jaga', 'momentum', 'tingkat', 'ekspor', 'kemendag', 'pacu', 'produk', 'daya', 'saing']",301,kurang_populer
+1626,"['kota', 'batu', 'daftar', 'haji', 'turun', 'drastis']",300,kurang_populer
+1627,"['jadwal', 'berangkat', 'buram', 'animo', 'daftar', 'haji']",284,kurang_populer
+1628,"['gaji', 'guru', 'honorer', 'nekat', 'cari', 'tambah', 'tebang', 'tebu', 'ilegal']",320,kurang_populer
+1629,"['jurus', 'hanif', 'sjahbandi', 'tahan', 'bugar', 'bri', 'liga']",308,kurang_populer
+1630,"['airlangga', 'konflik', 'komitmen', 'eropa', 'kuat', 'sinergi', 'apresiasi']",283,kurang_populer
+1631,"['habis', 'migordaging', 'harga', 'cabai']",240,kurang_populer
+1632,"['gelar', 'rupst', 'bri', 'bagi', 'dividen', 'rp', 'triliun']",230,kurang_populer
+1633,"['libur', 'stasiun', 'kota', 'malang', 'terminal', 'arjosari', 'sepi']",250,kurang_populer
+1634,"['gandeng', 'prokids', 'club', 'indonesiakodim', 'gelar', 'vaksinasi', 'ribu', 'dosis', 'booster']",281,kurang_populer
+1635,"['jaga', 'fokus', 'arema', 'fc', 'batal', 'rencana', 'libur', 'latih']",261,kurang_populer
+1636,"['pemkab', 'malang', 'canang', 'bangun', 'puskesmas', 'modern']",280,kurang_populer
+1637,"['bupati', 'sanusi', 'beber', 'pesan', 'presiden', 'jokowi']",217,kurang_populer
+1638,"['duh', 'tuntas', 'migor', 'harga', 'daging', 'cabai', 'ikut', 'rangkak']",262,kurang_populer
+1639,"['arema', 'fc', 'potensi', 'turun', 'peringkat']",288,kurang_populer
+1640,"['jual', 'ori', 'capai', 'rp', 'triliun', 'bri', 'sukses', 'rangkul', 'ribu', 'investor']",246,kurang_populer
+1641,"['jaga', 'aman', 'bumi', 'arema', 'polisi', 'gandeng', 'ulama']",329,kurang_populer
+1642,"['ppkm', 'level', 'terap', 'tahu', 'langgar', 'prokes', 'langsung', 'bap']",215,kurang_populer
+1643,"['arkeolog', 'telusur', 'jejak', 'situs', 'srigading']",177,kurang_populer
+1644,"['hadap', 'ledak', 'anggur', 'pemkab', 'malang', 'bantu', 'cari', 'prakerja']",328,kurang_populer
+1645,"['pandemi', 'malang', 'raya', 'anggur', 'pemda', 'laku']",289,kurang_populer
+1646,"['kunjung', 'banda', 'aceh', 'mendag', 'pantau', 'kembang', 'harga', 'minyak', 'goreng']",318,kurang_populer
+1647,"['rakor', 'migor', 'sumut', 'mendag', 'lutfi', 'laku', 'timbun', 'tindak']",250,kurang_populer
+1648,"['cangkrukan', 'teras', 'rumah', 'tewas', 'disruduk', 'pikap']",261,kurang_populer
+1649,"['tanggap', 'bencana', 'gempa', 'pasaman', 'barat', 'posko', 'bri', 'peduli', 'bantu', 'warga', 'dampak']",223,kurang_populer
+1650,"['ratus', 'produsen', 'tempe', 'kabupaten', 'malang', 'mogok', 'produksi']",300,kurang_populer
+1651,"['segar', 'dprd', 'kota', 'malang', 'rombak', 'susun', 'alat', 'lengkap', 'dewan']",319,kurang_populer
+1652,"['persen', 'kerja', 'usia', 'produktif', 'getol', 'cair', 'jht', 'alas']",261,kurang_populer
+1653,"['cedera', 'yudo', 'paksa', 'musim', 'cepat']",234,kurang_populer
+1654,"['jaga', 'pola', 'makan', 'istirahat', 'jurus', 'jayus', 'hariono', 'fit']",284,kurang_populer
+1655,"['pantau', 'migor', 'sumbar', 'mendag', 'distribusi', 'lancar', 'pasok', 'cukup']",263,kurang_populer
+1656,"['perintah', 'pasti', 'penuh', 'bahan', 'pangan', 'operasi', 'pasar', 'pasar', 'murah']",190,kurang_populer
+1657,"['airlangga', 'terima', 'aspirasi', 'panjang', 'jabat', 'jokowi', 'tani', 'sawit']",347,kurang_populer
+1658,"['persib', 'panas', 'papan', 'eduardo']",188,kurang_populer
+1659,"['polres', 'malang', 'pimpin', 'ajudan', 'kapolri']",220,kurang_populer
+1660,"['paksa', 'absen', 'fortes', 'percaya', 'arema', 'fc', 'garang']",302,kurang_populer
+1661,"['hadap', 'baya', 'arema', 'fc', 'perhati', 'khusus', 'sektor', 'sayap']",284,kurang_populer
+1662,"['erick', 'thohir', 'daya', 'umkm', 'bri', 'lokomotif', 'ekonomi', 'prorakyat']",302,kurang_populer
+1663,"['covid', 'kabupaten', 'malang', 'landai', 'kunci']",326,kurang_populer
+1664,"['arema', 'fc', 'pilih', 'enjoy', 'geber', 'siap', 'hadap', 'baya']",345,kurang_populer
+1665,"['lawan', 'baya', 'tangguh', 'lini', 'arema', 'fc', 'uji']",247,kurang_populer
+1666,"['kendali', 'aktif', 'covid', 'akselerasi', 'vaksinasi', 'disiplin', 'prokes']",336,kurang_populer
+1667,"['singo', 'edan', 'menang', 'lawan', 'bajul', 'ijo', 'mustahil']",175,kurang_populer
+1668,"['uang', 'masjid', 'raib', 'gondol', 'maling']",199,kurang_populer
+1669,"['duta', 'hijab', 'latih', 'jalan', 'catwalk', 'cantik']",196,kurang_populer
+1670,"['proyeksi', 'tumbuh', 'jangka', 'buyback', 'bbri', 'sentimen', 'positif']",206,kurang_populer
+1671,"['edukasi', 'mahasiswa', 'umm', 'sabet', 'medali', 'nasional', 'poster', 'cegah', 'covid']",314,kurang_populer
+1672,"['hotel', 'hantam', 'gelombang', 'pandemi', 'jilid', 'okupansi', 'langsung', 'terjun', 'bebas']",337,kurang_populer
+1673,"['investasi', 'jaring', 'xl', 'axiata', 'tingkat', 'customer', 'experience', 'digitalisasi']",283,kurang_populer
+1674,"['telan', 'rp', 'film', 'tema', 'pandemi', 'karya', 'malvocs', 'sukses', 'angkat', 'citra', 'smk']",233,kurang_populer
+1675,"['wuss', 'malam', 'rumah', 'timpa', 'pohon', 'akibat', 'angin', 'puyuh']",149,kurang_populer
+1676,"['cidera', 'video', 'warna', 'afida', 'putri', 'pariwisata', 'nusantara']",235,kurang_populer
+1677,"['customer', 'moladin', 'resmi', 'kantor', 'area', 'jatim', 'malang']",256,kurang_populer
+1678,"['potensi', 'airlangga', 'bupati', 'gresik', 'bupati', 'tembaga']",337,kurang_populer
+1679,"['kamis', 'smpn', 'resmi', 'siswa', 'daring']",251,kurang_populer
+1680,"['pria', 'spesialis', 'copet', 'hibur']",184,kurang_populer
+1681,"['membludak', 'pasien', 'covid', 'isoter', 'ijen', 'geser', 'skb']",161,kurang_populer
+1682,"['kalah', 'madura', 'united', 'arema', 'fc', 'aman', 'puncak', 'klasemen']",320,kurang_populer
+1683,"['stop', 'bullying', 'fokus', 'usul', 'musrenbang', 'tematik', 'anak']",228,kurang_populer
+1684,"['fokus', 'digital', 'investor', 'millenial', 'wealth', 'management', 'bri', 'tingkat']",259,kurang_populer
+1685,"['lombok', 'rekomendasi', 'hotel', 'cantik', 'lombok']",237,kurang_populer
+1686,"['sertifikat', 'tanah', 'gratis', 'orang']",151,kurang_populer
+1687,"['antisipasi', 'rs', 'lapang', 'ijen', 'penuh', 'rumah', 'isoter', 'skb', 'operasi']",305,kurang_populer
+1688,"['laga', 'arema', 'fc', 'versus', 'madura', 'united', 'maju']",235,kurang_populer
+1689,"['pulih', 'ekonomi', 'global', 'lanjut', 'presidensi', 'indonesia']",340,kurang_populer
+1690,"['perdana', 'ratus', 'mitra', 'driver', 'malang', 'kursus', 'gratis', 'gopay']",295,kurang_populer
+1691,"['eduardo', 'almeida', 'harga', 'latih', 'baik']",324,kurang_populer
+1692,"['demo', 'protes', 'warna', 'sidang', 'perdana', 'leceh', 'seksual', 'sekolah', 'spi']",214,kurang_populer
+1693,"['drainase', 'kota', 'kepanjen', 'masalah']",277,kurang_populer
+1694,"['rampok', 'daihatsu', 'sigra', 'alumni', 'lapas', 'lowokwaru']",335,kurang_populer
+1695,"['harga', 'kedelai', 'siapsiap', 'tempe', 'malang', 'langka', 'pasar']",304,kurang_populer
+1696,"['tumbuh', 'ri', 'masuk', 'negara', 'dapat', 'tengah']",194,kurang_populer
+1697,"['waspada', 'lur', 'januari', 'jenazah', 'covid', 'makam']",151,kurang_populer
+1698,"['andal', 'konsumen', 'musim', 'hujan', 'gojek', 'bekal', 'mitra', 'jas', 'hujan']",316,kurang_populer
+1699,"['pfi', 'malang', 'gelar', 'talk', 'show', 'bedah', 'buku', 'foto', 'trisnadi', 'marjan']",304,kurang_populer
+1700,"['musim', 'arema', 'fc', 'momentum', 'juara']",279,kurang_populer
+1701,"['rekor', 'balekambang', 'kunjung', 'ribu', 'wisatawan', 'hari']",257,kurang_populer
+1702,"['unggul', 'sita', 'arema', 'fc', 'aman', 'puncak', 'klasemen', 'liga']",251,kurang_populer
+1703,"['pertamina', 'grand', 'prix', 'of', 'indonesia', 'energi', 'berani', 'lesat']",231,kurang_populer
+1704,"['final', 'duta', 'hijab', 'radar', 'malang', 'pilih', 'mayoritas', 'kenyang', 'alam']",243,kurang_populer
+1705,"['komposisi', 'casa', 'tembus', 'biaya', 'dana', 'bri', 'efisien']",237,kurang_populer
+1706,"['nikmat', 'internetan', 'bebas', 'worry', 'smartfren', 'unlimited', 'nonstop']",198,kurang_populer
+1707,"['buybackjadi', 'cermin', 'optimisme', 'saham', 'bbri', 'proyeksi', 'sentuh', 'level', 'ribu']",152,kurang_populer
+1708,"['lawan', 'sita', 'arema', 'fc', 'unbeaten']",197,kurang_populer
+1709,"['ragam', 'jurus', 'kendali', 'omicorn', 'panjang', 'ppkm', 'vaksinasi', 'prokes']",312,kurang_populer
+1710,"['rehab', 'pasar', 'bululawang', 'rp', 'juta', 'meter', 'persegi']",206,kurang_populer
+1711,"['talenta', 'wirausaha', 'bsi', 'darat', 'malang', 'ajak', 'wirausaha', 'muda', 'kelas']",299,kurang_populer
+1712,"['komitmen', 'perintah', 'lindung', 'kerja', 'jkp', 'jht']",299,kurang_populer
+1713,"['layan', 'jiwa', 'pulang']",152,kurang_populer
+1714,"['aman', 'tahta', 'liga', 'arema', 'fc', 'minimal', 'butuh', 'poin']",155,kurang_populer
+1715,"['xenia', 'sruduk', 'motor', 'warung', 'kios', 'bruak', 'tewas', 'pasutri', 'pakisaji']",158,kurang_populer
+1716,"['persen', 'covid', 'identifikasi', 'omicron']",295,kurang_populer
+1717,"['viral', 'banjir', 'eks', 'tpa', 'lowokdoro', 'dewan', 'bukti', 'pemkot', 'perhati']",331,kurang_populer
+1718,"['atlet', 'sepatu', 'roda', 'kabupaten', 'malang', 'target', 'medali', 'emas', 'porprov']",248,kurang_populer
+1719,"['tinjau', 'produksi', 'kri', 'teluk', 'palu', 'airlangga', 'komitmen', 'dukung', 'industri', 'kapal']",334,kurang_populer
+1720,"['daya', 'sahabat', 'bisnis', 'buahbuahan', 'tilep', 'rp', 'miliar']",189,kurang_populer
+1721,"['bri', 'pacu', 'transformasi', 'digital', 'luas', 'jangkau', 'nasabah']",284,kurang_populer
+1722,"['semangat', 'ajar', 'siswa', 'luring', 'daring', 'rendah']",321,kurang_populer
+1723,"['alfarizi', 'dominasi', 'catat', 'minutes', 'play', 'arema', 'fc']",289,kurang_populer
+1724,"['mazhab', 'jurnalisme']",320,kurang_populer
+1725,"['pasok', 'via', 'ekspedisi', 'arak', 'bal', 'pesan', 'warga', 'dampit', 'digrebek', 'bea', 'cukai']",227,kurang_populer
+1726,"['antisipasi', 'klaster', 'kampus', 'senin', 'ub', 'kuliah', 'daring']",255,kurang_populer
+1727,"['jelang', 'tampil', 'turki', 'arema', 'fc', 'women', 'banyak', 'referensi', 'calon', 'lawan']",273,kurang_populer
+1728,"['duet', 'erickkhofifah', 'rawan', 'berkah', 'prestasi', 'inovatif']",167,kurang_populer
+1729,"['sidak', 'mal', 'kabaharkam', 'anggap', 'prokes', 'jalan']",172,kurang_populer
+1730,"['pulih', 'global', 'kuat', 'tingkat', 'kolaborasi', 'world', 'bank']",176,kurang_populer
+1731,"['siswa', 'sma', 'dempo', 'positif', 'covid']",219,kurang_populer
+1732,"['reuni', 'kecilkecilan', 'fabiano', 'penggawa', 'persiraja']",294,kurang_populer
+1733,"['produksi', 'minum', 'tangkal', 'covid']",185,kurang_populer
+1734,"['tujuh', 'sma', 'kota', 'malang', 'sumbang', 'aktif', 'covid']",233,kurang_populer
+1735,"['nakes', 'kontrak', 'kota', 'malang', 'jalan', 'tempat']",200,kurang_populer
+1736,"['akselerasi', 'pulih', 'pariwisata', 'ekonomi', 'kreatif', 'sinergi', 'lintas', 'sektor']",228,kurang_populer
+1737,"['benefit', 'dapat', 'simhae', 'korean', 'bbq', 'all', 'you', 'can', 'eat']",317,kurang_populer
+1738,"['temu', 'fragmen', 'bentuk', 'kepala', 'lawang']",304,kurang_populer
+1739,"['ijti', 'pengda', 'jatim', 'kejar', 'aktual', 'lupa', 'filter']",169,kurang_populer
+1740,"['aji', 'malang', 'wajib', 'disiplin', 'verifikasi', 'patuh', 'kode', 'etik']",332,kurang_populer
+1741,"['hpn', 'airlangga', 'pers', 'bantu', 'selamat', 'negeri', 'hoaks', 'pandemi']",200,kurang_populer
+1742,"['pfi', 'malang', 'media', 'mainstream', 'pegang', 'fungsi', 'checker']",164,kurang_populer
+1743,"['pwi', 'malang', 'raya', 'informasi', 'percaya', 'media', 'mainstream']",266,kurang_populer
+1744,"['gubes', 'uin', 'maliki', 'bahas', 'etika', 'teknologi', 'cipta', 'sdm', 'unggul']",241,kurang_populer
+1745,"['usaha', 'uu', 'ciptaker', 'jamin', 'pasti', 'iklim', 'usaha', 'reformasi', 'struktural']",305,kurang_populer
+1746,"['bri', 'himbau', 'masyarakat', 'waspada', 'investasi', 'ilegal']",184,kurang_populer
+1747,"['kemendag', 'dukung', 'presidensi', 'katalis', 'pulih', 'ekonomi', 'global']",219,kurang_populer
+1748,"['perintah', 'dorong', 'bijak', 'turun', 'miskin', 'ekstrem', 'wilayah']",206,kurang_populer
+1749,"['malang', 'landa', 'kali', 'bencana', 'alam']",313,kurang_populer
+1750,"['persada', 'launching', 'klinik', 'fertilitas', 'solusi', 'pasutri', 'buah', 'hati']",191,kurang_populer
+1751,"['uin', 'maliki', 'malang', 'rujuk', 'kampus', 'islam']",296,kurang_populer
+1752,"['pekan', 'jembatan', 'tlogomas', 'saxopohone', 'buka']",163,kurang_populer
+1753,"['kunjung', 'wisatawan', 'mentok', 'persen']",320,kurang_populer
+1754,"['duet', 'kh', 'chamzawi', 'kh', 'isroqunnajah', 'pimpin', 'nu', 'kota', 'malang']",153,kurang_populer
+1755,"['nasib', 'pegawai', 'honorer']",236,kurang_populer
+1756,"['habis', 'duel', 'terbit', 'romantisme', 'tim', 'persija', 'arema', 'fc']",211,kurang_populer
+1757,"['sertifikasi', 'aset', 'kota', 'batu', 'sisa', 'bidang']",224,kurang_populer
+1758,"['pemkab', 'malang', 'target', 'sertifikasi', 'aset', 'tuntas']",219,kurang_populer
+1759,"['aset', 'daerah', 'sertifikasi', 'pemkot', 'pemkab', 'malang']",334,kurang_populer
+1760,"['covid', 'kabupaten', 'malang', 'tinggi', 'empat', 'sejatim']",233,kurang_populer
+1761,"['catat', 'tanggal', 'universitas', 'widyagama', 'gelar', 'vaksinasi', 'booster', 'massal']",312,kurang_populer
+1762,"['cerita', 'rizky', 'dwi', 'febrianto', 'cepat', 'sembuh', 'cedera']",285,kurang_populer
+1763,"['mirama', 'fashion', 'runway', 'tanda', 'luncur', 'coffee', 'cafe', 'grand', 'mercure', 'malang']",289,kurang_populer
+1764,"['mendag', 'tegas', 'subsidi', 'minyak', 'goreng', 'curah', 'sasar', 'pasar']",165,kurang_populer
+1765,"['wujud', 'smart', 'citytp', 'pkk', 'pemkot', 'malang', 'launching', 'sam', 'gepun', 'basa']",251,kurang_populer
+1766,"['britama', 'fstvl', 'hadir', 'agam', 'hadiah', 'kendara', 'listrik', 'asli', 'indonesia']",181,kurang_populer
+1767,"['mentas', 'sosok', 'panji', 'suroso', 'tanda', 'bangkit', 'seni', 'taman', 'krida', 'budaya']",325,kurang_populer
+1768,"['edar', 'sabusabupedagang', 'buah', 'pasar', 'balen', 'ancam', 'penjara']",336,kurang_populer
+1769,"['indonesia', 'singapura', 'erat', 'kerja', 'pariwisata', 'transisi', 'energi']",329,kurang_populer
+1770,"['wali', 'kota', 'malang', 'resmi', 'rumah', 'restorative', 'justice', 'orooro', 'dowo']",255,kurang_populer
+1771,"['tema', 'logo', 'resmi', 'hut', 'kota', 'malang', 'resmi', 'dilaunching']",155,kurang_populer
+1772,"['pt', 'goto', 'gojek', 'tokopedia', 'tbk', 'umum', 'ipo', 'harga', 'saham', 'rp']",185,kurang_populer
+1773,"['tuai', 'hasil', 'transformasi', 'digital', 'nilai', 'transaksi', 'bri', 'tumbuh']",282,kurang_populer
+1774,"['bal', 'united', 'vs', 'arema', 'fc', 'laga', 'krusial', 'buru', 'juara', 'liga']",253,kurang_populer
+1775,"['gercep', 'bpjamsostek', 'santun', 'tanggung', 'awat', 'korban', 'pltp', 'dieng']",291,kurang_populer
+1776,"['digrojok', 'rp', 'jalan', 'area', 'gor', 'muluslus']",223,kurang_populer
+1777,"['mendag', 'pantau', 'langsung', 'produksi', 'migor', 'distribusi', 'masyarakat']",241,kurang_populer
+1778,"['perintah', 'ambil', 'selesai', 'air', 'asia', 'aiww']",248,kurang_populer
+1779,"['kirim', 'uang', 'antarnegara', 'tukar', 'valas', 'beli', 'tiket', 'praktis', 'pakai', 'brimo']",177,kurang_populer
+1780,"['ngebut', 'kota', 'mobil', 'ajar', 'tabrak', 'kendara', 'loncat', 'median']",317,kurang_populer
+1781,"['warga', 'sungai', 'kutuk', 'bebas', 'limbah', 'rumah', 'tangga']",199,kurang_populer
+1782,"['kota', 'batu', 'stok', 'vaksin', 'booster', 'habis', 'februari']",325,kurang_populer
+1783,"['dandim', 'forpimda', 'damping', 'menko', 'pmk', 'tinjau', 'lokasi', 'ungsi', 'relokasi']",267,kurang_populer
+1784,"['bootcamp', 'planet', 'umkm', 'ajang', 'efektif', 'hilir', 'produk', 'kampus', 'masyarakat']",233,kurang_populer
+1785,"['sopir', 'truk', 'demo', 'tahan', 'revisi', 'odol']",189,kurang_populer
+1786,"['doa', 'umkm', 'indonesia', 'bangkit', 'pandemi', 'airlangga', 'doa', 'ulama', 'sulsel']",262,kurang_populer
+1787,"['perkara', 'sidang', 'notariskorban', 'tipu', 'kondotel', 'bluebells', 'pilih', 'damai']",319,kurang_populer
+1788,"['wasapada', 'angka', 'celaka', 'jalan', 'raya']",189,kurang_populer
+1789,"['airlangga', 'kunci', 'golkar', 'menang', 'mutlak', 'indonesia', 'timur', 'sulsel']",282,kurang_populer
+1790,"['kota', 'malang', 'darurat', 'regulasi', 'center', 'of', 'halal', 'tourism']",285,kurang_populer
+1791,"['perempuan', 'internasional', 'gojek', 'komitmen', 'cipta', 'ruang', 'publik', 'aman']",160,kurang_populer
+1792,"['holding', 'ultra', 'mikro', 'bentuk', 'brigade', 'madani', 'sebar', 'daya', 'tumbuh']",162,kurang_populer
+1793,"['realistis', 'arema', 'fc', 'alih', 'bidik', 'kompetisi', 'asia']",292,kurang_populer
+1794,"['presiden', 'arema', 'fc', 'baik', 'performa', 'musim']",185,kurang_populer
+1795,"['atas', 'macet', 'pemkot', 'serius', 'lebar', 'jalan', 'tunggulwulung']",234,kurang_populer
+1796,"['anggar', 'awat', 'jalan', 'habis']",314,kurang_populer
+1797,"['musik', 'nasional', 'wawali', 'kaji', 'gagas', 'wajib', 'ajar', 'kunjung', 'museum']",186,kurang_populer
+1798,"['sidang', 'leceh', 'seksual', 'sekolah', 'spi', 'hakim', 'tolak', 'acara', 'saksi', 'korban']",286,kurang_populer
+1799,"['hasil', 'survey', 'golkar', 'kuasa', 'sumatera', 'jawa', 'airlangga', 'capres', 'atas']",285,kurang_populer
+1800,"['waspada', 'edar', 'ganja', 'sasar', 'usia', 'edar', 'kakap', 'bekuk']",174,kurang_populer
+1801,"['kota', 'batu', 'nihil', 'jalan', 'kota', 'tinggal']",342,kurang_populer
+1802,"['jalan', 'biang', 'macet', 'kota', 'status', 'tinggal']",339,kurang_populer
+1803,"['duel', 'arema', 'fc', 'kontra', 'persib', 'warna', 'absen', 'main', 'kunci']",259,kurang_populer
+1804,"['waspada', 'ribu', 'warga', 'lansia', 'komorbid']",181,kurang_populer
+1805,"['tebing', 'tol', 'pandaanmalang', 'ambrol', 'jalur', 'tutup', 'pagi', 'normal']",278,kurang_populer
+1806,"['obat', 'kecewa', 'batal', 'ptmsekolah', 'gelar', 'sosialisasi', 'wali', 'murid']",151,kurang_populer
+1807,"['kecewa', 'layan', 'kantor', 'pdam', 'pakis']",264,kurang_populer
+1808,"['airlangga', 'hai', 'pemuda', 'muhammaddiyah', 'kur', 'umkm', 'ayo', 'berwirausaha']",338,kurang_populer
+1809,"['muncul', 'metaverse', 'bri', 'layan', 'perban', 'unik']",225,kurang_populer
+1810,"['good', 'news', 'arah', 'jokowi', 'karantina', 'jemaah', 'umrah', 'ppln', 'hari']",184,kurang_populer
+1811,"['catat', 'naik', 'harga', 'bahan', 'pangan', 'prediksi', 'april']",218,kurang_populer
+1812,"['pekan', 'dibukarambu', 'jembatan', 'tunggulmas', 'hilang', 'pkl', 'liar', 'muncul']",270,kurang_populer
+1813,"['korban', 'tabrak', 'lari', 'guru', 'madin', 'tewas']",239,kurang_populer
+1814,"['konsumsi', 'listrik', 'warga', 'malang', 'tingkat', 'tanda', 'ekonomi', 'geliat']",340,kurang_populer
+1815,"['antusiasme', 'cinta', 'sepak', 'bola', 'dorong', 'bangkit', 'umkm', 'bal']",247,kurang_populer
+1816,"['aplikasi', 'familiar', 'layan', 'darurat', 'psc', 'nganggurnya']",168,kurang_populer
+1817,"['tampung', 'total', 'kendara', 'konsep', 'kelola', 'parkir', 'mcc', 'tunggu', 'kaji']",338,kurang_populer
+1818,"['wisata', 'boon', 'pring', 'kenal', 'konsep', 'hajat', 'tematik', 'nuansa', 'ekowisata']",333,kurang_populer
+1819,"['buru', 'wisata', 'kota', 'batu', 'homestay', 'obral', 'diskon', 'baru', 'menu', 'kuliner']",300,kurang_populer
+1820,"['langgan', 'arena', 'balap', 'liar', 'jalan', 'soehat', 'pasang', 'speed', 'trap']",338,kurang_populer
+1821,"['pekan', 'sergio', 'silva', 'tambah', 'motivasi']",220,kurang_populer
+1822,"['kuat', 'branding', 'wisata', 'budaya', 'disparta', 'gelar', 'tunjuk', 'wayang']",323,kurang_populer
+1823,"['tip', 'lahan', 'tani', 'kota', 'malang', 'petan', 'sisa', 'persen']",189,kurang_populer
+1824,"['kuat', 'sanitasi', 'tujuh', 'lurah', 'kota', 'malang', 'suntik', 'dana', 'pusat']",280,kurang_populer
+1825,"['bisnis', 'wealth', 'management', 'bri', 'tumbuh', 'positif', 'januari']",324,kurang_populer
+1826,"['kota', 'batu', 'sebar', 'omicron', 'varian', 'delta']",300,kurang_populer
+1827,"['sebar', 'kabupaten', 'capai', 'angka', 'mati', 'rendah']",224,kurang_populer
+1828,"['tryout', 'sbmptn', 'jawa', 'pos', 'radar', 'malang', 'primagama', 'ikut', 'ribu', 'ajar']",207,kurang_populer
+1829,"['hormat', 'nyepi', 'arema', 'fc', 'pilih', 'libur', 'hari']",340,kurang_populer
+1830,"['jalan', 'lubang', 'makan', 'korban']",302,kurang_populer
+1831,"['rp', 'miliar', 'renovasi', 'wisata', 'mandi', 'songgoriti']",271,kurang_populer
+1832,"['sekolah', 'ptm', 'ketua', 'mkks', 'smp', 'tegas']",271,kurang_populer
+1833,"['airlangga', 'moga', 'kelola', 'sumber', 'daya', 'air', 'nasional', 'rasa', 'warga']",175,kurang_populer
+1834,"['latih', 'arema', 'fc', 'bicara', 'juara']",217,kurang_populer
+1835,"['manajemen', 'arema', 'fc', 'wait', 'and', 'see', 'sanksi', 'bagas', 'adi', 'nugroho']",197,kurang_populer
+1836,"['orientasi', 'ramah', 'lingkung', 'kredit', 'bri', 'sektor', 'renewable', 'energy', 'tumbuh']",213,kurang_populer
+1837,"['wisata', 'bromo', 'tutup']",249,kurang_populer
+1838,"['geger', 'kabar', 'santri', 'lolos', 'culi']",336,kurang_populer
+1839,"['jaga', 'momentum', 'tingkat', 'ekspor', 'kemendag', 'pacu', 'produk', 'daya', 'saing']",209,kurang_populer
+1840,"['kota', 'batu', 'daftar', 'haji', 'turun', 'drastis']",151,kurang_populer
+1841,"['jadwal', 'berangkat', 'buram', 'animo', 'daftar', 'haji']",262,kurang_populer
+1842,"['gaji', 'guru', 'honorer', 'nekat', 'cari', 'tambah', 'tebang', 'tebu', 'ilegal']",214,kurang_populer
+1843,"['jurus', 'hanif', 'sjahbandi', 'tahan', 'bugar', 'bri', 'liga']",159,kurang_populer
+1844,"['airlangga', 'konflik', 'komitmen', 'eropa', 'kuat', 'sinergi', 'apresiasi']",179,kurang_populer
+1845,"['habis', 'migordaging', 'harga', 'cabai']",345,kurang_populer
+1846,"['gelar', 'rupst', 'bri', 'bagi', 'dividen', 'rp', 'triliun']",230,kurang_populer
+1847,"['libur', 'stasiun', 'kota', 'malang', 'terminal', 'arjosari', 'sepi']",181,kurang_populer
+1848,"['gandeng', 'prokids', 'club', 'indonesiakodim', 'gelar', 'vaksinasi', 'ribu', 'dosis', 'booster']",180,kurang_populer
+1849,"['jaga', 'fokus', 'arema', 'fc', 'batal', 'rencana', 'libur', 'latih']",243,kurang_populer
+1850,"['pemkab', 'malang', 'canang', 'bangun', 'puskesmas', 'modern']",158,kurang_populer
+1851,"['bupati', 'sanusi', 'beber', 'pesan', 'presiden', 'jokowi']",267,kurang_populer
+1852,"['duh', 'tuntas', 'migor', 'harga', 'daging', 'cabai', 'ikut', 'rangkak']",289,kurang_populer
+1853,"['arema', 'fc', 'potensi', 'turun', 'peringkat']",183,kurang_populer
+1854,"['jual', 'ori', 'capai', 'rp', 'triliun', 'bri', 'sukses', 'rangkul', 'ribu', 'investor']",170,kurang_populer
+1855,"['jaga', 'aman', 'bumi', 'arema', 'polisi', 'gandeng', 'ulama']",209,kurang_populer
+1856,"['ppkm', 'level', 'terap', 'tahu', 'langgar', 'prokes', 'langsung', 'bap']",254,kurang_populer
+1857,"['arkeolog', 'telusur', 'jejak', 'situs', 'srigading']",201,kurang_populer
+1858,"['hadap', 'ledak', 'anggur', 'pemkab', 'malang', 'bantu', 'cari', 'prakerja']",160,kurang_populer
+1859,"['pandemi', 'malang', 'raya', 'anggur', 'pemda', 'laku']",268,kurang_populer
+1860,"['kunjung', 'banda', 'aceh', 'mendag', 'pantau', 'kembang', 'harga', 'minyak', 'goreng']",267,kurang_populer
+1861,"['rakor', 'migor', 'sumut', 'mendag', 'lutfi', 'laku', 'timbun', 'tindak']",186,kurang_populer
+1862,"['cangkrukan', 'teras', 'rumah', 'tewas', 'disruduk', 'pikap']",274,kurang_populer
+1863,"['tanggap', 'bencana', 'gempa', 'pasaman', 'barat', 'posko', 'bri', 'peduli', 'bantu', 'warga', 'dampak']",226,kurang_populer
+1864,"['ratus', 'produsen', 'tempe', 'kabupaten', 'malang', 'mogok', 'produksi']",251,kurang_populer
+1865,"['segar', 'dprd', 'kota', 'malang', 'rombak', 'susun', 'alat', 'lengkap', 'dewan']",346,kurang_populer
+1866,"['persen', 'kerja', 'usia', 'produktif', 'getol', 'cair', 'jht', 'alas']",293,kurang_populer
+1867,"['cedera', 'yudo', 'paksa', 'musim', 'cepat']",165,kurang_populer
+1868,"['jaga', 'pola', 'makan', 'istirahat', 'jurus', 'jayus', 'hariono', 'fit']",193,kurang_populer
+1869,"['pantau', 'migor', 'sumbar', 'mendag', 'distribusi', 'lancar', 'pasok', 'cukup']",275,kurang_populer
+1870,"['perintah', 'pasti', 'penuh', 'bahan', 'pangan', 'operasi', 'pasar', 'pasar', 'murah']",288,kurang_populer
+1871,"['airlangga', 'terima', 'aspirasi', 'panjang', 'jabat', 'jokowi', 'tani', 'sawit']",214,kurang_populer
+1872,"['persib', 'panas', 'papan', 'eduardo']",206,kurang_populer
+1873,"['polres', 'malang', 'pimpin', 'ajudan', 'kapolri']",247,kurang_populer
+1874,"['paksa', 'absen', 'fortes', 'percaya', 'arema', 'fc', 'garang']",349,kurang_populer
+1875,"['hadap', 'baya', 'arema', 'fc', 'perhati', 'khusus', 'sektor', 'sayap']",162,kurang_populer
+1876,"['erick', 'thohir', 'daya', 'umkm', 'bri', 'lokomotif', 'ekonomi', 'prorakyat']",213,kurang_populer
+1877,"['covid', 'kabupaten', 'malang', 'landai', 'kunci']",189,kurang_populer
+1878,"['arema', 'fc', 'pilih', 'enjoy', 'geber', 'siap', 'hadap', 'baya']",157,kurang_populer
+1879,"['lawan', 'baya', 'tangguh', 'lini', 'arema', 'fc', 'uji']",277,kurang_populer
+1880,"['kendali', 'aktif', 'covid', 'akselerasi', 'vaksinasi', 'disiplin', 'prokes']",347,kurang_populer
+1881,"['singo', 'edan', 'menang', 'lawan', 'bajul', 'ijo', 'mustahil']",247,kurang_populer
+1882,"['uang', 'masjid', 'raib', 'gondol', 'maling']",227,kurang_populer
+1883,"['duta', 'hijab', 'latih', 'jalan', 'catwalk', 'cantik']",306,kurang_populer
+1884,"['proyeksi', 'tumbuh', 'jangka', 'buyback', 'bbri', 'sentimen', 'positif']",203,kurang_populer
+1885,"['edukasi', 'mahasiswa', 'umm', 'sabet', 'medali', 'nasional', 'poster', 'cegah', 'covid']",345,kurang_populer
+1886,"['hotel', 'hantam', 'gelombang', 'pandemi', 'jilid', 'okupansi', 'langsung', 'terjun', 'bebas']",280,kurang_populer
+1887,"['investasi', 'jaring', 'xl', 'axiata', 'tingkat', 'customer', 'experience', 'digitalisasi']",181,kurang_populer
+1888,"['telan', 'rp', 'film', 'tema', 'pandemi', 'karya', 'malvocs', 'sukses', 'angkat', 'citra', 'smk']",292,kurang_populer
+1889,"['wuss', 'malam', 'rumah', 'timpa', 'pohon', 'akibat', 'angin', 'puyuh']",203,kurang_populer
+1890,"['cidera', 'video', 'warna', 'afida', 'putri', 'pariwisata', 'nusantara']",345,kurang_populer
+1891,"['customer', 'moladin', 'resmi', 'kantor', 'area', 'jatim', 'malang']",177,kurang_populer
+1892,"['potensi', 'airlangga', 'bupati', 'gresik', 'bupati', 'tembaga']",153,kurang_populer
+1893,"['kamis', 'smpn', 'resmi', 'siswa', 'daring']",187,kurang_populer
+1894,"['pria', 'spesialis', 'copet', 'hibur']",286,kurang_populer
+1895,"['membludak', 'pasien', 'covid', 'isoter', 'ijen', 'geser', 'skb']",284,kurang_populer
+1896,"['kalah', 'madura', 'united', 'arema', 'fc', 'aman', 'puncak', 'klasemen']",208,kurang_populer
+1897,"['stop', 'bullying', 'fokus', 'usul', 'musrenbang', 'tematik', 'anak']",158,kurang_populer
+1898,"['fokus', 'digital', 'investor', 'millenial', 'wealth', 'management', 'bri', 'tingkat']",171,kurang_populer
+1899,"['lombok', 'rekomendasi', 'hotel', 'cantik', 'lombok']",185,kurang_populer
+1900,"['sertifikat', 'tanah', 'gratis', 'orang']",188,kurang_populer
+1901,"['antisipasi', 'rs', 'lapang', 'ijen', 'penuh', 'rumah', 'isoter', 'skb', 'operasi']",347,kurang_populer
+1902,"['laga', 'arema', 'fc', 'versus', 'madura', 'united', 'maju']",238,kurang_populer
+1903,"['pulih', 'ekonomi', 'global', 'lanjut', 'presidensi', 'indonesia']",289,kurang_populer
+1904,"['perdana', 'ratus', 'mitra', 'driver', 'malang', 'kursus', 'gratis', 'gopay']",155,kurang_populer
+1905,"['eduardo', 'almeida', 'harga', 'latih', 'baik']",172,kurang_populer
+1906,"['demo', 'protes', 'warna', 'sidang', 'perdana', 'leceh', 'seksual', 'sekolah', 'spi']",294,kurang_populer
+1907,"['drainase', 'kota', 'kepanjen', 'masalah']",324,kurang_populer
+1908,"['rampok', 'daihatsu', 'sigra', 'alumni', 'lapas', 'lowokwaru']",168,kurang_populer
+1909,"['harga', 'kedelai', 'siapsiap', 'tempe', 'malang', 'langka', 'pasar']",280,kurang_populer
+1910,"['tumbuh', 'ri', 'masuk', 'negara', 'dapat', 'tengah']",157,kurang_populer
+1911,"['waspada', 'lur', 'januari', 'jenazah', 'covid', 'makam']",345,kurang_populer
+1912,"['andal', 'konsumen', 'musim', 'hujan', 'gojek', 'bekal', 'mitra', 'jas', 'hujan']",251,kurang_populer
+1913,"['pfi', 'malang', 'gelar', 'talk', 'show', 'bedah', 'buku', 'foto', 'trisnadi', 'marjan']",287,kurang_populer
+1914,"['musim', 'arema', 'fc', 'momentum', 'juara']",261,kurang_populer
+1915,"['rekor', 'balekambang', 'kunjung', 'ribu', 'wisatawan', 'hari']",232,kurang_populer
+1916,"['unggul', 'sita', 'arema', 'fc', 'aman', 'puncak', 'klasemen', 'liga']",305,kurang_populer
+1917,"['pertamina', 'grand', 'prix', 'of', 'indonesia', 'energi', 'berani', 'lesat']",237,kurang_populer
+1918,"['final', 'duta', 'hijab', 'radar', 'malang', 'pilih', 'mayoritas', 'kenyang', 'alam']",262,kurang_populer
+1919,"['komposisi', 'casa', 'tembus', 'biaya', 'dana', 'bri', 'efisien']",161,kurang_populer
+1920,"['nikmat', 'internetan', 'bebas', 'worry', 'smartfren', 'unlimited', 'nonstop']",348,kurang_populer
+1921,"['buybackjadi', 'cermin', 'optimisme', 'saham', 'bbri', 'proyeksi', 'sentuh', 'level', 'ribu']",262,kurang_populer
+1922,"['lawan', 'sita', 'arema', 'fc', 'unbeaten']",326,kurang_populer
+1923,"['ragam', 'jurus', 'kendali', 'omicorn', 'panjang', 'ppkm', 'vaksinasi', 'prokes']",323,kurang_populer
+1924,"['rehab', 'pasar', 'bululawang', 'rp', 'juta', 'meter', 'persegi']",243,kurang_populer
+1925,"['talenta', 'wirausaha', 'bsi', 'darat', 'malang', 'ajak', 'wirausaha', 'muda', 'kelas']",285,kurang_populer
+1926,"['komitmen', 'perintah', 'lindung', 'kerja', 'jkp', 'jht']",308,kurang_populer
+1927,"['layan', 'jiwa', 'pulang']",200,kurang_populer
+1928,"['aman', 'tahta', 'liga', 'arema', 'fc', 'minimal', 'butuh', 'poin']",233,kurang_populer
+1929,"['xenia', 'sruduk', 'motor', 'warung', 'kios', 'bruak', 'tewas', 'pasutri', 'pakisaji']",345,kurang_populer
+1930,"['persen', 'covid', 'identifikasi', 'omicron']",224,kurang_populer
+1931,"['viral', 'banjir', 'eks', 'tpa', 'lowokdoro', 'dewan', 'bukti', 'pemkot', 'perhati']",323,kurang_populer
+1932,"['atlet', 'sepatu', 'roda', 'kabupaten', 'malang', 'target', 'medali', 'emas', 'porprov']",154,kurang_populer
+1933,"['tinjau', 'produksi', 'kri', 'teluk', 'palu', 'airlangga', 'komitmen', 'dukung', 'industri', 'kapal']",286,kurang_populer
+1934,"['daya', 'sahabat', 'bisnis', 'buahbuahan', 'tilep', 'rp', 'miliar']",173,kurang_populer
+1935,"['bri', 'pacu', 'transformasi', 'digital', 'luas', 'jangkau', 'nasabah']",313,kurang_populer
+1936,"['semangat', 'ajar', 'siswa', 'luring', 'daring', 'rendah']",299,kurang_populer
+1937,"['alfarizi', 'dominasi', 'catat', 'minutes', 'play', 'arema', 'fc']",151,kurang_populer
+1938,"['mazhab', 'jurnalisme']",290,kurang_populer
+1939,"['pasok', 'via', 'ekspedisi', 'arak', 'bal', 'pesan', 'warga', 'dampit', 'digrebek', 'bea', 'cukai']",208,kurang_populer
+1940,"['antisipasi', 'klaster', 'kampus', 'senin', 'ub', 'kuliah', 'daring']",339,kurang_populer
+1941,"['jelang', 'tampil', 'turki', 'arema', 'fc', 'women', 'banyak', 'referensi', 'calon', 'lawan']",307,kurang_populer
+1942,"['duet', 'erickkhofifah', 'rawan', 'berkah', 'prestasi', 'inovatif']",174,kurang_populer
+1943,"['sidak', 'mal', 'kabaharkam', 'anggap', 'prokes', 'jalan']",348,kurang_populer
+1944,"['pulih', 'global', 'kuat', 'tingkat', 'kolaborasi', 'world', 'bank']",275,kurang_populer
+1945,"['siswa', 'sma', 'dempo', 'positif', 'covid']",280,kurang_populer
+1946,"['reuni', 'kecilkecilan', 'fabiano', 'penggawa', 'persiraja']",164,kurang_populer
+1947,"['produksi', 'minum', 'tangkal', 'covid']",207,kurang_populer
+1948,"['tujuh', 'sma', 'kota', 'malang', 'sumbang', 'aktif', 'covid']",192,kurang_populer
+1949,"['nakes', 'kontrak', 'kota', 'malang', 'jalan', 'tempat']",262,kurang_populer
+1950,"['akselerasi', 'pulih', 'pariwisata', 'ekonomi', 'kreatif', 'sinergi', 'lintas', 'sektor']",149,kurang_populer
+1951,"['benefit', 'dapat', 'simhae', 'korean', 'bbq', 'all', 'you', 'can', 'eat']",228,kurang_populer
+1952,"['temu', 'fragmen', 'bentuk', 'kepala', 'lawang']",216,kurang_populer
+1953,"['ijti', 'pengda', 'jatim', 'kejar', 'aktual', 'lupa', 'filter']",288,kurang_populer
+1954,"['aji', 'malang', 'wajib', 'disiplin', 'verifikasi', 'patuh', 'kode', 'etik']",251,kurang_populer
+1955,"['hpn', 'airlangga', 'pers', 'bantu', 'selamat', 'negeri', 'hoaks', 'pandemi']",185,kurang_populer
+1956,"['pfi', 'malang', 'media', 'mainstream', 'pegang', 'fungsi', 'checker']",327,kurang_populer
+1957,"['pwi', 'malang', 'raya', 'informasi', 'percaya', 'media', 'mainstream']",183,kurang_populer
+1958,"['gubes', 'uin', 'maliki', 'bahas', 'etika', 'teknologi', 'cipta', 'sdm', 'unggul']",165,kurang_populer
+1959,"['usaha', 'uu', 'ciptaker', 'jamin', 'pasti', 'iklim', 'usaha', 'reformasi', 'struktural']",297,kurang_populer
+1960,"['bri', 'himbau', 'masyarakat', 'waspada', 'investasi', 'ilegal']",234,kurang_populer
+1961,"['kemendag', 'dukung', 'presidensi', 'katalis', 'pulih', 'ekonomi', 'global']",298,kurang_populer
+1962,"['perintah', 'dorong', 'bijak', 'turun', 'miskin', 'ekstrem', 'wilayah']",192,kurang_populer
+1963,"['malang', 'landa', 'kali', 'bencana', 'alam']",208,kurang_populer
+1964,"['persada', 'launching', 'klinik', 'fertilitas', 'solusi', 'pasutri', 'buah', 'hati']",205,kurang_populer
+1965,"['uin', 'maliki', 'malang', 'rujuk', 'kampus', 'islam']",206,kurang_populer
+1966,"['pekan', 'jembatan', 'tlogomas', 'saxopohone', 'buka']",235,kurang_populer
+1967,"['kunjung', 'wisatawan', 'mentok', 'persen']",206,kurang_populer
+1968,"['duet', 'kh', 'chamzawi', 'kh', 'isroqunnajah', 'pimpin', 'nu', 'kota', 'malang']",344,kurang_populer
+1969,"['nasib', 'pegawai', 'honorer']",338,kurang_populer
+1970,"['habis', 'duel', 'terbit', 'romantisme', 'tim', 'persija', 'arema', 'fc']",347,kurang_populer
+1971,"['sertifikasi', 'aset', 'kota', 'batu', 'sisa', 'bidang']",241,kurang_populer
+1972,"['pemkab', 'malang', 'target', 'sertifikasi', 'aset', 'tuntas']",282,kurang_populer
+1973,"['aset', 'daerah', 'sertifikasi', 'pemkot', 'pemkab', 'malang']",248,kurang_populer
+1974,"['covid', 'kabupaten', 'malang', 'tinggi', 'empat', 'sejatim']",300,kurang_populer
+1975,"['catat', 'tanggal', 'universitas', 'widyagama', 'gelar', 'vaksinasi', 'booster', 'massal']",253,kurang_populer
+1976,"['cerita', 'rizky', 'dwi', 'febrianto', 'cepat', 'sembuh', 'cedera']",297,kurang_populer
+1977,"['mirama', 'fashion', 'runway', 'tanda', 'luncur', 'coffee', 'cafe', 'grand', 'mercure', 'malang']",311,kurang_populer
+1978,"['mendag', 'tegas', 'subsidi', 'minyak', 'goreng', 'curah', 'sasar', 'pasar']",301,kurang_populer
+1979,"['wujud', 'smart', 'citytp', 'pkk', 'pemkot', 'malang', 'launching', 'sam', 'gepun', 'basa']",265,kurang_populer
+1980,"['britama', 'fstvl', 'hadir', 'agam', 'hadiah', 'kendara', 'listrik', 'asli', 'indonesia']",167,kurang_populer
+1981,"['mentas', 'sosok', 'panji', 'suroso', 'tanda', 'bangkit', 'seni', 'taman', 'krida', 'budaya']",260,kurang_populer
+1982,"['edar', 'sabusabupedagang', 'buah', 'pasar', 'balen', 'ancam', 'penjara']",298,kurang_populer
+1983,"['indonesia', 'singapura', 'erat', 'kerja', 'pariwisata', 'transisi', 'energi']",327,kurang_populer
+1984,"['wali', 'kota', 'malang', 'resmi', 'rumah', 'restorative', 'justice', 'orooro', 'dowo']",162,kurang_populer
+1985,"['tema', 'logo', 'resmi', 'hut', 'kota', 'malang', 'resmi', 'dilaunching']",155,kurang_populer
+1986,"['pt', 'goto', 'gojek', 'tokopedia', 'tbk', 'umum', 'ipo', 'harga', 'saham', 'rp']",171,kurang_populer
+1987,"['tuai', 'hasil', 'transformasi', 'digital', 'nilai', 'transaksi', 'bri', 'tumbuh']",288,kurang_populer
+1988,"['bal', 'united', 'vs', 'arema', 'fc', 'laga', 'krusial', 'buru', 'juara', 'liga']",164,kurang_populer
+1989,"['gercep', 'bpjamsostek', 'santun', 'tanggung', 'awat', 'korban', 'pltp', 'dieng']",249,kurang_populer
+1990,"['digrojok', 'rp', 'jalan', 'area', 'gor', 'muluslus']",160,kurang_populer
+1991,"['mendag', 'pantau', 'langsung', 'produksi', 'migor', 'distribusi', 'masyarakat']",338,kurang_populer
+1992,"['perintah', 'ambil', 'selesai', 'air', 'asia', 'aiww']",295,kurang_populer
+1993,"['kirim', 'uang', 'antarnegara', 'tukar', 'valas', 'beli', 'tiket', 'praktis', 'pakai', 'brimo']",296,kurang_populer
+1994,"['ngebut', 'kota', 'mobil', 'ajar', 'tabrak', 'kendara', 'loncat', 'median']",247,kurang_populer
+1995,"['warga', 'sungai', 'kutuk', 'bebas', 'limbah', 'rumah', 'tangga']",290,kurang_populer
+1996,"['kota', 'batu', 'stok', 'vaksin', 'booster', 'habis', 'februari']",231,kurang_populer
+1997,"['dandim', 'forpimda', 'damping', 'menko', 'pmk', 'tinjau', 'lokasi', 'ungsi', 'relokasi']",335,kurang_populer
+1998,"['bootcamp', 'planet', 'umkm', 'ajang', 'efektif', 'hilir', 'produk', 'kampus', 'masyarakat']",247,kurang_populer

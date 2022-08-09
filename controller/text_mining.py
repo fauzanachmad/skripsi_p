@@ -27,3 +27,26 @@ def find():
     response.headers['Access-Control-Allow-Origin'] = '*'
     return response
 
+
+def confusion_get():
+    try:
+        testing = Testing()
+        results = testing.confusion_matrix()
+
+        response = Response(json.dumps(str(results)), 201, mimetype="application/json")
+    except jsonschema.exceptions.ValidationError as exc:
+        response = Response(error_message_helper(exc.message), 400, mimetype="application/json")
+    response.headers['Access-Control-Allow-Origin'] = '*'
+    return response
+
+
+def classification_get():
+    try:
+        testing = Testing()
+        results = testing.classification_report()
+
+        response = Response(json.dumps(str(results)), 201, mimetype="application/json")
+    except jsonschema.exceptions.ValidationError as exc:
+        response = Response(error_message_helper(exc.message), 400, mimetype="application/json")
+    response.headers['Access-Control-Allow-Origin'] = '*'
+    return response
